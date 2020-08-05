@@ -1,0 +1,23 @@
+{
+    "env": {
+        "browser": true,
+        "es2020": true
+    },
+    "extends": [
+        "standard",
+        "plugin:react/recommended"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 11,
+        "ecmaFeatures": {
+          "jsx": true
+        },
+        "sourceType": "module"
+    },
+    "rules": {
+      "semi": ["error", "always", { "omitLastInOneLineBlock": true }],
+      "brace-style": ["error", "stroustrup", { "allowSingleLine": true }] ,
+      "react/jsx-uses-react": "error",
+      "react/jsx-uses-vars": "error"
+    }  
+}
