@@ -1,25 +1,25 @@
-import React from "react"
-import { Link, graphql } from "gatsby"
+import React from "react";
+import { Link, graphql } from "gatsby";
 
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import CategoryCard from "../components/categoryCard"
-// import SEO from "../components/seo"
+import Bio from "../components/bio";
+import Layout from "../components/layout";
+import SEO from "../components/seo";
 import "../fonts/AnticSlab/antic-font.scss";
 import "../fonts/photograph-signature/photograph-signature.scss";
-import "../styles/override-ant-desing.scss"
+import "../styles/override-ant-desing.scss";
+import { rhythm } from "../utils/typography";
+import queryString from 'query-string';
 
-const Index = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata.title
-  const posts = data.allMarkdownRemark.edges
-  console.log (data);
+const AllPost = ({ data, location }) => {
+  console.log('----data', data);
+  const siteTitle = data.site.siteMetadata.title;
+  const posts = data.allMarkdownRemark.edges;
+  const params = location.search ? queryString.parse(location.search) : {};
+  const category = params.category;
 
   return (
     <Layout location={location} title={siteTitle}>
-      <div >
-        <CategoryCard></CategoryCard>
-      </div>
-      {/* <SEO title="All posts" />
+      <SEO title="All post by category" />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
@@ -36,17 +36,16 @@ const Index = ({ data, location }) => {
             </section>
           </article>
         )
-      })} */}
-
+      })}
       <Bio />
     </Layout>
   )
 }
 
-export default Index
+export default AllPost;
 
 export const pageQuery = graphql`
-  query {
+  query ($categories: String) {
     site {
       siteMetadata {
         title
@@ -55,7 +54,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(filter: {frontmatter: {categories: {eq: $categories}}}, sort: { fields: [frontmatter___date], order: DESC }) {
       edges {
         node {
           excerpt
@@ -66,6 +65,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            categories
           }
         }
       }

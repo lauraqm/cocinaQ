@@ -1,7 +1,7 @@
 ---
 title: Albóndigas en salsa de tomate
 description: Deliciosas albóndigas en salsa de tomate estilo costarricense
-categories: Plato fuerte
+categories: Adobe
 tags: Costa Rica, costarricense, salsa, albóndigas, carne molida
 date: "2020-08-04T22:12:03.284Z"
 ---

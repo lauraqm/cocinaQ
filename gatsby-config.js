@@ -86,5 +86,25 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sass`,
     },
+    {
+      resolve: 'gatsby-plugin-antd',
+      options: {
+        style: true
+      }
+    },
+    {
+      resolve: 'gatsby-plugin-less',
+      options: {
+        lessOptions: {
+          modifyVars: {
+            'primary-color': '#4F9A30',
+            'link-color': '#4F9A30',
+            'success-color': '#1fdba6',
+            
+          },
+          javascriptEnabled: true,
+        },
+      },
+    },
   ],
 }

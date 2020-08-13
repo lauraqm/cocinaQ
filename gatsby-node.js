@@ -1,42 +1,59 @@
-const path = require(`path`)
-const { createFilePath } = require(`gatsby-source-filesystem`)
+const path = require(`path`);
+const _ = require("lodash");
+const { createFilePath } = require(`gatsby-source-filesystem`);
 
-exports.createPages = async ({ graphql, actions }) => {
-  const { createPage } = actions
+exports.createPages = async ({ actions, graphql, reporter }) => {
+  const { createPage } = actions;
 
-  const blogPost = path.resolve(`./src/templates/blog-post.js`)
+  const blogPost = path.resolve(`./src/templates/blog-post.js`);
+  // This GraphQL query is used to retrieve the list of posts to generate blog-posts using the blog-post.js template
+
+  const categoryTemplate = path.resolve("src/templates/tags.js");
+
   const result = await graphql(
     `
       {
-        allMarkdownRemark(
-          limit: 1000
-        ) {
+        postsRemark: allMarkdownRemark(limit: 2000) {
           edges {
             node {
               fields {
                 slug
               }
               frontmatter {
-                title
+                tags
+              }
+            }
+          }
+        }
+        categoryGroup: allMarkdownRemark(limit: 2000) {
+          group(field: frontmatter___categories) {
+            fieldValue
+            totalCount
+            edges {
+              node {
+                fields {
+                  slug
+                }
+                frontmatter {
+                  tags
+                }
               }
             }
           }
         }
       }
     `
-  )
+  );
 
   if (result.errors) {
-    throw result.errors
+    throw result.errors;
   }
 
   // Create blog posts pages.
-  const posts = result.data.allMarkdownRemark.edges
-
+  const posts = result.data.postsRemark.edges;
   posts.forEach((post, index) => {
-    const previous = index === posts.length - 1 ? null : posts[index + 1].node
-    const next = index === 0 ? null : posts[index - 1].node
-
+    const previous = index === posts.length - 1 ? null : posts[index + 1].node;
+    const next = index === 0 ? null : posts[index - 1].node;
     createPage({
       path: post.node.fields.slug,
       component: blogPost,
@@ -44,20 +61,34 @@ exports.createPages = async ({ graphql, actions }) => {
         slug: post.node.fields.slug,
         previous,
         next,
+        categories: post.node.categories,
       },
-    })
-  })
-}
+    });
+  });
+
+  // Extract tag data from query
+  const categories = result.data.categoryGroup.group;
+  // Make tag pages
+  categories.forEach((cat) => {
+    createPage({
+      path: `/categories/${_.kebabCase(cat.fieldValue)}/`,
+      component: categoryTemplate,
+      context: {
+        category: cat.fieldValue,
+      },
+    });
+  });
+};
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
+  const { createNodeField } = actions;
 
   if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
+    const value = createFilePath({ node, getNode });
     createNodeField({
       name: `slug`,
       node,
       value,
-    })
+    });
   }
-}
+};

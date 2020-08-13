@@ -1,0 +1,14 @@
+@import '../styles/base.scss';
+
+body {
+  font-family: 'antic-slab';
+  
+ .ant-menu-submenu-popup .ant-menu{
+    background-color: $secundary-color;
+    color: white;
+    .ant-menu-item-active {
+      background-color: $primary-color;
+      color: white;
+    }
+  }
+}
