@@ -3,38 +3,40 @@ import PropTypes from "prop-types";
 
 // Components
 import { Link, graphql } from "gatsby";
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Bio from "../components/bio";
+import Layout from "../components/layout";
+import groupBy from "lodash/groupBy";
 
-const Tags = ({ pageContext, data }) => {
+
+const sortArrayByProperty = (array, property) => {
+  return array.sort((a, b) => {
+    return b[property] - a[property];
+  });
+}
+
+const Tags = ({ pageContext, data, location }) => {
+  const siteTitle = data.site.siteMetadata.title;
   const { category } = pageContext;
-  const { edges, totalCount } = data.allMarkdownRemark;
-  const tagHeader = `${totalCount} post${
-    totalCount === 1 ? "" : "s"
-  } tagged with "${category}"`;
+  const { edges } = data.allMarkdownRemark;
 
+  //Group by first letter
+  const groupByLetter = groupBy(edges, 'node.frontmatter.title[0]');
+  console.log(groupByLetter);
+  console.log ('First:::' , groupByLetter.A);
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO
-        title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
-      />
-      <div>
-        <h1>{tagHeader}</h1>
-        <ul>
-          {edges.map(({ node }) => {
-            const { slug } = node.fields;
-            const { title } = node.frontmatter;
-            return (
-              <li key={slug}>
-                <Link to={slug}>{title}</Link>
-              </li>
-            );
-          })}
-        </ul>
-        <Link to="/categories">All tags</Link>
-      </div>
+      {edges.map(({ node }) => {
+        const { slug } = node.fields;
+        const { title } = node.frontmatter;
+        return (
+          <div key={slug}>
+            <Link to={slug}>{title}</Link>
+          </div>
+        );
+      })}
+
+      <Link to="/categories">All tags</Link>
+
       <footer>
         <Bio />
       </footer>
@@ -44,7 +46,7 @@ const Tags = ({ pageContext, data }) => {
 
 Tags.propTypes = {
   pageContext: PropTypes.shape({
-    tag: PropTypes.string.isRequired,
+    tag: PropTypes.string,
   }),
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
@@ -69,9 +71,14 @@ export default Tags;
 
 export const pageQuery = graphql`
   query($category: String) {
+    site {
+      siteMetadata {
+        title
+      }
+    }
     allMarkdownRemark(
       limit: 2000
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___title], order: ASC }
       filter: { frontmatter: { categories: { eq: $category } } }
     ) {
       totalCount
