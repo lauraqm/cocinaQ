@@ -1,12 +1,10 @@
 ---
 title: Arroz con pollo
-description: Arroz con pollo costarricense
-categories: Plato fuerte
-tags: Costa Rica, costarricense, pollo, arroz
-date: "2020-08-04T22:12:03.284Z"
+description: Arroz con pollo estilo costarricense
+categories: Platos fuertes
+tags: Costa Rica, costarricense, Plato fuerte, tradicional
+date: "2020-08-13T22:12:03.284Z"
 ---
-
-# Arroz con pollo
 
 ## Ingredientes:
 

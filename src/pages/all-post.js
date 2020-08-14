@@ -10,6 +10,7 @@ import "../styles/override-ant-desing.scss";
 import { rhythm } from "../utils/typography";
 import queryString from 'query-string';
 
+
 const AllPost = ({ data, location }) => {
   console.log('----data', data);
   const siteTitle = data.site.siteMetadata.title;

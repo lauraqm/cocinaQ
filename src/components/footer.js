@@ -49,7 +49,6 @@ const Footer = () => {
 
   return (
     <footer>
-      <div className="line"></div>
       <div className="legend">
         <div className="media">{mediaPanel}</div>
         <div className="rigths">

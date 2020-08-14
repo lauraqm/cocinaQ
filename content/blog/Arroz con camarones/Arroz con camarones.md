@@ -1,22 +1,20 @@
 ---
 title: Arroz con camarones
 description: Arroz con camarones estilo costarricense
-categories: Plato fuerte
+categories: Platos fuertes
 tags: Costa Rica, costarricense, camarones, arroz
 date: "2020-08-04T22:12:03.284Z"
 ---
 
-# Arroz con camarones
-
 Porción para 2 personas
 
-## Ingredientes:
+## Ingredientes
 
 - 15-20 camarones pequeños precocidos (se ven rosaditos generalmente se pueden conseguir en Wallmart los paquetes congelados)
 
 Descongelar y adobar como se indica aquí:
 
-[Adobes ](https://www.notion.so/Adobes-4c61df92a4b64357801ad1f68a71e99f)
+[Adobes](https://www.notion.so/Adobes-4c61df92a4b64357801ad1f68a71e99f)
 
 - Arroz blanco cocinado previamente (ojalá del día anterior)
 - Culantro, chile, cebolla
@@ -28,15 +26,15 @@ Descongelar y adobar como se indica aquí:
 - Sal
 - 2 ajos picados finitos
 
-## Indicaciones:
+## Indicaciones
 
 1. En un sartén anti-adherente poner 1 cucharada de mantequilla.
 2. Esperar a que se derrita, y posteriormente poner los ajos picados bien finitos, la cebolla, el chile y el culantro.
 3. Sofreír bien estos olores y agregar los camarones y el maíz dulce bien escurrido.
 4. Poner el achiote y el consomé de camarón.
 5. Esperar a que se cocinen los camarones.
-6. Agregar arroz previamente cocinado. 
-7. Mezclar bien para que todo el arroz quede con achiote. 
+6. Agregar arroz previamente cocinado.
+7. Mezclar bien para que todo el arroz quede con achiote.
 8. Sofreír por un tiempito.
 9. Cuando esté listo se agregan los cebollinos picados bien finitos y un poquito de hojitas de culantro finamente picadas.
 10. Listo.

@@ -4,11 +4,10 @@ const { createFilePath } = require(`gatsby-source-filesystem`);
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions;
-
+  // This GraphQL query is used to retrieve the list of posts 
   const blogPost = path.resolve(`./src/templates/blog-post.js`);
-  // This GraphQL query is used to retrieve the list of posts to generate blog-posts using the blog-post.js template
-
-  const categoryTemplate = path.resolve("src/templates/tags.js");
+  // This GraphQL query is used to retrieve the list of categories to generate 
+  const categoryTemplate = path.resolve("./src/templates/category.js");
 
   const result = await graphql(
     `
@@ -28,17 +27,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
         categoryGroup: allMarkdownRemark(limit: 2000) {
           group(field: frontmatter___categories) {
             fieldValue
-            totalCount
-            edges {
-              node {
-                fields {
-                  slug
-                }
-                frontmatter {
-                  tags
-                }
-              }
-            }
           }
         }
       }

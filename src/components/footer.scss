@@ -3,15 +3,7 @@
 footer {
   height: 100px;
   width: 100%;
-  background-color: $secundary-color;
-  color: $secundary-text;
 
-  .line {
-      border-bottom: 4px double #FFFFFF;
-      width: 100%;
-      padding-top: 5px;
-      opacity: 0.3;
-  }
   .legend {
     display: flex;
     flex-wrap: wrap;
@@ -22,7 +14,7 @@ footer {
 
     img {
       height: 25px;
-      margin-top: 5px;
+      margin-top: 15px;
       margin-left: 10px;
     }
 

@@ -2,13 +2,11 @@ import React from "react";
 import { rhythm} from "../utils/typography";
 import Header from './header';
 import Footer from './footer';
-import './layout.scss';
 
 const Layout = ({ location, title, children }) => {
   
   return (
     <React.Fragment>
-    <div className='preheader'></div>
     <div
       style={{
         marginLeft: `auto`,
