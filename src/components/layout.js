@@ -1,7 +1,7 @@
 import React from "react";
 import { rhythm} from "../utils/typography";
 import Header from './header';
-import Footer from './footer';
+import CustomFooter from './footer';
 
 const Layout = ({ location, title, children }) => {
   
@@ -20,7 +20,7 @@ const Layout = ({ location, title, children }) => {
     </header>
     <main>{children}</main>
     </div>
-    <Footer></Footer>
+    <CustomFooter></CustomFooter>
     </React.Fragment>
   );
 };

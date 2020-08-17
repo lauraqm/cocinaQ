@@ -1,13 +1,14 @@
 const path = require(`path`);
 const _ = require("lodash");
 const { createFilePath } = require(`gatsby-source-filesystem`);
+const { createRemoteFileNode } = require("gatsby-source-filesystem")
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions;
   // This GraphQL query is used to retrieve the list of posts 
   const blogPost = path.resolve(`./src/templates/blog-post.js`);
   // This GraphQL query is used to retrieve the list of categories to generate 
-  const categoryTemplate = path.resolve("./src/templates/category.js");
+  const categoryTemplate = path.resolve("./src/templates/category-list.js");
 
   const result = await graphql(
     `
@@ -20,6 +21,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
               }
               frontmatter {
                 tags
+                featuredImgAlt
+                featuredImgUrl
               }
             }
           }
@@ -70,7 +73,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
-
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode });
     createNodeField({
@@ -79,4 +81,6 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       value,
     });
   }
+
 };
+

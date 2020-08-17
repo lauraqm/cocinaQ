@@ -10,7 +10,12 @@ class CategoryCard extends React.Component {
 
 
   handleClick = (title) => {
-    navigate(`/categories/${kebabCase(title)}/`); 
+    if (title === 'Adobes') {
+      navigate(`/Adobes/Adobes/`);
+    }
+    else {
+      navigate(`/categories/${kebabCase(title)}/`); 
+    }
   }
 
   createCard = (cardData) =>{

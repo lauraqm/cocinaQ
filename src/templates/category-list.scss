@@ -1,0 +1,37 @@
+@import '../styles/base.scss';
+
+.recipe-index{
+  column-count: 2;
+  break-inside: avoid;
+
+  @media only screen and (max-width: 450px) {
+    column-count: 1;
+  }
+
+  .alphabeth-container {
+    .index-letter {
+      font-size: xx-large;  
+      font-weight: 800;
+      color: $recipe-title;
+    }
+    .recipe-title {
+      margin-bottom: 10px;
+      
+      a {
+        box-shadow: 0 0 0 0;
+      }
+
+      :hover {
+        color: $alternative-text;
+      }
+    }
+
+    div:last-child {
+      margin-bottom: 50px;
+    }
+   
+  }
+
+  
+
+}

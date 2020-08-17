@@ -6,12 +6,22 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography";
 import './blog-post.scss';
+import GatsbyImage from "gatsby-image";
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
 
+  let image = null;
+  if (post.frontmatter.featuredImgUrl) {
+    image = (
+      <div>
+        <GatsbyImage src={post.frontmatter.featuredImgUrl}></GatsbyImage>
+      </div>
+      );
+  }
+  
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
@@ -39,15 +49,11 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               {post.frontmatter.date}
             </p>
           </header>
+          {image}
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
-          <hr
-            style={{
-              marginBottom: rhythm(1),
-            }}
+          <hr style={{ marginBottom: rhythm(1)}}
           />
-          <footer>
-            <Bio />
-          </footer>
+          <Bio />
         </article>
       </div>
 
@@ -98,6 +104,8 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        featuredImgAlt
+        featuredImgUrl
       }
     }
   }

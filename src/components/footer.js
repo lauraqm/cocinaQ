@@ -2,7 +2,7 @@ import "./footer.scss";
 import React from "react";
 import { useStaticQuery, graphql } from "gatsby";
 
-const Footer = () => {
+const CustomFooter = () => {
   const mediaData = useStaticQuery(graphql`
     query mediaQuery {
       facebook: file(absolutePath: { regex: "/facebook-media.svg/" }) {
@@ -61,4 +61,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default CustomFooter;
