@@ -7,11 +7,13 @@ import { Link, graphql } from "gatsby";
 import Bio from "../components/bio";
 import Layout from "../components/layout";
 import groupBy from "lodash/groupBy";
+import GatsbyImage from "gatsby-image";
 
 const CategoryList = ({ pageContext, data, location }) => {
   const siteTitle = data.site.siteMetadata.title;
   const { category } = pageContext;
   const { edges } = data.allMarkdownRemark;
+
 
   //Group by first letter
   const groupByLetter = groupBy(edges, "node.frontmatter.title[0]");
@@ -99,6 +101,6 @@ export const pageQuery = graphql`
           }
         }
       }
-    }
+    }  
   }
 `;

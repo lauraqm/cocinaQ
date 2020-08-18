@@ -13,6 +13,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const siteTitle = data.site.siteMetadata.title;
   const { previous, next } = pageContext;
 
+  const images = data.allCloudinaryMedia.edges;
+  console.log(images);
+
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
@@ -29,12 +32,12 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               {post.frontmatter.date}
             </p>
           </header>
-          <Img
+          {/* <Img
               className='featured-image'
               fixed={data.markdownRemark.featuredImg.childImageSharp.fixed}
               alt={data.markdownRemark.frontmatter.featuredImgAlt}
               style={{position: 'relative', height: '150px', width: '150px'}}
-            />
+            /> */}
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
           <hr style={{ marginBottom: rhythm(1) }} />
           <Bio />
@@ -67,7 +70,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </li>
         </ul>
       </nav>
-      
     </Layout>
 
 
@@ -78,7 +80,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 export default BlogPostTemplate;
 
 export const pageQuery = graphql`
-  query BlogPostBySlug($slug: String!) {
+  query BlogPostBySlug($slug: String!, $folder: String!) {
     site {
       siteMetadata {
         title
@@ -95,12 +97,11 @@ export const pageQuery = graphql`
         featuredImgAlt
         featuredImgUrl
       }
-      featuredImg {
-        sourceInstanceName
-        childImageSharp {
-          fixed(width: 600) {
-            src
-          }
+    }
+    allCloudinaryMedia(filter: {public_id: { regex: $folder}}) {
+      edges {
+        node {
+          secure_url
         }
       }
     }
