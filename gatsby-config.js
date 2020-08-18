@@ -5,7 +5,7 @@ module.exports = {
       name: `Laura Quesada`,
       summary: `costarricense amante de la comida 
       y el buen comer! Adoro compartir recetas con mis
-      amigos y familia, la idea de este recetariocomo yo
+      amigos y familia, la idea de este recetario como yo
       lo llamo, es para poder llevar mi pasión por la cocina
       con mas personas. La mayoria de recetas que
       encontraremos aqui son una fusión de comida típica

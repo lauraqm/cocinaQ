@@ -1,58 +1,42 @@
-import React from "react"
-import { Link, graphql } from "gatsby"
+import React from "react";
+import { Link, graphql } from "gatsby";
 
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Bio from "../components/bio";
+import Layout from "../components/layout";
+import SEO from "../components/seo";
 import { rhythm, scale } from "../utils/typography";
-import './blog-post.scss';
-import GatsbyImage from "gatsby-image";
+import "./blog-post.scss";
+import Img from "gatsby-image";
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
-  const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata.title
-  const { previous, next } = pageContext
+  const post = data.markdownRemark;
+  const siteTitle = data.site.siteMetadata.title;
+  const { previous, next } = pageContext;
 
-  let image = null;
-  if (post.frontmatter.featuredImgUrl) {
-    image = (
-      <div>
-        <GatsbyImage src={post.frontmatter.featuredImgUrl}></GatsbyImage>
-      </div>
-      );
-  }
-  
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <div className='blog-post'>
+      <div className="blog-post">
         <article>
           <header>
-            <h1
-              style={{
-                marginTop: rhythm(1),
-                marginBottom: 0,
-              }}
-            >
+            <h1 style={{ marginTop: rhythm(1),marginBottom: 0}}>
               {post.frontmatter.title}
             </h1>
-            <p className="date"
-              style={{
-                ...scale(-1 / 5),
-                display: `block`,
-                marginBottom: rhythm(1),
-              }}
-            >
+            <p className="date" style={{...scale(-1 / 5), display: `block`,marginBottom: rhythm(1)}}>
               {post.frontmatter.date}
             </p>
           </header>
-          {image}
+          <Img
+              className='featured-image'
+              fixed={data.markdownRemark.featuredImg.childImageSharp.fixed}
+              alt={data.markdownRemark.frontmatter.featuredImgAlt}
+              style={{position: 'relative', height: '150px', width: '150px'}}
+            />
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
-          <hr style={{ marginBottom: rhythm(1)}}
-          />
+          <hr style={{ marginBottom: rhythm(1) }} />
           <Bio />
         </article>
       </div>
@@ -83,9 +67,13 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </li>
         </ul>
       </nav>
+      
     </Layout>
-  )
-}
+
+
+
+  );
+};
 
 export default BlogPostTemplate;
 
@@ -107,6 +95,14 @@ export const pageQuery = graphql`
         featuredImgAlt
         featuredImgUrl
       }
+      featuredImg {
+        sourceInstanceName
+        childImageSharp {
+          fixed(width: 600) {
+            src
+          }
+        }
+      }
     }
   }
-`
+`;

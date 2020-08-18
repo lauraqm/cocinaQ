@@ -71,8 +71,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   });
 };
 
-exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions;
+exports.onCreateNode = async ({ node, actions, getNode, store,cache,createNodeId, }) => {
+  const { createNodeField, createNode } = actions;
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode });
     createNodeField({
@@ -82,5 +82,36 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     });
   }
 
+  if (node.internal.type === "MarkdownRemark" && node.frontmatter.featuredImgUrl !== null) {
+    let fileNode = await createRemoteFileNode({
+      url: node.frontmatter.featuredImgUrl, // string that points to the URL of the image
+      parentNodeId: node.id, // id of the parent node of the fileNode you are going to create
+      createNode, // helper function in gatsby-node to generate the node
+      createNodeId, // helper function in gatsby-node to generate the node id
+      cache, // Gatsby's cache
+      store, // Gatsby's redux store
+    })
+    // if the file was created, attach the new node to the parent node
+    if (fileNode) {
+      node.featuredImg___NODE = fileNode.id
+    }
+  }
+
 };
+
+
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions
+  createTypes(`
+    type MarkdownRemark implements Node {
+      frontmatter: Frontmatter
+      featuredImg: File @link(from: "featuredImg___NODE")
+    }
+    type Frontmatter {
+      title: String!
+      featuredImgUrl: String
+      featuredImgAlt: String
+    }
+  `)
+}
 
