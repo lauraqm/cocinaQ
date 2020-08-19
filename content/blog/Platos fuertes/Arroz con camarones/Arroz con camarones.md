@@ -10,11 +10,7 @@ Porción para 2 personas
 
 ## Ingredientes
 
-- 15-20 camarones pequeños precocidos (se ven rosaditos generalmente se pueden conseguir en Wallmart los paquetes congelados)
-
-Descongelar y adobar como se indica aquí:
-
-[Adobes](https://www.notion.so/Adobes-4c61df92a4b64357801ad1f68a71e99f)
+- 15-20 camarones pequeños precocidos (se ven rosaditos generalmente se pueden conseguir en Wallmart los paquetes congelados). Descongelar y adobar como se indica aquí: [Adobes ](/Adobes/Adobes/)
 
 - Arroz blanco cocinado previamente (ojalá del día anterior)
 - Culantro, chile, cebolla
@@ -46,5 +42,3 @@ Acompañar con papas a la francesa o tostadas, frijoles molidos  y con alguna de
 [Ensalada Rusa](https://www.notion.so/Ensalada-Rusa-9bafa8bd2e1945458bb60886820c2f74)
 
 [Ensalada tropical](https://www.notion.so/Ensalada-tropical-383a610c27fc4bd99907ea32792b9a10)
-
-![Arroz%20con%20camarones%204db6cb247c1c4d2b93de933806651ae0/20200621_201058-01.jpeg](Arroz%20con%20camarones%204db6cb247c1c4d2b93de933806651ae0/20200621_201058-01.jpeg)

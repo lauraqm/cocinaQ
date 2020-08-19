@@ -8,9 +8,7 @@ date: "2020-08-13T22:12:03.284Z"
 
 ## Ingredientes:
 
-- Pechuga de pollo  adobada con Color y Sabor como se indica aquí
-
-[Adobes ](Arroz%20con%20pollo%201918e6da4d9c40119a09944f12da89dd/Adobes%201b98116dc9994a97946828bb6a25e671.md)
+- Pechuga de pollo  adobada con Color y Sabor como se indica aquí: [Adobes](/Adobes/Adobes/)
 
 - Arroz blanco cocinado previamente (ojalá del día anterior)
 - 2 ajos

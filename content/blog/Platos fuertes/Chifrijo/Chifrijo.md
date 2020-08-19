@@ -7,7 +7,7 @@ date: "2020-08-13T22:12:03.284Z"
 ---
 ## Ingredientes:
 
-- Chicharrones previamente cocinados (unos 4-5 grandes por persona)
+- Chicharrones previamente cocinados (unos 4-5 grandes por persona) 
 - Arroz blanco previamente cocinado.
 - Frijoles previamente cocinados, pueden ser charros, bayos, o frijoles kidney (rojos que son mas grandecitos de lo normal). Para mayor facilidad se pueden comprar en lata (ver foto de los recomendados). Se necesita aproximadamente 3/4 de taza por persona, de manera que si se compran en lata de 290 gramos, cada lata alcanza para 2 personas.
 - Tomates (1 tomate pequeño por cada persona)
@@ -26,9 +26,7 @@ Hacer el pico de gallo con los olores picados, el tomate y el limón. Como se in
 
 [Pico de gallo](https://www.notion.so/Pico-de-gallo-ee74193811664ecf9718f428a8720f6e)
 
-Los chicharrones ya deben estar cocinados y pueden reutilizarse chicharrones añejos también. Ver la receta aquí
-
-[Chicharrones ](Chicharrones%20339b1261f4bc462ca8ed26dba5441a10.md)
+Los chicharrones ya deben estar cocinados y pueden reutilizarse chicharrones añejos también. [Ver receta aquí](/Platos fuertes/Chicharrones/Chicharrones/)
 
 Una vez que tenemos los frijoles, el pico de gallo y los chicharrones procedemos a hacer el chifrijo de la siguiente forma:
 

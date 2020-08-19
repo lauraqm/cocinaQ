@@ -35,18 +35,16 @@ De esta receta existen 2 versiones: La que se hace como ensalada y la que se hac
 9. Agregar croutones.
 10. Servir.
 
-![Caracoles%20rellenos%204a1e38fb7a7a4e4982432035dfe079cc/IMG_20160214_162041105.jpg](Caracoles%20rellenos%204a1e38fb7a7a4e4982432035dfe079cc/IMG_20160214_162041105.jpg)
-
 ## Versión al horno
 
 ## Ingredientes:
 
 - Caracoles
-- Carne molida
+- Carne molida adobada como se indica aquí: [Adobes ](/Adobes/Adobes/)
 - Salsa de tomate Prego o Naturas (ojo que se necesita en varias partes de la receta)
-- Queso pizzero.
+- Queso pizzero
 - Queso parmesano
-- Chile culantro y cebolla.
+- Chile culantro y cebolla
 
 ## Indicaciones:
 
@@ -62,5 +60,3 @@ De esta receta existen 2 versiones: La que se hace como ensalada y la que se hac
 10. Llevar al horno a 350º durante 30 min.
 11. Luego poner la función de dorar y dorar por unos 5 min o hasta que el queso de encima se dore.
 12. Servir y espolvorear queso parmesano por encima.
-
-![Caracoles%20rellenos%204a1e38fb7a7a4e4982432035dfe079cc/Untitled.png](Caracoles%20rellenos%204a1e38fb7a7a4e4982432035dfe079cc/Untitled.png)

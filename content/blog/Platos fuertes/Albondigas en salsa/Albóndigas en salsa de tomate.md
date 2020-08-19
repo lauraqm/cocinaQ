@@ -11,7 +11,7 @@ date: "2020-08-04T22:12:03.284Z"
 - Masa (maseca) o pan molido.
 - 1 huevo pequeño.
 - 1/2 taza de queso parmesano rallado.
-- Carne molida de res como para 4 bolitas, adobada como se indica aquí
+- Carne molida de res como para 4 bolitas, adobada como se indica aquí [Adobes ](/Adobes/Adobes/)
 - Bastante chile, culantro, cebolla picados.
 - Salsitas de Tomate Naturas o Prego.
 - Opcional: Cuadritos de queso mozarella o alguno que derrita.

@@ -12,10 +12,7 @@ date: "2020-08-13T22:12:03.284Z"
 - 1 puñito de vainicas (unas 12)
 - 1 zanahoria.
 - Cebolla, chile, culantro.
-- Porción de carne molida (250 gramos) abodaba como se indica aquí
-
-[Adobes ](Picadillo%20de%20papa,%20zanahoria%20y%20vainica%207e561306a01d452690032a963de55c70/Adobes%20bc9bfb3d66574d0d8dfc08b6b3cf49d4.md)
-
+- 250 gramos de carne molida, abodaba como se indica aquí: [Adobes ](/Adobes/Adobes/)
 - Achiote o Color y Sabor de Magui
 - Salsa lizano
 - Sal

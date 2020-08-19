@@ -10,7 +10,7 @@ featuredImgAlt: Pizza suprema
 
 ## Ingredientes
 
-Para la pasta:
+###Para la pasta:
 
 - 2.5 tazas de harina
 - 1 cucharadita de azúcar
@@ -22,7 +22,7 @@ Para la pasta:
 - Tazón de vidrio
 - Papel plástico de cocina
 
-Para el relleno:
+###Para el relleno:
 
 - Queso pizzero
 - Salsa de tomate Prego Italiana o tradicional
@@ -31,8 +31,7 @@ Para el relleno:
 - Cebolla
 - Chile dulce
 - Tocineta
-- Opcional:Hongos
-- Opcional: Queso en barritas para hacerle borde de queso
+- Opcional:Hongos y Queso en barritas para hacerle borde de queso
 
 ## Indicaciones
 
@@ -48,10 +47,10 @@ Para el relleno:
 10. Ahora para el relleno se debe cocinar y desmenuzar la carne molida italiana (si es italiana no necesita olores picados, si es molida de res se debe adobar y agregar olores picados)
 11. Cortar la tocineta en cuadritos y cocinar en un sarten, luego escurrir bien toda la grasa (se puede usar incluso un colador de metal)
 12. Picar chile dulce y cebolla en medias rodajas.
-13. Una vez que la pasta ha crecido bastante se debe empezar a amasar y dejar tan delgada como uno prefiera.
+13. Una vez que la pasta ha crecido bastante, espolvorear harina en la mesa y se debe empezar a amasar y dejar tan delgada como uno prefiera con ayuda de un bolillo o una botella.
 14. Luego con ayuda del molde para pizza, cortamos la pasta. Si lleva borde de queso hay que dejar al menos 4 cm de sobra en el borde. Mientras que si no lleva borde de queso con 1 cm basta.
 15. Luego se gira el molde con todo y la pasta y acomodamos la pasta en el molde.
-16. Si se desea borde de queso se ponen las barritas de queso en el borde del molde y se envuelven con los 4 cm restantes. Si es sin borde solo se arrolla un poco el borde para que quede mas grueso. **(Ver video para entender mejor como hacer la pasta y acomodarla en el molde)**
+16. Si se desea borde de queso se ponen las barritas de queso en el borde del molde y se envuelven con los 4 cm de pasta restantes. Si es sin borde solo se arrolla un poco de pasta en el borde para que quede mas grueso.
 17. Agregar salsa Prego con la ayuda del fondo de un cucharón.
 18. Agregar queso rallado.
 19. Agregar el salami o pepperoni
@@ -60,52 +59,4 @@ Para el relleno:
 22. Agregar cebolla y chile dulce al gusto
 23. Hornear por 20 minutos a 350 grados aproximadamente.
 24. Luego dorar por encima a 550 grados durante unos 5 minutos o hasta que se vea cocinada la cebolla y el chile.
-
-[https://www.facebook.com/kiwilimon/videos/1066040253745610/](https://www.facebook.com/kiwilimon/videos/1066040253745610/)
-
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_110349.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_110349.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_111305.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_111305.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_111348.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_111348.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121112.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121112.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121221.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121221.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121328.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121328.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121401.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121401.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121742.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121742.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121648.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121648.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121803.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121803.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121831.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121831.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121852.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_121852.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_122146.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_122146.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_122208.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_122208.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_122235.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_122235.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_123553.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_123553.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_123559.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_123559.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_123645.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_123645.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_123649.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_123649.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_124159.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_124159.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_124416.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_124416.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_124610.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_124610.jpg)
-
-![Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_132512.jpg](Pizza%20suprema%2045cefd163c18488cb86d001a427df096/20200705_132512.jpg)
+25. Cortar en pedazos y servir!

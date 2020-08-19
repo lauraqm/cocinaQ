@@ -28,27 +28,3 @@ date: "2020-08-13T22:12:03.284Z"
 5. Formar tortitas y cocinarlas a fuego medio por ambos lados en un sartén con un poquito de aceite. 
 6. Freír hasta que estén doradas.
 7. Servir!
-
-![Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_183251.jpg](Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_183251.jpg)
-
-![Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_183255.jpg](Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_183255.jpg)
-
-![Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_183302.jpg](Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_183302.jpg)
-
-![Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_184614.jpg](Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_184614.jpg)
-
-![Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_184623.jpg](Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_184623.jpg)
-
-![Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_185127.jpg](Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_185127.jpg)
-
-![Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_185221.jpg](Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_185221.jpg)
-
-![Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_185550.jpg](Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_185550.jpg)
-
-![Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_185606.jpg](Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_185606.jpg)
-
-![Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_190030.jpg](Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_190030.jpg)
-
-![Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_190227.jpg](Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_190227.jpg)
-
-![Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_190459.jpg](Tortitas%20de%20bro%CC%81coli%20o%20coliflor%203a3f1d0bbff2456e8b38dd0a6c2b63cc/20200527_190459.jpg)

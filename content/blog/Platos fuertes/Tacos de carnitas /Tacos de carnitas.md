@@ -14,9 +14,7 @@ En tacos basta con poner carnitas en una tortilla, agregar limón y culantro pic
 
 ## Ingredientes
 
-- Carne de cerdo que tenga bastante grasa intramuscular y piel, por ejemplo la PALETA o HOMBRO del cerdo es ideal, incluso se puede agregar panzada. Lo importante es que sea una carne que sea alta en grasa (luego la olla le sacara la grasa). Es importantísimo el adobe: se debe adobar como se indica aquí para hacer carnitas:
-
-[Adobes](https://www.notion.so/Adobes-4c61df92a4b64357801ad1f68a71e99f)
+- Carne de cerdo que tenga bastante grasa intramuscular y piel, por ejemplo la PALETA o HOMBRO del cerdo es ideal, incluso se puede agregar panzada. Lo importante es que sea una carne que sea alta en grasa (luego la olla le sacara la grasa). Es importantísimo el adobe: se debe adobar como se indica aquí para hacer carnitas: [Adobes](/Adobes/Adobes/)
 
 - Tortillas para tacos
 - Coca cola
@@ -85,59 +83,3 @@ En tacos basta con poner carnitas en una tortilla, agregar limón y culantro pic
 6. Agregamos salsa de aguacate
 7. Agregamos un poquito de culantro
 8. Servimos con limones para que cada quien agregue limón al gusto.
-
-[https://www.gimmesomeoven.com/crispy-slow-cooker-carnitas/](https://www.gimmesomeoven.com/crispy-slow-cooker-carnitas/)
-
-Esta es la apariencia que deben tener las carnitas al finalizar:
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/Untitled.png](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/Untitled.png)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200712_124111.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200712_124111.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200712_112519.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200712_112519.jpg)
-
-Adobe de la carne lleva todo esto
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200711_231838.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200711_231838.jpg)
-
-Paso a paso:
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_110822.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_110822.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_110906.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_110906.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_110916.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_110916.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_110930.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_110930.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_110923.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_110923.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_110938.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_110938.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_121356.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_121356.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_121841.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_121841.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_122021.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_122021.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_122646.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_122646.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_122721.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_122721.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_123109.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_123109.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_123523.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_123523.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_123926.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_123926.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_115019.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_115019.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_114908.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_114908.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_115553.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_115553.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_115643.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_115643.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_115911.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_115911.jpg)
-
-![Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_120141.jpg](Tacos%20de%20carnitas%209560a99cd8df4e9ba7a1d6d99a6ab362/20200731_120141.jpg)

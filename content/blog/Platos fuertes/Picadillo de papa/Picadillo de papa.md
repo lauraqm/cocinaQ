@@ -10,10 +10,7 @@ date: "2020-08-13T22:12:03.284Z"
 
 - 2 Papas grandecitas
 - Cebolla, chile, culantro.
-- Porción de carne molida (250 gramos) abodaba como se indica aquí
-
-[Adobes ](/Adobes/Adobes/)
-
+- 250 gramos de carne molida, abodaba como se indica aquí [Adobes ](/Adobes/Adobes/)
 - Color y sabor de Magui
 - Salsa lizano
 - Sal

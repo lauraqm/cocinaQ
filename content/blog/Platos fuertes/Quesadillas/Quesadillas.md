@@ -46,4 +46,3 @@ Acompañar por una copita de natilla con sal o guacamole y pico de gallo
 
 [Pico de gallo](https://www.notion.so/Pico-de-gallo-ee74193811664ecf9718f428a8720f6e)
 
-![Quesadillas%20a437db31ab644c42b31fdcf174fd3494/Untitled.png](Quesadillas%20a437db31ab644c42b31fdcf174fd3494/Untitled.png)

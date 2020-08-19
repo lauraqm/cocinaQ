@@ -1,8 +1,6 @@
 const path = require(`path`);
 const _ = require("lodash");
 const { createFilePath } = require(`gatsby-source-filesystem`);
-const { createRemoteFileNode } = require("gatsby-source-filesystem");
-const { createRemoteImageNode } = require('gatsby-transformer-cloudinary');
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions;

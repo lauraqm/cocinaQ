@@ -8,10 +8,7 @@ date: "2020-08-13T22:12:03.284Z"
 
 ## Ingredientes:
 
-- Pechuga de pollo  adobada con Color y Sabor como se indica aquí
-
-[Adobes ](/Adobes/Adobes/)
-
+- Pechuga de pollo  adobada con Color y Sabor como se indica aquí: [Adobes ](/Adobes/Adobes/)
 - 2 ajos
 - Culantro, chile, cebolla
 - Color y sabor de Magui o consomé de pollo
@@ -47,35 +44,3 @@ date: "2020-08-13T22:12:03.284Z"
 19. Partir el aguacate en tajaditas o cuadritos, y agregar encima de nuestra sopa.
 20. Servir con tortillas tostadas.
 21. Listo.
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_113615.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_113615.jpg)
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_133742.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_133742.jpg)
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_133822.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_133822.jpg)
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_134006.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_134006.jpg)
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_133859.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_133859.jpg)
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_133911.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_133911.jpg)
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_133942.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_133942.jpg)
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_134032.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_134032.jpg)
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_134146.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_134146.jpg)
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_134328.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_134328.jpg)
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_134411.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_134411.jpg)
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_135152.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_135152.jpg)
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_135426.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_135426.jpg)
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_135501.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_135501.jpg)
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_135559.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_135559.jpg)
-
-![Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_140041.jpg](Sopa%20Azteca%2011d26c0f0abc4896bab69c3899fe12a6/20200608_140041.jpg)

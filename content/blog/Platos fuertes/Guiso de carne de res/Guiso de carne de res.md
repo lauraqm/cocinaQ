@@ -5,11 +5,11 @@ categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
+Excelente opción para todos aquellos que amamos la olla de carne pero a veces no tenemos suficiente tiempo de pelar todas las verduras y esperar a que todas se cocinen a la perfección, esto sabe similar pero solo con papa y zanahoriaya que son las mas fáciles de cocinar.
+
 ## Ingredientes:
 
-- Carne de res para mechar adobada como se indica aquí
-
-[Adobes ](/Adobes/Adobes/)
+- Carne de res para mechar adobada como se indica aquí: [Adobes ](/Adobes/Adobes/)
 
 - 1 papa bien grande
 - 1 zanahoria mediana.
@@ -40,19 +40,3 @@ Nota: en la foto final no se aprecia, pero en el fondo tiene caldo.
 15. Agregar la zanahoria y esperar a que se cocine (que no quede super suave ni dura)
 16. Esperar a que la papa y la zanahoria estén bien cocinadas.
 17. Listo!
-
-![Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_131337.jpg](Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_131337.jpg)
-
-![Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_131532.jpg](Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_131532.jpg)
-
-![Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_131545.jpg](Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_131545.jpg)
-
-![Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_132754.jpg](Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_132754.jpg)
-
-![Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_133525.jpg](Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_133525.jpg)
-
-![Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_133535.jpg](Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_133535.jpg)
-
-![Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_135034.jpg](Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_135034.jpg)
-
-![Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_135054.jpg](Guiso%20de%20carne%20de%20res%200219e00b353443efb3e7468feb70be34/20200603_135054.jpg)

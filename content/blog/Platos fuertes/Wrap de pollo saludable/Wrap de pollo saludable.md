@@ -34,5 +34,3 @@ date: "2020-08-13T22:12:03.284Z"
 13. Ponemos un chorrito de mayonesa.
 14. Cerramos como si fuera un gallito y ponemos en el centro un palillo de dientes para que se sostenga.
 15. Listo!
-
-![Wrap%20de%20pollo%20saludable%201afd958a0fce4c90b8a06ffe4b59be21/Untitled.png](Wrap%20de%20pollo%20saludable%201afd958a0fce4c90b8a06ffe4b59be21/Untitled.png)

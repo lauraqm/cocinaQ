@@ -6,22 +6,18 @@ tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
 
-### Ingredientes:
+### Ingredientes
 
-- 2 fillets de pollo adobado a la mostaza como se indica en los adobes
-
-[Adobes ](/Adobes/Adobes/)
-
-- 1 brocoli
+- 2 fillets de "Pollo mostaza" adobado como se indica aquí: [Adobes](/Adobes/Adobes/)
+- 1/2 brócoli
 - 1/2 paquete de Delicias de Pollo Magui
 - 1 vaso de leche descremada
-- Mantequilla
+- 1 cucharada de Mantequilla
 - Chile dulce y cebolla en rodajas, y luego partidas a la mitad.
 - Culantro picado.
 - 1/2 lata de maíz dulce.
-- 
 
-### Indicaciones:
+### Indicaciones
 
 1. Cortar los filetes de pollo en cuadritos.
 2. Cortar la cebolla y  el chile en rodajas y luego partirlas a la mitad.
@@ -45,21 +41,3 @@ Nota: acompañar con alguna de las siguientes ensaladas:
 [Ensalada verde](https://www.notion.so/Ensalada-verde-b74d28ddcd2544aca595a8a00c068ee4)
 
 [Ensalada verde con fresas](https://www.notion.so/Ensalada-verde-con-fresas-7494cc059bc64450a5d1f84075fbbc24)
-
-![Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_124316.jpg](Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_124316.jpg)
-
-![Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_124349.jpg](Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_124349.jpg)
-
-![Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_124918.jpg](Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_124918.jpg)
-
-![Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_125043.jpg](Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_125043.jpg)
-
-![Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_125049.jpg](Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_125049.jpg)
-
-![Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_125137.jpg](Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_125137.jpg)
-
-![Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_125202.jpg](Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_125202.jpg)
-
-![Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_125711.jpg](Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_125711.jpg)
-
-![Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_125833.jpg](Pollo%20con%20bro%CC%81coli%20en%20salsa%20blanca%207257edcc93e64feab7d4f8b52326c482/20200526_125833.jpg)

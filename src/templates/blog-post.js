@@ -7,14 +7,43 @@ import SEO from "../components/seo";
 import { rhythm, scale } from "../utils/typography";
 import "./blog-post.scss";
 import Img from "gatsby-image";
+import { Collapse } from 'antd';
+
+
+
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark;
   const siteTitle = data.site.siteMetadata.title;
   const { previous, next } = pageContext;
-
+  const { Panel } = Collapse;
   const images = data.allCloudinaryMedia.edges;
-  console.log(images);
+  let gallery;
+
+  //If there are images we will to create a panel for them
+  if (images != null && images.length >0) {
+    let allImages = [];
+    for (var key in images) {
+      let image = images[key];
+      let {secure_url, public_id} = image.node;
+      if (secure_url) {
+        let url = secure_url.replace('q_auto,f_auto', 'c_scale,w_500');
+        allImages.push (
+          <div className='recipe-process-image' key= {`${key}-gallery`}>
+            <img src = {url}></img>
+          </div>
+        );
+      }
+    }
+    gallery = (
+    <Collapse>
+      <Panel header="Ver imágenes del proceso de esta receta" >
+        <h4>{post.frontmatter.title}</h4>
+        {allImages}
+      </Panel>
+    </Collapse>
+    );
+  }
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -32,13 +61,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               {post.frontmatter.date}
             </p>
           </header>
-          {/* <Img
-              className='featured-image'
-              fixed={data.markdownRemark.featuredImg.childImageSharp.fixed}
-              alt={data.markdownRemark.frontmatter.featuredImgAlt}
-              style={{position: 'relative', height: '150px', width: '150px'}}
-            /> */}
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
+          {gallery}
           <hr style={{ marginBottom: rhythm(1) }} />
           <Bio />
         </article>
@@ -71,9 +95,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </ul>
       </nav>
     </Layout>
-
-
-
   );
 };
 
@@ -102,6 +123,7 @@ export const pageQuery = graphql`
       edges {
         node {
           secure_url
+          public_id
         }
       }
     }

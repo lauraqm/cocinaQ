@@ -10,10 +10,7 @@ date: "2020-08-13T22:12:03.284Z"
 
 - Masa o pan molido.
 - 1 huevo pequeño.
-- Carne molida de res o de pollo como para 4 tortas, adobada como se indica aquí
-
-[Adobes ](/Adobes/Adobes/)
-
+- Carne molida de res o de pollo como para 4 tortas, adobada como se indica aquí: [Adobes](/Adobes/Adobes/)
 - En caso de ser de atún, se sustituye la carne por 1 atún en aceite grande y bien escurrido.
 - Chile, culantro, cebolla picados.
 
@@ -31,19 +28,3 @@ date: "2020-08-13T22:12:03.284Z"
 Nota: Acompañar con la siguiente ensalada:
 
 [Ensalada de repollo](https://www.notion.so/Ensalada-de-repollo-87e90436b72d471f8f7372ff8c7d41e8)
-
-Aquí un ejemplo con atún 
-
-![Tortas%20de%20carne,%20pollo%20o%20atun%201b6640ea7f194352bdcdeb5476d46cf2/20200618_194819.jpg](Tortas%20de%20carne,%20pollo%20o%20atun%201b6640ea7f194352bdcdeb5476d46cf2/20200618_194819.jpg)
-
-![Tortas%20de%20carne,%20pollo%20o%20atun%201b6640ea7f194352bdcdeb5476d46cf2/20200618_194945.jpg](Tortas%20de%20carne,%20pollo%20o%20atun%201b6640ea7f194352bdcdeb5476d46cf2/20200618_194945.jpg)
-
-![Tortas%20de%20carne,%20pollo%20o%20atun%201b6640ea7f194352bdcdeb5476d46cf2/20200618_195045.jpg](Tortas%20de%20carne,%20pollo%20o%20atun%201b6640ea7f194352bdcdeb5476d46cf2/20200618_195045.jpg)
-
-![Tortas%20de%20carne,%20pollo%20o%20atun%201b6640ea7f194352bdcdeb5476d46cf2/20200618_195102.jpg](Tortas%20de%20carne,%20pollo%20o%20atun%201b6640ea7f194352bdcdeb5476d46cf2/20200618_195102.jpg)
-
-![Tortas%20de%20carne,%20pollo%20o%20atun%201b6640ea7f194352bdcdeb5476d46cf2/20200618_195205.jpg](Tortas%20de%20carne,%20pollo%20o%20atun%201b6640ea7f194352bdcdeb5476d46cf2/20200618_195205.jpg)
-
-![Tortas%20de%20carne,%20pollo%20o%20atun%201b6640ea7f194352bdcdeb5476d46cf2/20200618_195459.jpg](Tortas%20de%20carne,%20pollo%20o%20atun%201b6640ea7f194352bdcdeb5476d46cf2/20200618_195459.jpg)
-
-![Tortas%20de%20carne,%20pollo%20o%20atun%201b6640ea7f194352bdcdeb5476d46cf2/20200618_200035.jpg](Tortas%20de%20carne,%20pollo%20o%20atun%201b6640ea7f194352bdcdeb5476d46cf2/20200618_200035.jpg)

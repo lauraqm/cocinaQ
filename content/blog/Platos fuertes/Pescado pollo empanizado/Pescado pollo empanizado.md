@@ -43,13 +43,3 @@ Acompañar de alguna de las siguientes ensaladas:
 [Ensalada de tomate y pepino](https://www.notion.so/Ensalada-de-tomate-y-pepino-9a0ca8e8ca1e465f9a0975f038e840c0)
 
 [Pico de gallo](https://www.notion.so/Pico-de-gallo-ee74193811664ecf9718f428a8720f6e)
-
-![Pescado%20pollo%20empanizado%205a0d027ceac84dc89b64dbd077e62fb4/20200620_191635.jpg](Pescado%20pollo%20empanizado%205a0d027ceac84dc89b64dbd077e62fb4/20200620_191635.jpg)
-
-![Pescado%20pollo%20empanizado%205a0d027ceac84dc89b64dbd077e62fb4/20200620_191742.jpg](Pescado%20pollo%20empanizado%205a0d027ceac84dc89b64dbd077e62fb4/20200620_191742.jpg)
-
-![Pescado%20pollo%20empanizado%205a0d027ceac84dc89b64dbd077e62fb4/20200620_191755.jpg](Pescado%20pollo%20empanizado%205a0d027ceac84dc89b64dbd077e62fb4/20200620_191755.jpg)
-
-![Pescado%20pollo%20empanizado%205a0d027ceac84dc89b64dbd077e62fb4/20200620_191758.jpg](Pescado%20pollo%20empanizado%205a0d027ceac84dc89b64dbd077e62fb4/20200620_191758.jpg)
-
-![Pescado%20pollo%20empanizado%205a0d027ceac84dc89b64dbd077e62fb4/20200620_191821.jpg](Pescado%20pollo%20empanizado%205a0d027ceac84dc89b64dbd077e62fb4/20200620_191821.jpg)

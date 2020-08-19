@@ -8,10 +8,7 @@ date: "2020-08-13T22:12:03.284Z"
 
 ## Ingredientes:
 
-- Pechuga de pollo  adobada con Color y Sabor como se indica aquí
-
-[Adobes ](/Adobes/Adobes/)
-
+- Pechuga de pollo "Color y Sabor" como se indica aquí: [Adobes ](/Adobes/Adobes/)
 - 2 ajos
 - Culantro, chile, cebolla
 - Color y sabor de Magui o consomé de pollo

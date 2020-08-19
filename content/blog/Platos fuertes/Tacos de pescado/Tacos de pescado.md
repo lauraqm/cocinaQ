@@ -1,8 +1,8 @@
 ---
 title: Tacos de pescado
-description: Tacos de pescado estilo costarricense
+description: Tacos de pescado estilo baja
 categories: Platos fuertes
-tags: Costa Rica, costarricense, Plato fuerte, tradicional
+tags: Costa Rica, Mexico, Fish Tacos, Baja Fish, Plato fuerte, Tacos
 date: "2020-08-13T22:12:03.284Z"
 ---
 ## Ingredientes:

@@ -11,11 +11,9 @@ Esta receta se puede hacer de dos formas: con pollo en cubitos o con camarones.
 ### Ingredientes
 
 - Pasta de spaguettis
-- Salsa Prego tipo Alfredo
+- Salsa Prego tipo Alfredo (medio tarro)
 - 3 tajaditas de tocineta
-- 1/2 pechuga de pollo adobada como se indica aquí "Pollo con color y sabor" o bien "Camarones al ajillo"
-
-[Adobes ](/Adobes/Adobes/)
+- 1/2 pechuga de pollo "A las hierbas" o "Color y sabor". Tambien se pueden usar "Camarones al ajillo". Adobadar como se indica aquí [Adobes ](/Adobes/Adobes/)
 
 - Chile, culantro, cebolla picados al gusto
 
@@ -38,19 +36,3 @@ Nota: acompañar con alguna de las siguientes ensaladas:
 [Ensalada verde](https://www.notion.so/Ensalada-verde-b74d28ddcd2544aca595a8a00c068ee4)
 
 [Ensalada verde con fresas](https://www.notion.so/Ensalada-verde-con-fresas-7494cc059bc64450a5d1f84075fbbc24)
-
-![Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_124712.jpg](Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_124712.jpg)
-
-![Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_124756.jpg](Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_124756.jpg)
-
-![Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_125200.jpg](Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_125200.jpg)
-
-![Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_125835.jpg](Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_125835.jpg)
-
-![Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_125838.jpg](Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_125838.jpg)
-
-![Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_125902.jpg](Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_125902.jpg)
-
-![Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_125951.jpg](Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_125951.jpg)
-
-![Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_130345.jpg](Pasta%20carbonara%207143cdb509a74a218a0a42e684bfeb2f/20200521_130345.jpg)

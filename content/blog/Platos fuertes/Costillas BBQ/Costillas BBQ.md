@@ -8,10 +8,7 @@ date: "2020-08-13T22:12:03.284Z"
 
 ### Ingredientes:
 
-- Rack de costillas de cerdo trozeadas en porciones personales y adobadas como se indica aquí
-
-[Adobes ](/Adobes/Adobes/)
-
+- Rack de costillas de cerdo trozeadas en porciones personales y adobadas como se indica aquí: [Adobes ](/Adobes/Adobes/)
 - Orégano
 - Laurel
 - Tomillo
@@ -48,43 +45,3 @@ Nota: acompañar de alguna de las siguientes ensaladas y guarniciones
 [Papas a las hierbas](https://www.notion.so/Papas-a-las-hierbas-b8ab7e47681d44eda9d9974d248b860d)
 
 [Pure de papa](https://www.notion.so/Pure-de-papa-dd5c30d04b4f4e8395a5ee7ae41b1634)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_131317-01.jpeg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_131317-01.jpeg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200416_131817.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200416_131817.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120224.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120224.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120312.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120312.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120500.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120500.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120535.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120535.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120605.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120605.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120636.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120636.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120712.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120712.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120726.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120726.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120931.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_120931.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_121011.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_121011.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_121048.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_121048.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_121128.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_121128.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_125351.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_125351.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_130051.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_130051.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_130134.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_130134.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_130952.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_130952.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_130959.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_130959.jpg)
-
-![Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_131005.jpg](Costillas%20BBQ%20a1c3448a9bb6485bb31ba9a07248c73d/20200720_131005.jpg)

@@ -60,7 +60,7 @@ date: "2020-08-13T22:12:03.284Z"
 
 ---
 
-## Ingredientes para la salsa caribeña
+### Ingredientes para la salsa caribeña para adobar el pollo
 
 - 1 tomate
 - 1/4 o 1/2  papa
@@ -135,8 +135,5 @@ date: "2020-08-13T22:12:03.284Z"
 2. Rayar muy poquito jengibre y licuar.
 3. Servir y decorar con las hojitas de hierba buena.
 
-![Rice%20and%20beans%20y%20agua%20de%20sapo%20ee7f14f5c15a4b1194c760b13fedfd7d/Untitled.png](Rice%20and%20beans%20y%20agua%20de%20sapo%20ee7f14f5c15a4b1194c760b13fedfd7d/Untitled.png)
 
-Video de referencia:
-
-[https://www.youtube.com/watch?v=xY7lAfxL1sU](https://www.youtube.com/watch?v=xY7lAfxL1sU)
+[Video de referencia del programa "Sin Secretos ConDoris](https://www.youtube.com/watch?v=xY7lAfxL1sU)

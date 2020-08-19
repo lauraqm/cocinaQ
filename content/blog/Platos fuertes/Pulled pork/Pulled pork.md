@@ -5,24 +5,24 @@ categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
+Este tipo de carne mechada de cerdo a la BBQ o como se conoce en otros paises como "Pulled Pork" es ideal para hacer sandwiches, tacos, bowls o como carne principal en algun platillo. Es una alternativa para las costillas BBQ, ya que a muchas personas no les gustan porque son mas dificiles de comer porque tiene hueso, entonces esta carne es similar, muy sabrosa y sin hueso.
 
-## Ingredientes:
+## Ingredientes
 
-- Posta de cerdo cortada en trozos medianos y adobada para hacer Pulled Pork como se indica aquí
-
-[Adobes ](/Adobes/Adobes/)
-
+- Posta de cerdo cortada en trozos medianos y adobada para hacer "Pulled Pork" como se indica aquí: [Adobes](/Adobes/Adobes/)
 - Salsa BBQ de miel o azúcar moreno.
+- 2 ajos.
 
-## Indicaciones:
+## Indicaciones
 
-1. Cocinar la carne en olla de presión por 35 minutos o en olla de cocimiento lento por 4.5 horas. Se recomienda que sea en olla de cocimiento lento.
-2. Agregar poquita agua apenas para tapar al carne.
-3. Una vez cocinada la carne se debe desmechar con ayuda de 2 tenedores.
-4. Una vez que está desmechada se pone en un sartén y se le agrega un poquito de caldo (donde se cocinó) para rehidratarla.
-5. Agregar salsa BBQ de manera que no quede demasiado jugosa pero que quede con sabor a BBQ.
-6. Esperar a que se seque  un poco porque la idea es que no le salga caldo si se usa en sandwich.
-7. Listo! 
+1. En una olla de presión o cocimiento lento, agregar poquita agua apenas para cocinar la carne. Agregar sal, ajos y salsa BBQ.
+2. Probar que tenga suficiente sal y agregar la carne.
+3. Cocinar la carne en olla de presión por 35 minutos o en olla de cocimiento lento por 4.5 horas. Se recomienda que sea en olla de cocimiento lento. La carne debe quedar super suavecita.
+4. Una vez cocinada la carne se debe desmechar con ayuda de 2 tenedores.
+5. Poner la carne en un sartén y se le agrega un poquito de caldo (donde se cocinó) para rehidratarla.
+6. Agregar salsa BBQ de manera que no quede demasiado jugosa pero que quede con sabor a BBQ.
+7. Esperar a que se seque  un poco porque la idea es que no le salga caldo si se usa en sandwich.
+8. Listo!
 
 Esta carne se usa en sandwiches o bien acompañada de las siguientes guarniciones:
 

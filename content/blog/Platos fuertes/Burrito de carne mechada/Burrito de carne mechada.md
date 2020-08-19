@@ -13,8 +13,7 @@ Se acompaña de pico de gallo servido sobre una cama de lechuga picada bien fini
 
 ### Ingredientes:
 
-- Trocear en pedazos grandes la carne para mechar y adobarla como dice aquí:
-[Adobes ](/Adobes/Adobes/)
+- Trocear en pedazos grandes la carne para mechar y adobarla como dice aquí: [Adobes ](/Adobes/Adobes/)
 - 2 salsitas naturas o 1 salsa prego de tomate.
 - Chile, cebolla y culantro picado.
 - Sazón completo.

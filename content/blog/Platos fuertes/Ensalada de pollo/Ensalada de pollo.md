@@ -6,10 +6,9 @@ tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
 
-Esta ensalada se sirve por persona, es decir en cada plato se va sirviendo y no se usa como acompañamiento sino como plato principal. 
+Esta ensalada se sirve por persona, es decir en cada plato se va armando una ensalada. Es un plato principal y no un acompañamiento, ideal para cuando queremos comer liviano y saludable.
 
 ### Ingredientes:
-
 - Tomate o tomates cherry
 - Lechuga
 - Zanahoria
@@ -17,15 +16,15 @@ Esta ensalada se sirve por persona, es decir en cada plato se va sirviendo y no 
 - Maíz dulce
 - Pepino
 - Queso cottage
-- Aderezo Ranch (Delga-C)
+- Aderezo Ranch Light (Delga-C)
 - Opcional: croutones.
-- Pechuga de pollo adobada a las hierbas
+- Pechuga de pollo adobada a las hierbas como se indica aquí: [Adobes ](/Adobes/Adobes/)
 
 ### Indicaciones:
 
 1. Lavar y cortar la lechuga bien finita y ponerla como una camita en un plato o tazón.
 2. Rallar la zanahoria bien finita y ponerla sobre la lechuga.
-3. Pelar el pepino y cortarlo en cubitos pequeños y poner sobre la zanahoria. 
+3. Pelar el pepino y cortarlo en cubitos pequeños y poner sobre la zanahoria.
 4. Cortar el tomate en cubitos o si son tomates cherry, se cortan a la mitad. Agregar esto sobre el pepino.
 5. Agregar maíz dulce al gusto.
 6. Agregar una chucharada grande de queso cottage.

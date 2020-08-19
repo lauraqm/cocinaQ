@@ -10,7 +10,7 @@ module.exports = {
       amigos y familia, la idea de este recetario como yo
       lo llamo, es para poder llevar mi pasión por la cocina
       con mas personas. La mayoria de recetas que
-      encontraremos aqui son una fusión de comida típica
+      encontrarás aqui son una fusión de comida típica
       costarricense y otras cocinas del mundo que he tenido
       el privilegio de degustar.`,
     },
@@ -115,7 +115,8 @@ module.exports = {
         apiKey: process.env.CLOUDINARY_API_KEY,
         apiSecret: process.env.CLOUDINARY_API_SECRET,
         resourceType: `image`,
-        prefix: 'cocinaQ/'
+        prefix: 'cocinaQ/',
+        maxResults: 2000
       }
     },
   ],
