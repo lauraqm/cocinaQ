@@ -36,8 +36,8 @@ Las albóndigas son prácticamente la misma preparación de las tortas de carne,
 14. Se van bañando poco a poco con una cuchara las albondigas o se les puede ir dando vuelta para que se embarren de salsa.
 15. Esperar a que la salsa espese un poquito y listo!
 
-Nota: acompañar de alguna de las siguientes ensaladas
+**Nota**: Se puede acompañar de arroz blanco o [puré de papa](/Acompañamientos/Puré de papa/Puré de papa), frijoles y de alguna de las siguientes ensaladas:
 
-[Ensalada capresse](https://www.notion.so/Ensalada-capresse-070946ddd59e46e3b7a5d7e86285b351)
+[Ensalada capresse](/Ensaladas/Ensalada capresse/Ensalada capresse)
 
-[Ensalada verde](https://www.notion.so/Ensalada-verde-b74d28ddcd2544aca595a8a00c068ee4)
+[Ensalada verde](/Ensaladas/Ensalada verde/Ensalada verde)

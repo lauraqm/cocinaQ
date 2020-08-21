@@ -50,7 +50,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       component: blogPost,
       context: {
         slug: post.node.fields.slug,
-        folder: `/${post.node.frontmatter.title}/`,
+        folder: `/${post.node.frontmatter.title}/`, //To get photos from cloudinary
         previous,
         next,
         categories: post.node.categories,
@@ -72,7 +72,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   });
 };
 
-exports.onCreateNode = async ({ node, actions, getNode, store,cache,createNodeId,createContentDigest,reporter }) => {
+exports.onCreateNode = async ({ node, actions, getNode }) => {
   const { createNodeField, createNode } = actions;
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode });

@@ -31,8 +31,10 @@ Esta receta se puede hacer de dos formas: con pollo en cubitos o con camarones.
 10. Revolver bien.
 11. Servir y rociar con perejil en polvo.
 
-Nota: acompañar con alguna de las siguientes ensaladas:
+**Nota**: Se puede acompañar con alguna de las siguientes ensaladas:
 
-[Ensalada verde](https://www.notion.so/Ensalada-verde-b74d28ddcd2544aca595a8a00c068ee4)
+[Ensalada verde](/Ensaladas/Ensalada verde/Ensalada verde)
 
-[Ensalada verde con fresas](https://www.notion.so/Ensalada-verde-con-fresas-7494cc059bc64450a5d1f84075fbbc24)
+[Ensalada verde con fresas](/Ensaladas/Ensalada verde con fresas/Ensalada verde con fresas)
+
+[Ensalada verde con aguacate](/Ensaladas/Ensalada verde con aguacate/Ensalada verde con aguacate)

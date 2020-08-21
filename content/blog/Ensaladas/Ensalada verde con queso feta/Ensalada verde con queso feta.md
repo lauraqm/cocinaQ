@@ -1,17 +1,24 @@
-# Ensalada verde con queso feta
+---
+title: Ensalada verde con queso feta
+description: Ensalada verde con un queso griego y un aderezo que aporta matices mediterráneos
+categories: Ensaladas
+tags: Costa Rica, ensalada, griego, feta, 
+date: "2020-08-17T22:12:03.284Z"
+---
+Ensalada verde con un queso griego y un aderezo que aporta matices mediterráneos
 
-### Ingredientes:
+### Ingredientes
 
 - Tomate
 - Lechuga crespa
 - Repollo morado
 - Zanahoria
 - Aguacate
-- Aderezo italiano
+- Aceite de oliva y vinagre balsámico (para aderezar)
 
 Opcional: Tiritas de wonton
 
-### Indicaciones:
+### Indicaciones
 
 1. Cortar el tomate en cuadritos.
 2. Cortar las lechugas en tiritas finitas.
@@ -20,6 +27,5 @@ Opcional: Tiritas de wonton
 5. Rayar la zanahoria
 6. Agregar queso feta
 7. Mezclar bien
-8. Agregar aderezo italiano y si se desea tiritas de wonton
-
-![Ensalada%20verde%20con%20queso%20feta%20334de6699060428a8d6b1d29f3afcabf/20200814_124657-01.jpeg](Ensalada%20verde%20con%20queso%20feta%20334de6699060428a8d6b1d29f3afcabf/20200814_124657-01.jpeg)
+8. Hacer el aderezo en un recipiente aparte, mezclando 1 tanto de vinagre y 3 de aceite. Por ejemplo 1 cucharada de vinagre y 3 de aceite de oliva.
+9. Bañar con el aderezo y si se desea agregar tiritas de wonton

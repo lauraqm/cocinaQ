@@ -49,10 +49,16 @@ date: "2020-08-13T22:12:03.284Z"
 25. Cortar en tajadas de unos 4 cm de grosor, ojalá usando un cuchillo de sierra (los de pan) para que no cueste cortar la tocineta.
 26. Servir!
 
-Servir acompañado de:
+**Nota**: Se puede acompañar con alguna de las siguientes ensaladas y guarniciones:
 
-[Pure de papa](https://www.notion.so/Pure-de-papa-dd5c30d04b4f4e8395a5ee7ae41b1634)
+[Ensalada verde](/Ensaladas/Ensalada verde/Ensalada verde)
 
-[Ensalada verde](https://www.notion.so/Ensalada-verde-b74d28ddcd2544aca595a8a00c068ee4)
+[Ensalada verde con fresas](/Ensaladas/Ensalada verde con fresas/Ensalada verde con fresas)
 
-[Ensalada verde con fresas](https://www.notion.so/Ensalada-verde-con-fresas-7494cc059bc64450a5d1f84075fbbc24)
+[Ensalada verde con aguacate](/Ensaladas/Ensalada verde con aguacate/Ensalada verde con aguacate)
+
+[Papas a las hierbas](/Acompañamientos/Papas a las hierbas/Papas a las hierbas)
+
+[Puré de papa](/Acompañamientos/Puré de papa/Puré de papa)
+
+[Arroz a la jardinera - Arroz con vegetales](/Acompañamientos/Arroz a la jardinera - Arroz con vegetales/Arroz a la jardinera Arroz con vegetales/)

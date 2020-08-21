@@ -11,7 +11,7 @@ import { rhythm } from "../utils/typography";
 import queryString from 'query-string';
 
 
-const AllPost = ({ data, location }) => {
+const AllRecipes = ({ data, location }) => {
   console.log('----data', data);
   const siteTitle = data.site.siteMetadata.title;
   const posts = data.allMarkdownRemark.edges;
@@ -43,7 +43,7 @@ const AllPost = ({ data, location }) => {
   )
 }
 
-export default AllPost;
+export default AllRecipes;
 
 export const pageQuery = graphql`
   query ($categories: String) {

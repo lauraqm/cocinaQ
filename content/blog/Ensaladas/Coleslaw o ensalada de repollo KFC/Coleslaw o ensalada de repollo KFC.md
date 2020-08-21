@@ -26,5 +26,3 @@ Esta ensalada es la que conocemos como la ensalada de KFC que es de repollo y ma
 3. Agregar la mezcla a la ralladura de repollo y zanahoria. 
 4. Agregar sal, un poquito de pimienta y cebolla en polvo al gusto.
 5. Listo.
-
-![Coleslaw%20o%20ensalada%20de%20repollo%20KFC%20b984ddc2e3884bb09aad6279dd15df72/Untitled.png](Coleslaw%20o%20ensalada%20de%20repollo%20KFC%20b984ddc2e3884bb09aad6279dd15df72/Untitled.png)

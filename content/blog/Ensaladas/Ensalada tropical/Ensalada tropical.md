@@ -1,4 +1,12 @@
-# Ensalada tropical
+---
+title: Ensalada tropical
+description: Ensalada ideal para el verano, mezcla vegetales frescos y frutas tropicales
+categories: Ensaladas
+tags: Costa Rica, ensalada, tradicional, tropical
+date: "2020-08-17T22:12:03.284Z"
+---
+
+Ensalada ideal para el verano, mezcla vegetales frescos y frutas tropicales que le da al paladar una mezcla increíble de sabores
 
 ### Ingredientes:
 

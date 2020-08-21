@@ -25,4 +25,6 @@ date: "2020-08-13T22:12:03.284Z"
 4. Una vez que esta cocinada, se debe agregar las lentejas bien lavadas.
 5. Agregar cebolla picada al gusto.
 6. Cocinar las lentejas con la carne nuevamente. Si es en olla de presión por 15 minutos. Si es en olla de cocimiento lento al menos deben ser entre 2 y 3 horas o hasta que las lentejas estén suaves, pero no desechas.
-7. Listo! Servir con arroz blanco!
+7. Listo!
+
+**Nota**: Servir con arroz blanco fresco y es una delicia!

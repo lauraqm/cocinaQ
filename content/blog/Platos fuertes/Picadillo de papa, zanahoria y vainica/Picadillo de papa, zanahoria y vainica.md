@@ -40,8 +40,13 @@ date: "2020-08-13T22:12:03.284Z"
 18. Dejar secar al gusto (a unos les gusta mas aguado que a otros)
 19. Servir!
 
-Nota: acompañar con alguna de las siguientes ensaladas:
+**Nota**: Se puede acompañar de arroz blanco, frijoles y alguna de las siguientes ensaladas:
 
-[Ensalada de tomate y pepino](https://www.notion.so/Ensalada-de-tomate-y-pepino-9a0ca8e8ca1e465f9a0975f038e840c0)
+[Pico de gallo](/Ensaladas/Pico de gallo/Pico de gallo)
 
-[Ensalada verde](https://www.notion.so/Ensalada-verde-b74d28ddcd2544aca595a8a00c068ee4)
+[Ensalada de tomate y pepino](/Ensaladas/Ensalada de tomate y pepino/Ensalada de tomate y pepino)
+
+[Ensalada verde](/Ensaladas/Ensalada verde/Ensalada verde)
+
+
+

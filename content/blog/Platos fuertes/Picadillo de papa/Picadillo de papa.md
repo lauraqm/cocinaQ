@@ -10,7 +10,7 @@ date: "2020-08-13T22:12:03.284Z"
 
 - 2 Papas grandecitas
 - Cebolla, chile, culantro.
-- 250 gramos de carne molida, abodaba como se indica aquí [Adobes ](/Adobes/Adobes/)
+- 250 gramos de carne molida, abodaba como se indica aquí [Adobes](/Adobes/Adobes/)
 - Color y sabor de Magui
 - Salsa lizano
 - Sal
@@ -34,6 +34,8 @@ date: "2020-08-13T22:12:03.284Z"
 14. Dejar secar al gusto (a unos les gusta mas aguado que a otros)
 15. Servir!
 
-Nota: acompañar con la siguiente ensalada:
+**Nota**: Se puede acompañar de arroz blanco, frijoles y alguna de las siguientes ensaladas:
 
-[Ensalada de tomate y pepino](https://www.notion.so/Ensalada-de-tomate-y-pepino-9a0ca8e8ca1e465f9a0975f038e840c0)
+[Pico de gallo](/Ensaladas/Pico de gallo/Pico de gallo)
+
+[Ensalada de tomate y pepino](/Ensaladas/Ensalada de tomate y pepino/Ensalada de tomate y pepino)

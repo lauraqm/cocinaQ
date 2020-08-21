@@ -1,4 +1,11 @@
-# Ensalada verde
+---
+title: Ensalada verde
+description: Ensalada verde tradicional, la más saludable de todas!
+categories: Ensaladas
+tags: Costa Rica, ensalada, pico, Pico de Gallo, tomate, Latinoamérica
+date: "2020-08-17T22:12:03.284Z"
+---
+Ensalada verde tradicional, la más saludable de todas, la más comun de todas, pero también una de las mas deliciosas para mi gusto!
 
 ### Ingredientes:
 
@@ -26,5 +33,3 @@ Opcional
 7. Revolver bien.
 8. Opcional: Agregar topping con semillas y frutos dulces (Dulce tentación)
 9. Agregar sal y jugo de limón.
-
-![Ensalada%20verde%20b74d28ddcd2544aca595a8a00c068ee4/20200526_130008.jpg](Ensalada%20verde%20b74d28ddcd2544aca595a8a00c068ee4/20200526_130008.jpg)

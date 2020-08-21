@@ -18,7 +18,7 @@ Esta ensalada se sirve por persona, es decir en cada plato se va armando una ens
 - Queso cottage
 - Aderezo Ranch Light (Delga-C)
 - Opcional: croutones.
-- Pechuga de pollo adobada a las hierbas como se indica aquí: [Adobes ](/Adobes/Adobes/)
+- Pechuga de pollo adobada a las hierbas como se indica aquí: [Adobes](/Adobes/Adobes/)
 
 ### Indicaciones:
 

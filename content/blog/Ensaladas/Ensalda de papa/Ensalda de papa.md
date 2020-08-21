@@ -1,4 +1,11 @@
-# Ensalda de papa
+---
+title: Ensalda de papa
+description: Ensalada de papa comunmente conocida en muchos países
+categories: Ensaladas
+tags: Costa Rica, ensalada, papa, Semana Santa, mostaza 
+date: "2020-08-17T22:12:03.284Z"
+---
+Ensalada de papa comunmente conocida en muchos países, en Costa Rica muy utilizada en celebraciones navideñas y Semana Santa.
 
 ### Ingredientes:
 
@@ -29,5 +36,3 @@
 11. Probar la sal y agregar de ser necesario.
 12. Dejar en la refrigeradora hasta que se enfríe  bien.
 13. Listo!
-
-![Ensalda%20de%20papa%20b22271e936e74c85ac483ea64ac95c9b/Untitled.png](Ensalda%20de%20papa%20b22271e936e74c85ac483ea64ac95c9b/Untitled.png)

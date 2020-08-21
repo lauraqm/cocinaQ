@@ -1,11 +1,19 @@
-# Ensalada verde con fresas
+---
+title: Ensalada verde con fresas
+description: Tradicional ensalada verde con un nuevo elemento dulce y ácido al mismo tiempo
+categories: Ensaladas
+tags: Costa Rica, ensalada, tradicional, fresas, queso, Turrialba
+date: "2020-08-17T22:12:03.284Z"
+---
+
+Tradicional ensalada verde con un nuevo elemento dulce y ácido al mismo tiempo: fresas! Y como las fresas se llevan tan bien con los lácteos decidimos agregarle queso fresco
 
 ### Ingredientes:
 
 - 1/2 pepino
 - 1 tomate
 - 6 Fresas
-- 3 tajadas de queso turrialba
+- 3 tajadas de queso fresco (tipo Turrialba)
 - Lechuga
 - 1/2 zanahoria
 - Maiz dulce
@@ -20,5 +28,3 @@
 5. Rayar la zanahoria.
 6. Agregar maíz dulce 
 7. Mezclar todo esto y agregar aderezo italiano
-
-![Ensalada%20verde%20con%20fresas%207494cc059bc64450a5d1f84075fbbc24/20200618_124230.jpg](Ensalada%20verde%20con%20fresas%207494cc059bc64450a5d1f84075fbbc24/20200618_124230.jpg)

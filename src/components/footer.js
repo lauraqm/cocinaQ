@@ -37,15 +37,15 @@ const CustomFooter = () => {
     }
   `);
 
-  let mediaPanel = [];
-  for (var key in mediaData) {
-    let media = mediaData[key];
-    let image;
-    if (!media.childImageSharp && media.extension === "svg") {
-      image = <img key={key} src={media.publicURL} />;
-    }
-    mediaPanel.push(image);
-  };
+  // let mediaPanel = [];
+  // for (var key in mediaData) {
+  //   let media = mediaData[key];
+  //   let image;
+  //   if (!media.childImageSharp && media.extension === "svg") {
+  //     image = <img key={key} src={media.publicURL} />;
+  //   }
+  //   mediaPanel.push(image);
+  // };
 
   return (
     <footer>

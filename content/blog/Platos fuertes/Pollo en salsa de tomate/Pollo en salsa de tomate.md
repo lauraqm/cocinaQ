@@ -8,7 +8,7 @@ date: "2020-08-13T22:12:03.284Z"
 
 ## Ingredientes:
 
-- Pechuga de pollo "Color y Sabor" como se indica aquí: [Adobes ](/Adobes/Adobes/)
+- Pechuga de pollo "Color y Sabor" como se indica aquí: [Adobes](/Adobes/Adobes/)
 - 2 ajos
 - Culantro, chile, cebolla
 - Color y sabor de Magui o consomé de pollo
@@ -31,3 +31,15 @@ date: "2020-08-13T22:12:03.284Z"
 11. Esperar a que hierva y se espese un poquito.
 12. Retirar del fuego.
 13. Listo.
+
+**Nota**: Se puede acompañar de arroz blanco, frijoles y alguna de las siguientes ensaladas:
+
+[Ensalada verde](/Ensaladas/Ensalada verde/Ensalada verde)
+
+[Ensalada verde con fresas](/Ensaladas/Ensalada verde con fresas/Ensalada verde con fresas)
+
+[Ensalada tropical](/Ensaladas/Ensalada tropical/Ensalada tropical)
+
+[Ensalada verde con aguacate](/Ensaladas/Ensalada verde con aguacate/Ensalada verde con aguacate)
+
+[Ensalada verde con queso feta](/Ensaladas/Ensalada verde con queso feta/Ensalada verde con queso feta)

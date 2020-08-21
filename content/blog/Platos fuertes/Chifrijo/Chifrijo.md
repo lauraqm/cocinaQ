@@ -22,9 +22,7 @@ date: "2020-08-13T22:12:03.284Z"
 
 ## Indicaciones:
 
-Hacer el pico de gallo con los olores picados, el tomate y el limón. Como se indica aquí
-
-[Pico de gallo](https://www.notion.so/Pico-de-gallo-ee74193811664ecf9718f428a8720f6e)
+Hacer el pico de gallo con los olores picados, el tomate y el limón. [Ver receta aquí](/Ensaladas/Pico de gallo/Pico de gallo)
 
 Los chicharrones ya deben estar cocinados y pueden reutilizarse chicharrones añejos también. [Ver receta aquí](/Platos fuertes/Chicharrones/Chicharrones/)
 
@@ -44,11 +42,3 @@ Una vez que tenemos los frijoles, el pico de gallo y los chicharrones procedemos
 12. Agregar unas 2 cucharadas de pico de gallo encima, sin mucho caldo, sino mas bien un poco  escurrido debido a que si agregamos demasiado jugo de limón va a matar el sabor del chifrijo.
 13. Partir el aguacate y luego hacer tajaditas y sacar con una cuchara, servir medio aguacate por chifrijo.
 14. Listo! Acompañar con tortillas tostadas.
-
-![Chifrijo%20dfbc405fc5a941b586033cb13ba27640/20200628_200448.jpg](Chifrijo%20dfbc405fc5a941b586033cb13ba27640/20200628_200448.jpg)
-
-Frijoles recomendados:
-
-![Chifrijo%20dfbc405fc5a941b586033cb13ba27640/Untitled.png](Chifrijo%20dfbc405fc5a941b586033cb13ba27640/Untitled.png)
-
-![Chifrijo%20dfbc405fc5a941b586033cb13ba27640/Untitled%201.png](Chifrijo%20dfbc405fc5a941b586033cb13ba27640/Untitled%201.png)

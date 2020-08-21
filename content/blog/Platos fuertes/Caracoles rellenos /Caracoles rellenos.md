@@ -60,3 +60,9 @@ De esta receta existen 2 versiones: La que se hace como ensalada y la que se hac
 10. Llevar al horno a 350º durante 30 min.
 11. Luego poner la función de dorar y dorar por unos 5 min o hasta que el queso de encima se dore.
 12. Servir y espolvorear queso parmesano por encima.
+
+**Nota**: Se puede acompañar con alguna de las siguientes ensaladas:
+
+[Ensalada capresse](/Ensaladas/Ensalada capresse/Ensalada capresse)
+
+[Ensalada verde](/Ensaladas/Ensalada verde/Ensalada verde)

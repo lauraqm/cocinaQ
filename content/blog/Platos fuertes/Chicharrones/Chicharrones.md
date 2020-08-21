@@ -25,3 +25,12 @@ date: "2020-08-13T22:12:03.284Z"
 9. Cuando esto pase, debemos agregar bastante aceite a la olla porque en este punto es que se va a empezar a freír los Chicharrones. Se debe bajar un poquito la temperatura porque el aceite esta frío, esto ayudará a que no pringue al echarlo.
 10. Cocinar hasta que esten completamente dorados.
 11. Luego sacarlos y pasarlos por toallas absorbentes para retirar el exceso de aceite.
+
+**Nota**: Se puede acompañar con yuca, plátano verde sancochado, ceviche de plátano o alguna de las siguientes ensaladas:
+
+[Ensalada de repollo](/Ensaladas/Ensalada de repollo/Ensalada de repollo)
+
+[Pico de gallo](/Ensaladas/Pico de gallo/Pico de gallo)
+
+[Ceviche de plátano](/Acompañamientos/Ceviche de plátano/Ceviche de plátano)
+

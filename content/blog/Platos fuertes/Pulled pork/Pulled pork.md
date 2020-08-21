@@ -24,10 +24,9 @@ Este tipo de carne mechada de cerdo a la BBQ o como se conoce en otros paises co
 7. Esperar a que se seque  un poco porque la idea es que no le salga caldo si se usa en sandwich.
 8. Listo!
 
-Esta carne se usa en sandwiches o bien acompañada de las siguientes guarniciones:
+**Nota**: Esta carne se usa en sandwiches o bien acompañada de las siguientes guarniciones:
+[Papas a las hierbas](/Acompañamientos/Papas a las hierbas/Papas a las hierbas)
 
-[Papas a las hierbas](https://www.notion.so/Papas-a-las-hierbas-b8ab7e47681d44eda9d9974d248b860d)
+[Puré de papa](/Acompañamientos/Puré de papa/Puré de papa)
 
-[Pure de papa](https://www.notion.so/Pure-de-papa-dd5c30d04b4f4e8395a5ee7ae41b1634)
-
-[Coleslaw o ensalada de repollo KFC](https://www.notion.so/Coleslaw-o-ensalada-de-repollo-KFC-b984ddc2e3884bb09aad6279dd15df72)
+[Coleslaw o ensalada de repollo KFC](/Ensaladas/Coleslaw o ensalada de repollo KFC/Coleslaw o ensalada de repollo KFC)

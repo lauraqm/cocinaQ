@@ -17,6 +17,7 @@ Rinde 2 porciones
 - Salsa chuncky
 - Tortillas tostadas tipo Rumba o Tostitos
 - Cebolla, chile dulce, culantro.
+- Opcional: Cebollines picados y jalapeños
 
 ## Indicaciones
 
@@ -32,4 +33,5 @@ Rinde 2 porciones
 10. Dejar reposar  un poquito.
 11. Servir mientras aun está caliente.
 12. Poner queso rallado en el fondo. Luego una capa de chili. Luego otra de queso y otra de chili. Agregar un poquito arriba.
-13. Comer con tortillas tostadas.
+13. Poner cebollinos y jalapeños picados encima
+14. Listo! Comer con tortillas tostadas.

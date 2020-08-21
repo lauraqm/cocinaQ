@@ -26,5 +26,3 @@ date: "2020-08-17T22:12:03.284Z"
 7. Agregar el jugo de los limones.
 8. Tiene que quedar bien llenita de limón, al menos debe llegar a la mitad o un poco menos de la altura del tazón o al menos así me gusta a mi.
 9. Listo
-
-![Ensalada%20de%20repollo%2087e90436b72d471f8f7372ff8c7d41e8/20200603_201601.jpg](Ensalada%20de%20repollo%2087e90436b72d471f8f7372ff8c7d41e8/20200603_201601.jpg)

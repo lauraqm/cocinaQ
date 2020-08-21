@@ -8,7 +8,7 @@ date: "2020-08-13T22:12:03.284Z"
 
 ## Ingredientes:
 
-- Carne molida adobada como se indica aquí: [Adobes ](/Adobes/Adobes/)
+- Carne molida adobada como se indica aquí: [Adobes](/Adobes/Adobes/)
 - Salsa de queso
 - Tomate
 - Lechuga

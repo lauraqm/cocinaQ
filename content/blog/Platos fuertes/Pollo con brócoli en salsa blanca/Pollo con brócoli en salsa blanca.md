@@ -36,8 +36,14 @@ date: "2020-08-13T22:12:03.284Z"
 15. Listo!
 16. Ver fotos abajo de como es el proceso.
 
-Nota: acompañar con alguna de las siguientes ensaladas:
+**Nota**: Se puede acompañar de arroz blanco y alguna de las siguientes ensaladas:
 
-[Ensalada verde](https://www.notion.so/Ensalada-verde-b74d28ddcd2544aca595a8a00c068ee4)
+[Ensalada verde](/Ensaladas/Ensalada verde/Ensalada verde)
 
-[Ensalada verde con fresas](https://www.notion.so/Ensalada-verde-con-fresas-7494cc059bc64450a5d1f84075fbbc24)
+[Ensalada verde con fresas](/Ensaladas/Ensalada verde con fresas/Ensalada verde con fresas)
+
+[Ensalada tropical](/Ensaladas/Ensalada tropical/Ensalada tropical)
+
+[Ensalada verde con aguacate](/Ensaladas/Ensalada verde con aguacate/Ensalada verde con aguacate)
+
+[Ensalada verde con queso feta](/Ensaladas/Ensalada verde con queso feta/Ensalada verde con queso feta)

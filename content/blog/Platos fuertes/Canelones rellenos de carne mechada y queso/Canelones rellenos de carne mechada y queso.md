@@ -30,32 +30,10 @@ Esta receta requiere horno.
 10. Poner el horno en 550º en la función de dorar y hornear por unos 5 min o hasta que tomen un color doradito.
 11. Listo
 
-Servir con alguna de las siguientes ensaladas:
+**Nota**: Acompañar de un vino tinto (Cabernet Sauvignon y Merlot) y alguna de las siguientes ensaladas:
 
-[Ensalada capresse](https://www.notion.so/Ensalada-capresse-070946ddd59e46e3b7a5d7e86285b351)
+[Ensalada capresse](/Ensaladas/Ensalada capresse/Ensalada capresse)
 
-[Ensalada verde](https://www.notion.so/Ensalada-verde-b74d28ddcd2544aca595a8a00c068ee4)
+[Ensalada verde con fresas](/Ensaladas/Ensalada verde con fresas/Ensalada verde con fresas)
 
-[Ensalada verde con fresas](https://www.notion.so/Ensalada-verde-con-fresas-7494cc059bc64450a5d1f84075fbbc24)
-
-Tip ganador: Acompañar de un vino tinto (Cabernet Sauvignon y Merlot)
-
-![Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_131206-02.jpeg](Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_131206-02.jpeg)
-
-![Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_122502.jpg](Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_122502.jpg)
-
-![Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_122553.jpg](Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_122553.jpg)
-
-![Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_123130.jpg](Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_123130.jpg)
-
-![Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_123200.jpg](Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_123200.jpg)
-
-![Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_123724.jpg](Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_123724.jpg)
-
-![Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_123754.jpg](Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_123754.jpg)
-
-![Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_123925.jpg](Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_123925.jpg)
-
-![Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_124115.jpg](Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_124115.jpg)
-
-![Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_131104.jpg](Canelones%20rellenos%20de%20carne%20mechada%20y%20queso%2053c151f70c80459ab251e524058277fe/20200718_131104.jpg)
+[Ensalada verde](/Ensaladas/Ensalada verde/Ensalada verde)

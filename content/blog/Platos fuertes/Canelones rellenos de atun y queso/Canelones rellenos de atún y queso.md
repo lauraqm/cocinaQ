@@ -8,7 +8,7 @@ date: "2020-08-13T22:12:03.284Z"
 
 Esta receta requiere horno. Y rinde para entre 6 y 8 canelones.
 
-## Ingredientes:
+## Ingredientes
 
 - Canelones
 - Atún en aceite
@@ -24,7 +24,7 @@ Se puede utilizar alguna de las siguientes salsas:
 - Salsa blanca (puede hacerse con la de Delicias de Pollo a la Reina de Magui y todo lo que ella requiere)
 - Salsa de tomate Prego o Naturas.
 
-## Indicaciones:
+## Indicaciones
 
 1. Cocinar en una olla los canelones, solo con agua suficiente para que se tapen bien y sal. No recocinar, tienen que quedar al dente (duritos pero comestibles).
 2. Escurrir, agregar agua fría y volver a escurrir.
@@ -42,14 +42,12 @@ Se puede utilizar alguna de las siguientes salsas:
 14. Listo
 15. Nota: si se usa salsa blanca se debe dejar bien espesa.
 
-Servir con arroz y alguna de las siguientes ensaladas:
+**Nota**: Se puede acompañar con alguna de las siguientes ensaladas:
 
-[Ensalada verde](https://www.notion.so/Ensalada-verde-b74d28ddcd2544aca595a8a00c068ee4)
+[Ensalada verde](/Ensaladas/Ensalada verde/Ensalada verde)
 
-[Ensalada verde con fresas](https://www.notion.so/Ensalada-verde-con-fresas-7494cc059bc64450a5d1f84075fbbc24)
+[Ensalada verde con fresas](/Ensaladas/Ensalada verde con fresas/Ensalada verde con fresas)
 
-[Ensalada tropical](https://www.notion.so/Ensalada-tropical-383a610c27fc4bd99907ea32792b9a10)
+[Ensalada tropical](/Ensaladas/Ensalada tropical/Ensalada tropical)
 
-En caso de usar salsa de tomate se puede acompañar de esta otra ensalada:
-
-[Ensalada capresse](https://www.notion.so/Ensalada-capresse-070946ddd59e46e3b7a5d7e86285b351)
+[Ensalada capresse (Si se usa salsa de tomate)](/Ensaladas/Ensalada capresse/Ensalada capresse)

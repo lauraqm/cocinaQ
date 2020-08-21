@@ -37,10 +37,11 @@ date: "2020-08-13T22:12:03.284Z"
 13. Esperar a que hierva y espese un poquito.
 14. Listo 
 
-Nota: Acompañar con cualquiera de las siguientes ensaladas:
+**Nota**: Se puede acompañar con alguna de las siguientes ensaladas:
 
-[Ensalada verde con fresas](https://www.notion.so/Ensalada-verde-con-fresas-7494cc059bc64450a5d1f84075fbbc24)
 
-[Ensalada verde](https://www.notion.so/Ensalada-verde-b74d28ddcd2544aca595a8a00c068ee4)
+[Ensalada verde con fresas](/Ensaladas/Ensalada verde con fresas/Ensalada verde con fresas)
 
-[Ensalada tropical](https://www.notion.so/Ensalada-tropical-383a610c27fc4bd99907ea32792b9a10)
+[Ensalada verde](/Ensaladas/Ensalada verde/Ensalada verde)
+
+[Ensalada tropical](/Ensaladas/Ensalada tropical/Ensalada tropical)

@@ -40,3 +40,5 @@ Nota: en la foto final no se aprecia, pero en el fondo tiene caldo.
 15. Agregar la zanahoria y esperar a que se cocine (que no quede super suave ni dura)
 16. Esperar a que la papa y la zanahoria estén bien cocinadas.
 17. Listo!
+
+**Nota**: Servir con arroz blanco fresco y es una delicia!

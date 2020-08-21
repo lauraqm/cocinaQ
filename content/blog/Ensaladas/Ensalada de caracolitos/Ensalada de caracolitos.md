@@ -5,6 +5,7 @@ categories: Ensaladas
 tags: Costa Rica, ensalada, pasta, caracolitos
 date: "2020-08-17T22:12:03.284Z"
 ---
+Un clásico de la cocina de los ticos, todos amamos la pasta y el atún! Y esta receta reune a ambos para hacer una ensalada cremosa ampliamente usada para acompañar arroces arreglados o simplemente arroz blanco.
 
 ### Ingredientes:
 
@@ -27,15 +28,3 @@ date: "2020-08-17T22:12:03.284Z"
 8. Probar como está de sal y de sabor.
 9. Si es necesario agregar mas limón, mayonesa y sal al gusto.
 10. Listo.
-
-![Ensalada%20de%20caracolitos%2009397663d6be4a4bb933fc242b2f947f/20200608_194329.jpg](Ensalada%20de%20caracolitos%2009397663d6be4a4bb933fc242b2f947f/20200608_194329.jpg)
-
-![Ensalada%20de%20caracolitos%2009397663d6be4a4bb933fc242b2f947f/20200608_194417.jpg](Ensalada%20de%20caracolitos%2009397663d6be4a4bb933fc242b2f947f/20200608_194417.jpg)
-
-![Ensalada%20de%20caracolitos%2009397663d6be4a4bb933fc242b2f947f/20200608_194457.jpg](Ensalada%20de%20caracolitos%2009397663d6be4a4bb933fc242b2f947f/20200608_194457.jpg)
-
-![Ensalada%20de%20caracolitos%2009397663d6be4a4bb933fc242b2f947f/20200608_194520.jpg](Ensalada%20de%20caracolitos%2009397663d6be4a4bb933fc242b2f947f/20200608_194520.jpg)
-
-![Ensalada%20de%20caracolitos%2009397663d6be4a4bb933fc242b2f947f/20200608_194841.jpg](Ensalada%20de%20caracolitos%2009397663d6be4a4bb933fc242b2f947f/20200608_194841.jpg)
-
-![Ensalada%20de%20caracolitos%2009397663d6be4a4bb933fc242b2f947f/20200608_194836.jpg](Ensalada%20de%20caracolitos%2009397663d6be4a4bb933fc242b2f947f/20200608_194836.jpg)

@@ -8,16 +8,16 @@ date: "2020-08-13T22:12:03.284Z"
 
 Esta receta se puede hacer en la freidora de aire o al horno.
 
-## Ingredientes:
+## Ingredientes
 
-- Pollo a las hierbas adobado como se indica aquí: [Adobes ](/Adobes/Adobes/)
+- Pollo a las hierbas adobado como se indica aquí: [Adobes](/Adobes/Adobes/)
 - Salsa de tomate en pasta. Prego o similar, la Naturas es muy líquida, se necesita espesa.
 - Queso parmesano (rayado/polvo)
 - Pan molido
 - Queso pizzero
 - Aceite en spray
 
-## Indicaciones:
+## Indicaciones
 
 1. Mezclar pan molido y queso parmesano en partes iguales, se pueden agregar alguna especie como ajo en polvo y perejil.
 2. Pasar el pollo por la mezcla de parmesano y pan.
@@ -29,12 +29,18 @@ Esta receta se puede hacer en la freidora de aire o al horno.
 8. Volvemos a meter a la freidora de aire o bien al horno en la funcion de dorar hasta que el queso se derrita y quede doradito.
 9. Listo
 
-Acompañar con alguna de las siguientes ensaladas:
+**Nota**: Se puede acompañar de arroz blanco, frijoles y alguna de las siguientes ensaladas:
 
-[Ensalada verde con fresas](https://www.notion.so/Ensalada-verde-con-fresas-7494cc059bc64450a5d1f84075fbbc24)
+[Ensalada capresse](/Ensaladas/Ensalada capresse/Ensalada capresse)
 
-[Ensalada verde](https://www.notion.so/Ensalada-verde-b74d28ddcd2544aca595a8a00c068ee4)
+[Ensalada verde](/Ensaladas/Ensalada verde/Ensalada verde)
 
-[Ensalada capresse](https://www.notion.so/Ensalada-capresse-070946ddd59e46e3b7a5d7e86285b351)
+[Ensalada verde con fresas](/Ensaladas/Ensalada verde con fresas/Ensalada verde con fresas)
 
-[Ensalada tropical](https://www.notion.so/Ensalada-tropical-383a610c27fc4bd99907ea32792b9a10)
+[Ensalada tropical](/Ensaladas/Ensalada tropical/Ensalada tropical)
+
+[Ensalada verde con aguacate](/Ensaladas/Ensalada verde con aguacate/Ensalada verde con aguacate)
+
+[Ensalada verde con queso feta](/Ensaladas/Ensalada verde con queso feta/Ensalada verde con queso feta)
+
+

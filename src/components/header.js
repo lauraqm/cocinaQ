@@ -1,17 +1,32 @@
 import React from 'react';
-import { Link } from "gatsby";
+import { Link, navigate } from "gatsby";
 import { Menu } from "antd";
-import { scale } from "../utils/typography"
+import { scale } from "../utils/typography";
+import kebabCase from "lodash/kebabCase";
 import "./header.scss";
 
 const { SubMenu } = Menu;
 
 class Header extends React.Component {
+
+  handleClick = (e) => {
+    
+    if (e.key === 'Adobes') {
+      navigate(`/Adobes/Adobes/`);
+    }
+    else if (e.key === 'AllRecipes'){
+      AllRecipes
+    }
+    else {
+      navigate(`/categories/${kebabCase(e.key)}/`); 
+      console.log (e);
+    }
+  }
+
   render () {
     let {location, title }= this.props;
     let header;
     const rootPath = `${__PATH_PREFIX__}/`;
-    
     return (
       <div className='header'>
         <h1 className='logo' style={{...scale(1.5), marginBottom: 0, marginTop: 0}}>
@@ -19,22 +34,22 @@ class Header extends React.Component {
             {title}
           </Link>
         </h1>
-        <Menu className="menu" key="main-menu" mode="horizontal">
+        <Menu onClick={this.handleClick} className="menu" key="main-menu" mode="horizontal">
           <SubMenu title="Recetas">
-            <Menu.Item key="setting:1">Buscar recetas</Menu.Item>
-            <Menu.Item key="setting:2">Índice de recetas</Menu.Item>
+            <Menu.Item key="search">Buscar recetas</Menu.Item>
+            <Menu.Item key="AllRecipes">Índice de recetas</Menu.Item>
           </SubMenu>
           <SubMenu title="Categorías">
-            <Menu.Item key="setting:1">Adobes</Menu.Item>
-            <Menu.Item key="setting:2">Platos fuertes</Menu.Item>
-            <Menu.Item key="setting:3">Ensaladas</Menu.Item>
-            <Menu.Item key="setting:4">Dips y cremas</Menu.Item>
-            <Menu.Item key="setting:5">Guarniciones</Menu.Item>
-            <Menu.Item key="setting:6">Panes y queques</Menu.Item>
-            <Menu.Item key="setting:7">Postes</Menu.Item>
-            <Menu.Item key="setting:8">Sandwiches</Menu.Item>
-            <Menu.Item key="setting:9">Desayunos</Menu.Item>
-            <Menu.Item key="setting:10">Salsas</Menu.Item>
+            <Menu.Item key="Adobes">Adobes</Menu.Item>
+            <Menu.Item key="Platos fuertes">Platos fuertes</Menu.Item>
+            <Menu.Item key="Ensaladas">Ensaladas</Menu.Item>
+            <Menu.Item key="Acompañamientos">Acompañamientos</Menu.Item>
+            <Menu.Item key="Sándwiches">Sándwiches</Menu.Item>
+            <Menu.Item key="Desayunos">Desayunos</Menu.Item>
+            <Menu.Item key="Dips y cremas">Dips y cremas</Menu.Item>
+            <Menu.Item key="Panes tradicionales">Panes tradicionales</Menu.Item>
+            <Menu.Item key="Postres">Postres</Menu.Item>
+            <Menu.Item key="Salsas">Salsas</Menu.Item>
           </SubMenu>
           <Menu.Item key="tips">Tips de cocina</Menu.Item>
         </Menu>

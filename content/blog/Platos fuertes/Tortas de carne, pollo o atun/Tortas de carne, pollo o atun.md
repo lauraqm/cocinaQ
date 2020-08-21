@@ -25,6 +25,8 @@ date: "2020-08-13T22:12:03.284Z"
 7. Esperar a que estén bien doradas por ambos lados.
 8. Listo.
 
-Nota: Acompañar con la siguiente ensalada:
+**Nota**: Se puede servir con arroz, frijoles y alguna de las siguientes ensaladas:
 
-[Ensalada de repollo](https://www.notion.so/Ensalada-de-repollo-87e90436b72d471f8f7372ff8c7d41e8)
+[Ensalada de repollo](/Ensaladas/Ensalada de repollo/Ensalada de repollo)
+
+[Pico de gallo](/Ensaladas/Pico de gallo/Pico de gallo)

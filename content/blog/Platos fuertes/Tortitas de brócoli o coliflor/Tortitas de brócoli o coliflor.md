@@ -5,6 +5,7 @@ categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
+Una receta ideal para cuando queremos algo rico y saludable! Incluso frías saben bien.
 
 ### Ingredientes:
 
@@ -25,6 +26,9 @@ date: "2020-08-13T22:12:03.284Z"
 2. Mezclar queso, pan molido o masa, el huevo, olores, las especies y la sal al gusto.
 3. Agregar el brócoli o coliflor en trocitos.
 4. Amasar hasta que se puedan formar bolitas para hacer las tortitas. En caso de que este demasiado pegajosa, se puede agregar más pan molido o masa.
-5. Formar tortitas y cocinarlas a fuego medio por ambos lados en un sartén con un poquito de aceite. 
+5. Formar tortitas y cocinarlas a fuego medio por ambos lados en un sartén con un poquito de aceite.
 6. Freír hasta que estén doradas.
 7. Servir!
+
+
+**Nota**: Se puede servir con arroz y frijoles o usarse como merienda!

@@ -49,10 +49,10 @@ date: "2020-08-13T22:12:03.284Z"
 22. Retirar del fuego.
 23. Listo.
 
-Servir con las siguientes ensaladas y guarniciones:
+**Nota:** Acompañar con papas tostadas, frijoles molidos y con alguna de las siguientes ensaladas:
 
-[Ensalada Rusa](https://www.notion.so/Ensalada-Rusa-9bafa8bd2e1945458bb60886820c2f74)
+[Ensalada Rusa](/Ensaladas/Ensalada Rusa/Ensalada Rusa)
 
-[Ensalda de papa](https://www.notion.so/Ensalda-de-papa-b22271e936e74c85ac483ea64ac95c9b)
+[Ensalda de papa](/Ensaladas/Ensalda de papa/Ensalda de papa)
 
-[Frijolitos molidos caseros ](https://www.notion.so/Frijolitos-molidos-caseros-cd801a61732e43cb812a3be50df5a004)
+[Frijolitos molidos caseros](/Acompañamientos/Frijolitos molidos caseros/Frijolitos molidos caseros)

@@ -1,4 +1,12 @@
-# Ensalada verde con aguacate
+---
+title: Ensalada verde con aguacate
+description: Con 2 tipos de lechugas y aguacate, es una ensalada fresca ideal para acompañar casi cualquier platillo
+categories: Ensaladas
+tags: Costa Rica, ensalada, aguacate, lechuga
+date: "2020-08-17T22:12:03.284Z"
+---
+
+Con 2 tipos de lechugas y aguacate, es una ensalada fresca ideal para acompañar casi cualquier platillo
 
 ### Ingredientes:
 
@@ -18,13 +26,3 @@
 3. Cortar el pepino en cuadritos.
 4. Cortar el pepino en cuadritos.
 5. Poner todo en un tazón y agregar maíz dulce, limón y sal.
-
-![Ensalada%20verde%20con%20aguacate%20810796302c89488eb11028f09c5f0eb3/20200720_130724.jpg](Ensalada%20verde%20con%20aguacate%20810796302c89488eb11028f09c5f0eb3/20200720_130724.jpg)
-
-Lechuga crespa:
-
-![Ensalada%20verde%20con%20aguacate%20810796302c89488eb11028f09c5f0eb3/Untitled.png](Ensalada%20verde%20con%20aguacate%20810796302c89488eb11028f09c5f0eb3/Untitled.png)
-
-Lechuga capuchina:
-
-![Ensalada%20verde%20con%20aguacate%20810796302c89488eb11028f09c5f0eb3/Untitled%201.png](Ensalada%20verde%20con%20aguacate%20810796302c89488eb11028f09c5f0eb3/Untitled%201.png)

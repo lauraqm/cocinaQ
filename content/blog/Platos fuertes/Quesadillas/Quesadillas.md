@@ -10,10 +10,7 @@ Esta receta también se puede hacer con pollo desmechado y es mas deliciosa, per
 ## Ingredientes:
 
 - 1 tortilla de harina
-- 1 filete de pollo adobado al estilo color y sabor como se indica aquí
-
-[Adobes ](/Adobes/Adobes/)
-
+- 1 filete de pollo adobado al estilo color y sabor como se indica aquí: [Adobes](/Adobes/Adobes/)
 - Cebolla y chile dulce
 - Mantequilla
 - Queso crema
@@ -42,7 +39,9 @@ Esta receta también se puede hacer con pollo desmechado y es mas deliciosa, per
 17. Cuando ya esté lista retiramos del sartén y cortamos en forma de slice de pizza.
 18. Listo.
 
-Acompañar por una copita de natilla con sal o guacamole y pico de gallo
+**Nota**: Acompañar por una copita de natilla con sal o guacamole y pico de gallo
 
-[Pico de gallo](https://www.notion.so/Pico-de-gallo-ee74193811664ecf9718f428a8720f6e)
+[Pico de gallo](/Ensaladas/Pico de gallo/Pico de gallo)
+
+[Guacamole](/Acompañamientos/Guacamole/Guacamole)
 

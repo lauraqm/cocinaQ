@@ -39,5 +39,3 @@ Ensalada proviniente de Rusia como su nombre lo indica pero es muy utilizada en 
 13. Probar la sal y agregar de ser necesario.
 14. Dejar en la refrigeradora hasta que se enfríe  bien.
 15. Listo!
-
-![Ensalada%20Rusa%209bafa8bd2e1945458bb60886820c2f74/Untitled.png](Ensalada%20Rusa%209bafa8bd2e1945458bb60886820c2f74/Untitled.png)

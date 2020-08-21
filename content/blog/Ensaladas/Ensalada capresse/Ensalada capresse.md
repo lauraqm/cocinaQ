@@ -24,5 +24,3 @@ Ensalada capresse italiana ideal para acompañar pastas y pizza! Siendo tan lige
 4. Montar en un plato una tajada de tomate, una de mozzarella y una hojita de albahaca.
 5. Agregar sal y pimienta.
 6. Agregar unos ligeros chorritos de aceite de oliva con cuidado de no pasarse y que nos quede un charco de aceite.
-
-![Ensalada%20capresse%20070946ddd59e46e3b7a5d7e86285b351/Untitled.png](Ensalada%20capresse%20070946ddd59e46e3b7a5d7e86285b351/Untitled.png)

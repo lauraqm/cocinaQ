@@ -32,14 +32,20 @@ El pescado queda bien con solo pasarlo por pan y se recomienda: tilapia y dorado
 12. Esperar a que se cocine y poner sobre servilletas de cocina para absorber el exceso de aceite.
 13. Listo!
 
-Acompañar de alguna de las siguientes ensaladas:
+**Nota**: Se puede acompañar con alguna de las siguientes ensaladas:
 
-[Ensalada verde](https://www.notion.so/Ensalada-verde-b74d28ddcd2544aca595a8a00c068ee4)
+[Ensalada verde](/Ensaladas/Ensalada verde/Ensalada verde)
 
-[Ensalada verde con fresas](https://www.notion.so/Ensalada-verde-con-fresas-7494cc059bc64450a5d1f84075fbbc24)
+[Ensalada verde con fresas](/Ensaladas/Ensalada verde con fresas/Ensalada verde con fresas)
 
-[Ensalda de papa](https://www.notion.so/Ensalda-de-papa-b22271e936e74c85ac483ea64ac95c9b)
+[Ensalada tropical](/Ensaladas/Ensalada tropical/Ensalada tropical)
 
-[Ensalada de tomate y pepino](https://www.notion.so/Ensalada-de-tomate-y-pepino-9a0ca8e8ca1e465f9a0975f038e840c0)
+[Ensalada de repollo](/Ensaladas/Ensalada de repollo/Ensalada de repollo)
 
-[Pico de gallo](https://www.notion.so/Pico-de-gallo-ee74193811664ecf9718f428a8720f6e)
+[Pico de gallo](/Ensaladas/Pico de gallo/Pico de gallo)
+
+[Ensalada de tomate y pepino](/Ensaladas/Ensalada de tomate y pepino/Ensalada de tomate y pepino)
+
+[Ensalda de papa](/Ensaladas/Ensalda de papa/Ensalda de papa)
+
+[Coleslaw o ensalada de repollo KFC](/Ensaladas/Coleslaw o ensalada de repollo KFC/Coleslaw o ensalada de repollo KFC)
