@@ -15,7 +15,10 @@ class Header extends React.Component {
       navigate(`/Adobes/Adobes/`);
     }
     else if (e.key === 'AllRecipes'){
-      AllRecipes
+      navigate(`/all-recipes/`);
+    }
+    else if (e.key === 'Tips'){
+      navigate(`/tips/`);
     }
     else {
       navigate(`/categories/${kebabCase(e.key)}/`); 
@@ -36,7 +39,7 @@ class Header extends React.Component {
         </h1>
         <Menu onClick={this.handleClick} className="menu" key="main-menu" mode="horizontal">
           <SubMenu title="Recetas">
-            <Menu.Item key="search">Buscar recetas</Menu.Item>
+            {/* <Menu.Item key="search">Buscar recetas</Menu.Item> */}
             <Menu.Item key="AllRecipes">Índice de recetas</Menu.Item>
           </SubMenu>
           <SubMenu title="Categorías">
@@ -44,14 +47,14 @@ class Header extends React.Component {
             <Menu.Item key="Platos fuertes">Platos fuertes</Menu.Item>
             <Menu.Item key="Ensaladas">Ensaladas</Menu.Item>
             <Menu.Item key="Acompañamientos">Acompañamientos</Menu.Item>
-            <Menu.Item key="Sándwiches">Sándwiches</Menu.Item>
+            {/* <Menu.Item key="Sándwiches">Sándwiches</Menu.Item>
             <Menu.Item key="Desayunos">Desayunos</Menu.Item>
             <Menu.Item key="Dips y cremas">Dips y cremas</Menu.Item>
             <Menu.Item key="Panes tradicionales">Panes tradicionales</Menu.Item>
             <Menu.Item key="Postres">Postres</Menu.Item>
-            <Menu.Item key="Salsas">Salsas</Menu.Item>
+            <Menu.Item key="Salsas">Salsas</Menu.Item> */}
           </SubMenu>
-          <Menu.Item key="tips">Tips de cocina</Menu.Item>
+          <Menu.Item key="Tips">Tips de cocina</Menu.Item>
         </Menu>
         <div className='horizontal-divider'></div>
       </div>

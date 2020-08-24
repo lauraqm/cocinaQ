@@ -9,7 +9,7 @@ date: "2020-08-13T22:12:03.284Z"
 ## Ingredientes:
 
 - Pollo (Sabor y color) o posta de cerdo en trocitos pequeños. Adobado como se indica aquí: [Adobes ](/Adobes/Adobes/)
-- 1 lata de garbanzos mediana
+- 1 lata de garbanzos mediana o garbanzos caseros previamente cocinados.
 - Chile, cebolla y culantro.
 - Sabor y color de Magui.
 

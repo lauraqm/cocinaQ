@@ -1,16 +1,18 @@
 ---
 title: Picadillo de papa
-description: Picadillo de papa estilo costarricense
+description: Picadillo de papa tradicional costarricense
 categories: Platos fuertes
-tags: Costa Rica, costarricense, Plato fuerte, tradicional
+tags: Costa Rica, costarricense, Plato fuerte, tradicional, picadillo, papa
 date: "2020-08-13T22:12:03.284Z"
 ---
+
+Todos sabemos que los picadillos son muy tradicionales en Costa Rica, sin embargo que cada vez que pienso en un picadillo el primero que viene a mi mente es el de papa, ha de ser porque es más aceptado y uno de los más faciles de preparar.
 
 ### Ingredientes:
 
 - 2 Papas grandecitas
 - Cebolla, chile, culantro.
-- 250 gramos de carne molida, abodaba como se indica aquí [Adobes](/Adobes/Adobes/)
+- 250 gramos de carne molida de res o pollo, abodaba como se indica aquí [Adobes](/Adobes/Adobes/)
 - Color y sabor de Magui
 - Salsa lizano
 - Sal

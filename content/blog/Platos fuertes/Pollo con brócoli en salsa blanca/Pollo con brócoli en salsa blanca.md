@@ -1,10 +1,11 @@
 ---
 title: Pollo con brócoli en salsa blanca
-description: Pollo con brócoli en salsa blanca estilo costarricense
+description: Pollo con brocoli en salsa blanca o bechamel
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
+Pollo con brocoli en salsa blanca o bechamel, en esta receta lo hacemos con un paquetito de Magui por facilidad, pero también se puede hacer la salsa bechamel desde cero. Un plato magnífico para integral el brócoli (que a muchos no les gusta) y que pase desapercibido.
 
 ### Ingredientes
 

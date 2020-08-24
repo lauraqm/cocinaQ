@@ -1,10 +1,11 @@
 ---
 title: Pollo en salsa de tomate
-description: Pollo en salsa de tomate estilo costarricense
+description: Delicioso pollo desmechado en salsa de tomate estilo costarricense
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
+Este delicioso pollo desmechado en salsa de tomate, se puede utilizar como carne principal y comer con arroz y frijoles! Sin embargo se puede usar en chalupas, quesadillas, burritos y hasta empanadas!
 
 ## Ingredientes:
 

@@ -1,35 +1,55 @@
 import React from "react";
-import { Link, graphql } from "gatsby";
+// import { Link, graphql } from "gatsby";
 
 import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 import { rhythm, scale } from "../utils/typography";
 import "./blog-post.scss";
-import Img from "gatsby-image";
 import { Collapse } from 'antd';
 
+import ReactDOM from 'react-dom';
+import Modal from 'react-modal';
+import ImageModal from '../components/imageModal';
 
 
-
-const BlogPostTemplate = ({ data, pageContext, location }) => {
+const BlogPostTemplate = (props) => {
+  const { data, pageContext, location } = props;
   const post = data.markdownRemark;
   const siteTitle = data.site.siteMetadata.title;
-  const { previous, next } = pageContext;
   const { Panel } = Collapse;
   const images = data.allCloudinaryMedia.edges;
   let gallery;
+
+  const [modalIsOpen,setIsOpen] = React.useState(false);
+  const [modalUrl,setModalUrl] = React.useState();
+
+  const handleClick = (url) => {
+    console.log("Im in")
+    openModal(url);
+  }
+ 
+  const openModal = (url)=> {
+    console.log('open modal', url);
+    setIsOpen(true);
+    setModalUrl(url);
+  }
+
+  const closeModal = ()=>{
+    setIsOpen(false);
+  }
+
 
   //If there are images we will to create a panel for them
   if (images != null && images.length >0) {
     let allImages = [];
     for (var key in images) {
       let image = images[key];
-      let {secure_url, public_id} = image.node;
+      let {secure_url} = image.node;
       if (secure_url) {
         let url = secure_url.replace('q_auto,f_auto', 'c_scale,w_500');
         allImages.push (
-          <div className='recipe-process-image' key= {`${key}-gallery`}>
+          <div className='recipe-process-image' key= {`${key}-gallery`} onClick={ () => { handleClick (url) } } >
             <img src = {url}></img>
           </div>
         );
@@ -51,7 +71,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <div className="blog-post">
+      <div className="blog-post" id = "recipe">
         <article>
           <header>
             <h1 style={{ marginTop: rhythm(1),marginBottom: 0}}>
@@ -67,36 +87,18 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <Bio />
         </article>
       </div>
-
-      <nav>
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
-          <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
-      </nav>
+      <ImageModal 
+        isOpen={modalIsOpen}
+        url={modalUrl}
+        onClose ={closeModal}
+      >
+      </ImageModal>
     </Layout>
   );
 };
+
+
+
 
 export default BlogPostTemplate;
 

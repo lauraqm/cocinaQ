@@ -1,28 +1,37 @@
-.categories {
+@import '../styles/base.scss';
+
+.tips {
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
   justify-content: center;
 
   .card-container {
-    width: 250px;
-    margin: 15px;
+    width: 260px;
+    margin: 9px;
     text-align: center;
   }
 
   img {
     background-size: 0 150px;
-    height: 160px;
+    height: 400px;
     padding: 0 6px 0 6px;
   }
 
   .ant-card {
-    height: 300px;
+    height: 640px;
+    border: 1px solid $secundary-color-variant;
+    border-radius: 6px;
+
 
     .ant-card-body {
-      padding: 0;
+      padding: 5px;
       margin-top: -10px;
-      font-size: 12px;
     }
   }
+
+  .ant-card-head-title {
+    white-space:initial;
+  }
+
 }

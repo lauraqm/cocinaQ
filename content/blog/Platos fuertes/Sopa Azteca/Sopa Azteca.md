@@ -1,10 +1,11 @@
 ---
 title: Sopa Azteca
-description: Sopa Azteca estilo costarricense
+description: Sopa Azteca al mejor estilo costarricense, con algunas adaptaciones de la original Sopa de Tortilla Mexicana!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
+Sopa Azteca al mejor estilo costarricense, con algunas adaptaciones de la original Sopa de Tortilla Mexicana! Una mezcla suave de tomate, pollo y tortillas tostadas hacen de este platillo un gusto para el paladar.
 
 ## Ingredientes:
 

@@ -33,13 +33,22 @@
   .recipe-process-image{
     display: inline;
     img {
-      width: 200px;
+      width: 195px;
       height: auto;
+      margin: 5px;
     }
   }
 
   .ant-collapse {
     margin-top: 30px;
+  }
+
+  .image-container {
+    text-align: center;
+    img {
+      max-height: 400px;
+      max-width: 600px;
+    }
   }
 
 

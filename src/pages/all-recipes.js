@@ -12,7 +12,6 @@ import queryString from 'query-string';
 
 
 const AllRecipes = ({ data, location }) => {
-  console.log('----data', data);
   const siteTitle = data.site.siteMetadata.title;
   const posts = data.allMarkdownRemark.edges;
   const params = location.search ? queryString.parse(location.search) : {};
@@ -55,7 +54,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    allMarkdownRemark(filter: {frontmatter: {categories: {eq: $categories}}}, sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(filter: {frontmatter: {categories: {eq: $categories}}}, sort: { fields: [frontmatter___title], order: ASC }) {
       edges {
         node {
           excerpt

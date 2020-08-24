@@ -1,6 +1,6 @@
 ---
 title: Tacos de carnitas
-description: Tacos de carnitas estilo costarricense
+description: Version "light" de los tacos de carnitas mexicanas! Una delicia que tienes que intentar!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"

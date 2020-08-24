@@ -1,6 +1,6 @@
 ---
 title: Tortitas de arroz
-description: Tortitas de arroz estilo costarricense
+description: Una forma rápida de aprovechar sobritos de arroz!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"

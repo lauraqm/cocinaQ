@@ -1,10 +1,11 @@
 ---
 title: Wrap de pollo saludable
-description: Wrap de pollo saludable estilo costarricense
+description: Un wrap sin remordimientos!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
+Una forma bastante rapida de preparar algo diferente y muy saludable! Una receta para los que están cansados se comerse un filete de pollo muy frecuentemente, aquí les enseñamos como transformar ese filete en algo delicioso!
 
 ### Ingredientes
 

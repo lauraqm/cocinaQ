@@ -1,12 +1,13 @@
 ---
 title: Pizza suprema
-description: Pizza suprema estilo costarricense
+description: Pizza suprema casera, nada que envidiarle a la que solemos comprar!
 categories: Platos fuertes
-tags: Costa Rica, costarricense, Plato fuerte, tradicional
+tags: Costa Rica, costarricense, Plato fuerte, pizza
 date: "2020-08-13T22:12:03.284Z"
 featuredImgUrl: https://res.cloudinary.com/dwb6ecajn/image/upload/v1597729033/test/20200705_124610.jpg
 featuredImgAlt: Pizza suprema
 ---
+Pizza suprema casera, nada que envidiarle a la que solemos comprar! Un gusto controlando mejor la calidad de los ingredientes que se utilizan para preparar el platillo que todos aman: "La pizza"
 
 ## Ingredientes
 
@@ -26,8 +27,8 @@ featuredImgAlt: Pizza suprema
 
 - Queso pizzero
 - Salsa de tomate Prego Italiana o tradicional
-- Carne molida italiana
-- Salami o peperonni
+- Carne molida italiana o carne molida normal adobada como se indica aquí: [Adobes](/Adobes/Adobes/)
+- Salami o peperonni (también puede ser jamón)
 - Cebolla
 - Chile dulce
 - Tocineta

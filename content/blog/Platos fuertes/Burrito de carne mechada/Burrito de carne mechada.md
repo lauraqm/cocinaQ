@@ -1,15 +1,13 @@
 ---
 title: Burrito de carne mechada
-description: Burrito de carne mechada estilo costarricense
+description: Un burrito cargado de sabor y carne!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 featuredImgUrl: https://res.cloudinary.com/dwb6ecajn/image/upload/v1597710790/Burrito%20de%20carne%20mechada/20200526_193913_xjb4ee.jpg
 featuredImgAlt: Burrito de carne mechada
 ---
-Esta receta también podría hacerse mas simple con carne molida arreglada y sofrita con olores.
-
-Se acompaña de pico de gallo servido sobre una cama de lechuga picada bien finita.
+Un burrito cargado de sabor, originalmente los burritos mexicanos llevan arroz y frijoles enteros, pero en Costa Rica los hemos tropicalizado agreándoles frijoles molidos y quitando el arroz. Ésta receta también podría hacerse mas simple con carne molida arreglada y sofrita con olores. Se acompaña de pico de gallo servido sobre una cama de lechuga picada bien finita.
 
 ### Ingredientes
 

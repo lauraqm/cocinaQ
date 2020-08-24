@@ -1,6 +1,6 @@
 ---
 title: Pulled pork
-description: Pulled pork estilo costarricense
+description: Cerdo mechado con sabor BBQ, una delicia inigualable!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"

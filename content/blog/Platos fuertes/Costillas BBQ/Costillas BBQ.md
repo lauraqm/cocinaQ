@@ -1,14 +1,15 @@
 ---
 title: Costillas BBQ
-description: Costillas BBQ estilo costarricense
+description: Una de las formas más irresistibles de preparar carne de cerdo!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
+Una de las formas más irresistibles de preparar carne de cerdo! Esta receta conquista a todos, incluso a los que no son muy amantes del cerdo, solo se debe tener cuidado de no pasarse con la cantidad de salsa BBQ para que no queden muy fuertes de sabor. Si sigues la receta al pie de la letra podrás conquistar hasta al más exigente paladar.
 
 ### Ingredientes:
 
-- Rack de costillas de cerdo trozeadas en porciones personales y adobadas como se indica aquí: [Adobes ](/Adobes/Adobes/)
+- Rack de costillas de cerdo trozeadas en porciones personales y adobadas como se indica aquí: [Adobes](/Adobes/Adobes/)
 - Orégano
 - Laurel
 - Tomillo
@@ -41,7 +42,6 @@ date: "2020-08-13T22:12:03.284Z"
 [Ensalada verde con aguacate](/Ensaladas/Ensalada verde con aguacate/Ensalada verde con aguacate)
 
 [Ensalada verde con queso feta](/Ensaladas/Ensalada verde con queso feta/Ensalada verde con queso feta)
-
 
 [Ensalada verde](/Ensaladas/Ensalada verde/Ensalada verde)
 

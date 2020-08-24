@@ -1,12 +1,14 @@
 ---
 title: Arroz con camarones
-description: Arroz con camarones estilo costarricense
+description: Una deliciosa combinación camarones y arroz, parecen simples ingredientes, pero el resultado es sorprente
 categories: Platos fuertes
 tags: Costa Rica, costarricense, camarones, arroz
 date: "2020-08-04T22:12:03.284Z"
 ---
 
-Porción para 2 personas
+Una deliciosa combinación camarones y arroz, parecen simples ingredientes, pero el resultado es sorprente. Los camarones son de los mejores mariscos, ya que son muy dóciles y faciles de cocinar.
+
+**Porción para 2 personas**
 
 ## Ingredientes
 

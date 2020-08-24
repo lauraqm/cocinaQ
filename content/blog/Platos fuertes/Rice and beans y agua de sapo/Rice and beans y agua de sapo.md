@@ -1,10 +1,11 @@
 ---
 title: Rice and beans y agua de sapo
-description: Rice and beans y agua de sapo estilo costarricense
+description: Lo mejor del Caribe costarricense sin duda es su deliciosa comida y aquí esta el plato estrella!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
+Lo mejor del Caribe costarricense sin duda es su deliciosa comida y aquí esta el plato estrella! Un plato bastante complejo en preparación y tiempo, por eso recomiendo empezar desde el dia antes a adobar el pollo y preparar los frijoles. El trabajo es mucho pero el resultado es impresionante!
 
 ## Ingredientes para adobar el pollo:
 
@@ -46,7 +47,7 @@ date: "2020-08-13T22:12:03.284Z"
 
 ## Preparación rice and beans
 
-1. Cocinar los frijoles con suficiente agua y 1/3 de lata de leche de coco, 2 hojas de laurel, 1 rollito de tomillo, agregar sal,  ajos, orégano y demás especies de su preferencia. Tratar de que les falte un poquito de cocción para terminar de 
+1. Cocinar los frijoles con suficiente agua y 1/3 de lata de leche de coco, 2 hojas de laurel, 1 rollito de tomillo, agregar sal,  ajos, orégano y demás especies de su preferencia. Tratar de que les falte un poquito de cocción para terminar de cocinarlos cuando mezclemos con el arroz.
 2. Escurrir los frijoles y apartar el caldo y los frijoles.
 3. Sofreír el culantro, la cebolla y el chile dulce.
 4. Lavar bien el arroz, escurrirlo y sofreírlo con los olores.

@@ -1,10 +1,12 @@
 ---
 title: Chili con carne
-description: Chili con carne estilo costarricense
+description: Una receta "Tex-Mex" que se ha populariazado por su simplicidad y sabor!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
+
+El plato más reconocido de la comida fusión Texas-México o Tex-Mex como se le conoce mundialmente. Es una receta simple pero cargada de sabor, puede ser tan picante como gustemos, pero sin duda es un ícono en los bares estadounidenses y ahora hasta en los cines!
 
 Rinde 2 porciones
 

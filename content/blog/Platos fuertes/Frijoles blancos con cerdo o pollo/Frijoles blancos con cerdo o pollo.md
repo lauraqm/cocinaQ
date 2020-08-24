@@ -1,6 +1,6 @@
 ---
 title: Frijoles blancos con cerdo o pollo
-description: Frijoles blancos con cerdo o pollo estilo costarricense
+description: Una forma simple y fácil de preparar estas legumbres.
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
@@ -8,7 +8,7 @@ date: "2020-08-13T22:12:03.284Z"
 
 ## Ingredientes:
 
-- Frijoles blancos cocinados previamente.
+- Frijoles blancos cocinados previamente. Pueden ser caseros o de lata.
 - Si se desea hacer con pollo se necesitan Trozos de pechuga de pollo  Con sabor y color. Si se desea con cerdo, se necesitan trozos pequeños de posta de cerdo adobados como se indica aquí: [Adobes](/Adobes/Adobes/)
 - Chile, cebolla y culantro.
 - Achiote.

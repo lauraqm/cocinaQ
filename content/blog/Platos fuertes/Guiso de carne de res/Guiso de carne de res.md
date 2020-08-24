@@ -1,6 +1,6 @@
 ---
 title: Guiso de carne de res
-description: Guiso de carne de res estilo costarricense
+description: Excelente opción para todos aquellos que amamos la olla de carne pero a veces no tenemos suficiente tiempo para preparla
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"

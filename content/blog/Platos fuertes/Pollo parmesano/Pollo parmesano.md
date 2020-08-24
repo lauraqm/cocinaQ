@@ -1,12 +1,12 @@
 ---
 title: Pollo parmesano
-description: Pollo parmesano estilo costarricense
+description: Pollo parmesano saludable hecho al horno o en freidora de aire!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
 
-Esta receta se puede hacer en la freidora de aire o al horno.
+Pollo parmesano saludable hecho al horno o en freidora de aire! Ideal para darnos un gusto sin preocuparnos mucho por el aporte calórico de un plato que normalmente es bastante pesado.
 
 ## Ingredientes
 

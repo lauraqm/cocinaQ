@@ -37,7 +37,7 @@ const CustomFooter = () => {
     }
   `);
 
-  // let mediaPanel = [];
+  let mediaPanel = [];
   // for (var key in mediaData) {
   //   let media = mediaData[key];
   //   let image;

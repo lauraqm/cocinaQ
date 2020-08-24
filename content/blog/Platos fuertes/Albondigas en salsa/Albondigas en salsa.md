@@ -1,17 +1,18 @@
 ---
 title: Albóndigas en salsa de tomate
-description: Deliciosas albóndigas en salsa de tomate estilo costarricense
+description: Deliciosas albóndigas en salsa de tomate para disfrutar de la carne molida en una forma diferente
 categories: Platos fuertes
 tags: Costa Rica, costarricense, salsa, albóndigas, carne molida
 date: "2020-08-04T22:12:03.284Z"
 ---
+Deliciosas albóndigas en salsa de tomate para disfrutar de la carne molida en una forma diferente, si se desea se pueden rellenar con queso para darles un toque especial, a los niños les encanta porque es como encontrar una sorpresa escondida en esa bolita de carne!
 
 ### Ingredientes
 
 - Masa (maseca) o pan molido.
 - 1 huevo pequeño.
 - 1/2 taza de queso parmesano rallado.
-- Carne molida de res como para 4 bolitas, adobada como se indica aquí [Adobes ](/Adobes/Adobes/)
+- Carne molida de res como para 4 bolitas, adobada como se indica aquí [Adobes](/Adobes/Adobes/)
 - Bastante chile, culantro, cebolla picados.
 - Salsitas de Tomate Naturas o Prego.
 - Opcional: Cuadritos de queso mozarella o alguno que derrita.

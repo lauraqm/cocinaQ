@@ -1,11 +1,11 @@
 ---
 title: Quesadillas
-description: Quesadillas estilo costarricense
+description: Quesadillas a la plancha o sartén, deliciosas y fáciles de preparar.
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
-Esta receta también se puede hacer con pollo desmechado y es mas deliciosa, pero es mas compleja, pero si uno tiene algún sobrante en la refrigeradora se puede aprovechar. De esta forma iniciaríamos la receta en el punto 7.
+Esta receta también se puede hacer con pollo desmechado y es mas deliciosa, pero es más compleja, pero si uno tiene algún sobrante en la refrigeradora se puede aprovechar. De esta forma iniciaríamos la receta en el punto 7.
 
 ## Ingredientes:
 

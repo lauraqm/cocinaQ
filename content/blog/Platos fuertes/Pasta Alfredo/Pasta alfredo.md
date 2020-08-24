@@ -1,20 +1,21 @@
 ---
-title: Pasta carbonara
-description: Pasta carbonara estilo costarricense
+title: Pasta Alfredo
+description: Pasta alfredo, deliciosa y simple!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
 
-Esta receta se puede hacer de dos formas: con pollo en cubitos o con camarones.
+Esta receta se puede hacer de dos formas: con pollo en cubitos o con camarones. De ambas formas es una receta sencilla, con pocos ingredientes pero un clásico de las pastas!
+
+**Rinde para 2 porciones**
 
 ### Ingredientes
 
 - Pasta de spaguettis
-- Salsa Prego tipo Alfredo (medio tarro)
+- Salsa Prego tipo Alfredo (medio tarro).
 - 3 tajaditas de tocineta
-- 1/2 pechuga de pollo "A las hierbas" o "Color y sabor". Tambien se pueden usar "Camarones al ajillo". Adobadar como se indica aquí [Adobes ](/Adobes/Adobes/)
-
+- 1/2 pechuga de pollo "A las hierbas" o "Color y sabor". Tambien se pueden usar "Camarones al ajillo". Adobadar como se indica aquí [Adobes](/Adobes/Adobes/)
 - Chile, culantro, cebolla picados al gusto
 
 ### Indicaciones:

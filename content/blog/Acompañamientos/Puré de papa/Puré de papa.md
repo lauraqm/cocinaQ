@@ -1,10 +1,12 @@
 ---
 title: Puré de papa
-description: Puré de papa estilo costarricense
+description: No hay quien se resista a un puré de papa hecho con papas reales!
 categories: Acompañamientos
 tags: Costa Rica, costarricense, acompañamientos, guarniciones, pure, papa
 date: "2020-08-17T22:12:03.284Z"
 ---
+
+No hay quien se resista a un puré de papa hecho con papas reales, una de mis formas preferidas de comer papa, es que ese sabor cremoso y ligero hace que sea demasiado fácil de usar como acompañante de casi cualquier platillo!
 
 ### Ingredientes:
 

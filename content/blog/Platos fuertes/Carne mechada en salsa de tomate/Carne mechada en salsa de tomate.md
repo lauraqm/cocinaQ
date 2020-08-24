@@ -1,17 +1,15 @@
 ---
 title: Carne mechada en salsa de tomate
-description: Carne mechada en salsa de tomate estilo costarricense
+description: Creo que a todos los que nos gusta la carne, nos fascina la carne mechada y ésta es la receta para lograr una muy deliciosa!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
+Creo que a todos los que nos gusta la carne, nos fascina la carne mechada y ésta es la receta para lograr una muy deliciosa! Se puede utilizar salsa natural hecha en casa o bien salsas pre-hechas como se indica en la receta, todo depende del tiempo que tengamos!
 
 ### Ingredientes:
 
-- Trocear en pedazos grandes la carne para mechar y adobarla como dice aquí
-
-[Adobes ](/Adobes/Adobes/)
-
+- Trocear en pedazos grandes la carne para mechar y adobarla como dice aquí: [Adobes](/Adobes/Adobes/)
 - 2 salsitas naturas o 1 salsa prego de tomate.
 - 1/2 lata de hongos.
 - Chile, cebolla y culantro picado.
@@ -33,7 +31,7 @@ date: "2020-08-13T22:12:03.284Z"
 9. Probar si el caldo esta bien de sal o si necesita un poquito mas. 
 10. Agregar los hongos
 11. Esperar a que hierva un poquito el caldo y se seque un poquitito.
-12. Agregar la salsa de tomate. 
+12. Agregar la salsa de tomate.
 13. Esperar a que hierva y espese un poquito.
 14. Listo 
 

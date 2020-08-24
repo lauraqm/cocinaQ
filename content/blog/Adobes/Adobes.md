@@ -1,12 +1,14 @@
 ---
 title: Adobes para todas las carnes
-description: Como adobar diferentes tipos de carnes para obtener los mejores platillos
+description: Como adobar diferentes tipos de carnes para obtener los mejores platillos, es aquí por donde todos debemos empezar en la cocina!
 categories: Adobes
 tags: Costa Rica, costarricense, salsa, condimentos, especies
 date: "2020-08-04T22:12:03.284Z"
 ---
 
 Para adobar cualquiera de las carnes se debe primero hacer un tipo de salsa para remojar la carne a adobar, para ello se puede agregar un poquito de agua, aceite y salsas. La idea es que haya suficiente adobe para remojar la carne, a excepción de las carnes molidas, estas van a absorber la salsa de adobe que preparamos. Lo ideal es adobar la carne al menos el día previo a ser consumida.  Se debe tener cuidado y probar la sal del adobe antes de que tenga contacto con la carne debido a que la carne cruda puede tener bacterias que nos pueden enfermar. En la mayoría de adobes se usan 3 ingredientes principales: Pimienta negra, sal y ajo; el ajo se puede usar natural, pero si la carne se va a sofreír o hacer frita, el ajo al dorarse mucho tiende a quemarse y quedar muy amargo.
+
+**Tip:** Ua vez que se termine de marinar carnes debemos limpiar con un pañito con cloro todas las superficies de la cocina que estuvieron en contacto con la carne. Se debe lavar con cloro y jabón de platos, los utensilios como tablas de picar, cuchillos y tazones; esto debido a que las carnes crudas contienen muchas bacterias como Salmonella Escherichia Coli y demás.
 
 ## Pescado (tilapia, dorado) 🐟
 

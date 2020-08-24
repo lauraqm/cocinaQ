@@ -1,22 +1,27 @@
 ---
 title: Papas a las hierbas
-description: Papas a las hierbas estilo costarricense
+description: Papas sencillas y fáciles de hacer para sorprender a cualquiera!
 categories: Acompañamientos
 tags: Costa Rica, costarricense, acompañamientos, guarniciones, papas, hierbas
 date: "2020-08-17T22:12:03.284Z"
 ---
 
-Cocinar papitas golden (las pequenitas) en agua hasta que esten suavecitas. 
+Papas sencillas y fáciles de hacer para sorprender a cualquiera. Sirven para acompañar cualquier carne o pescado.
 
-Derretir 3 cucharadas de mantequilla en el microondas.
 
-Agregar a la mantequilla las siguientes especies:
-
+### Ingredientes:
 - Perejil
 - Tomillo
 - Orégano
 - Romero
 - Albahaca
-- Sazon completo
+- Sazón completo
+- Papas golden o pequeñitas
+- Mantequilla
 
-Escurrir bien las papitas y sofreirlas un par de minutos con la mezlca de mantequilla y hierbas.
+### Indicaciones:
+
+1. Cocinar papitas golden en agua con sal hasta que esten suavecitas.
+2. Derretir 3 cucharadas de mantequilla en el microondas.
+3. Agregar a la mantequilla las siguientes especies: Perejil,Tomillo, Orégano, Romero, Albahaca, Sazón completo.
+4. Escurrir bien las papitas y sofreírlas un par de minutos con la mezlca de mantequilla y hierbas.

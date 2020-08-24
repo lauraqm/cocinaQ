@@ -5,7 +5,7 @@ categories: Acompañamientos
 tags: Costa Rica, costarricense, acompañamientos, guarniciones, ceviche, pescado
 date: "2020-08-17T22:12:03.284Z"
 ---
-Ceviche de pescado estilo costarricense ideal para una comida liviana
+Ceviche de pescado estilo costarricense ideal para una comida liviana o para quitarse el antojo de un cevichito!
 
 ### Ingredientes:
 

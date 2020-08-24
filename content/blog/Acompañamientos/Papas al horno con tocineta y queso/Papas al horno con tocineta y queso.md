@@ -1,12 +1,11 @@
 ---
 title: Papas al horno con tocineta y queso
-description: Papas al horno con tocineta y queso estilo costarricense
+description: Papas recargadas de sabor, hechas al horno ideales para una ocasión especial!
 categories: Acompañamientos
 tags: Costa Rica, costarricense, acompañamientos, guarniciones, papas, horno
 date: "2020-08-17T22:12:03.284Z"
 ---
-
-Esta receta es ideal para acompañar carnes a la parrilla o pescados.
+Papas recargadas de sabor, hechas al horno ideales para una ocasión especial! Esta receta es ideal para acompañar carnes a la parrilla o cualquier tipo de carne, o incluso para una cena navideña.
 
 ### Ingredientes:
 

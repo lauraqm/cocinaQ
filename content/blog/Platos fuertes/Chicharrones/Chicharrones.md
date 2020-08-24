@@ -5,6 +5,7 @@ categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
+Los ticos somos amantes a los chicharrones, tanto que cuando pasamos algun tiempo fuera de Costa Rica, no falta quien nos diga "Vamos por unos chicharrones" o "Hagamos una chicharronada" especialmente si es cerca de navidad! Todos durante diciembre nos comemos unos cuantos!
 
 ## Ingredientes:
 

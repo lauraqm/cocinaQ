@@ -1,6 +1,6 @@
 ---
 title: Ensalada de pollo
-description: Ensalada de pollo estilo costarricense
+description: Ligera y deliciosa ensalada con trozos de pollo!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"

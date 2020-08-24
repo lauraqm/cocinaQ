@@ -1,12 +1,14 @@
 ---
 title: Canelones rellenos de atún y queso
-description: Canelones rellenos de atún y queso estilo costarricense
+description: Canelones rellenos de atún y queso, magnífica receta ideal para Semana Santa!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
+Hace un tiempo durante Semana Santa ya estaba cansada de comer atún y pescado, entonces me puse creativa y salieron estos delciosos canelones que ahora se comen en casa cada vez que nos antojamos!
 
-Esta receta requiere horno. Y rinde para entre 6 y 8 canelones.
+
+**Esta receta requiere horno. Y rinde para entre 6 y 8 canelones**
 
 ## Ingredientes
 

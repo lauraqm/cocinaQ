@@ -1,16 +1,16 @@
 ---
 title: Pescado o pollo empanizado
-description: Pescado pollo empanizado estilo costarricense
+description: Parece simple, pero para muchas personas empanizar de la manera adecuada es todo un misterio.
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
-Esta receta sirve para empanizar pollo en cualquier presentación: pechuga, muslos, fajitas, deditos, ect.
+Parece simple, pero para muchas personas empanizar de la manera adecuada es todo un misterio.Esta receta sirve para empanizar pollo en cualquier presentación: pechuga, muslos, fajitas, deditos, ect.
 El pescado queda bien con solo pasarlo por pan y se recomienda: tilapia y dorado (marlen dorado)
 
 ## Ingredientes:
 
-- Pan molido (BIMBO) o empanizador que no sea salado.
+- Pan molido (Bimbo) o empanizador a base de pan que tenga sal agregada.
 - Harina (opcional)
 - Huevo (opcional)
 - Filetes de Pescado o pechugas de pollo adobado.

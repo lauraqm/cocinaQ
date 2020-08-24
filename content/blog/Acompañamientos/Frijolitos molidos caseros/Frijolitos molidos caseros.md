@@ -1,10 +1,11 @@
 ---
 title: Frijolitos molidos caseros
-description: Frijolitos molidos caseros estilo costarricense
+description: Tan caseros como los de las abuelas!
 categories: Acompañamientos
 tags: Costa Rica, costarricense, acompañamientos, guarniciones, frijoles, molidos
 date: "2020-08-17T22:12:03.284Z"
 ---
+Frijolitos molidos caseros como los de las abuelas, sirven para acompañar cualquier tipo de arroz o para comer con tortillas tostadas. Una opción saludable y sin preservantes (a diferencia de los comerciales), hechos en casa con todo el amor y sabor!
 
 ### Ingredientes:
 

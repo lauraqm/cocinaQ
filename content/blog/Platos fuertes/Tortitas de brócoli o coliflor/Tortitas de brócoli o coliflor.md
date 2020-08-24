@@ -1,11 +1,11 @@
 ---
 title: Tortitas de brócoli o coliflor
-description: Tortitas de brócoli o coliflor estilo costarricense
+description: Tortitas saludables de coliflor, ideales para que los niños coman este vegetal tan rechazado por ellos! 
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 ---
-Una receta ideal para cuando queremos algo rico y saludable! Incluso frías saben bien.
+Una receta ideal para cuando queremos algo rico y saludable! Incluso frías saben bien, como snack, como cena o como acompañamiento!
 
 ### Ingredientes:
 

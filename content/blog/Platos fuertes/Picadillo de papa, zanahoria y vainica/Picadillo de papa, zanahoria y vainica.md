@@ -1,10 +1,11 @@
 ---
 title: Picadillo de papa, zanahoria y vainica
-description: Picadillo de papa, zanahoria y vainica estilo costarricense
+description: Picadillo multi color super saludable!
 categories: Platos fuertes
-tags: Costa Rica, costarricense, Plato fuerte, tradicional
+tags: Costa Rica, costarricense, picadillo, Plato fuerte, tradicional, zanahoria, vainica, papa
 date: "2020-08-13T22:12:03.284Z"
 ---
+La única forma en que mi mamá lograba que comiéramos vainicas cuando éramos niños era con este picadillo, porque pasa disimulada la vainica y predomina el sabor de la papa y la zanahoria. Muy saludable y perfecto para un almuerzo o cena sin arrepentimientos.
 
 ### Ingredientes:
 
@@ -12,7 +13,7 @@ date: "2020-08-13T22:12:03.284Z"
 - 1 puñito de vainicas (unas 12)
 - 1 zanahoria.
 - Cebolla, chile, culantro.
-- 250 gramos de carne molida, abodaba como se indica aquí: [Adobes ](/Adobes/Adobes/)
+- 250 gramos de carne molida, abodaba como se indica aquí: [Adobes](/Adobes/Adobes/)
 - Achiote o Color y Sabor de Magui
 - Salsa lizano
 - Sal

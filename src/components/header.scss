@@ -25,10 +25,9 @@
   }
 
   .horizontal-divider {
-    border-bottom: 1px solid $secundary-color;
+    border-bottom: 1px solid $secundary-color-variant;
     width: 100%;
     margin-top: 15px;
-    opacity: 0.3;
   }
 
   @media only screen and (max-width: 450px) {

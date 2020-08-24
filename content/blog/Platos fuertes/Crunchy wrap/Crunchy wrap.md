@@ -1,10 +1,11 @@
 ---
 title: Crunchy wrap
-description: Crunchy wrap estilo costarricense
+description: Nuestra versión de este platillo que sirven en TacoBell pero mejorada!
 categories: Platos fuertes
-tags: Costa Rica, costarricense, Plato fuerte, tradicional
+tags: Costa Rica, Tacobell, Crunchy wrap
 date: "2020-08-13T22:12:03.284Z"
 ---
+Muchas personas no les gusta la comida rápida, y esto es entendible, sin embargo esta receta preparada en casa puede darnos una grata sorpresa!
 
 ## Ingredientes:
 
