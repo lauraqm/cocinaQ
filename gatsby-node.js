@@ -7,7 +7,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   // This GraphQL query is used to retrieve the list of posts 
   const blogPost = path.resolve(`./src/templates/blog-post.js`);
   // This GraphQL query is used to retrieve the list of categories to generate 
-  const categoryTemplate = path.resolve("./src/templates/category-list.js");
+  const categoryTemplate = path.resolve("./src/templates/recipes-by-category.js");
 
   const result = await graphql(
     `

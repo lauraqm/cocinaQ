@@ -2,15 +2,12 @@ import React from "react";
 import { Card } from 'antd';
 const { Meta } = Card;
 import { navigate } from 'gatsby';
-import kebabCase from "lodash/kebabCase";
 import "./tipCard.scss";
 
 class TipCard extends React.Component {
-
   handleClick = (title) => {
     navigate(`/Tips/${title}/`); 
   }
-
 
   render() {
     const { title, content, image } = this.props;

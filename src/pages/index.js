@@ -1,10 +1,9 @@
 import React from "react"
+import { Helmet } from "react-helmet";
 import { Link, graphql } from "gatsby"
-
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import CategoryCard from "../components/categoryCard"
-// import SEO from "../components/seo"
 import "../fonts/AnticSlab/antic-font.scss";
 import "../fonts/photograph-signature/photograph-signature.scss";
 import "../styles/override-ant-desing.scss"
@@ -15,6 +14,7 @@ const Index = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
+      <Helmet title="Cocina Q" defer={false} />
       <div >
         <CategoryCard></CategoryCard>
       </div>

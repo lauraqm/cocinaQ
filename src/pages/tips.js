@@ -1,4 +1,5 @@
 import React from "react";
+import { Helmet } from "react-helmet";
 
 // Components
 import { graphql } from "gatsby";
@@ -12,6 +13,7 @@ const Tips = ({ pageContext, data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
+      <Helmet title="Tips de cocina" defer={false} />
       <div className="tips">
         {
         edges.map((data) => {

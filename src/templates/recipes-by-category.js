@@ -1,14 +1,16 @@
 import React from "react";
+import { Helmet } from "react-helmet";
 import PropTypes from "prop-types";
-import "./category-list.scss";
+import "./recipes-by-category.scss";
 
 // Components
 import { Link, graphql } from "gatsby";
 import Bio from "../components/bio";
 import Layout from "../components/layout";
 import groupBy from "lodash/groupBy";
+import SEO from "../components/seo";
 
-const CategoryList = ({ pageContext, data, location }) => {
+const RecipesByCategory = ({ pageContext, data, location }) => {
   const siteTitle = data.site.siteMetadata.title;
   const { edges } = data.allMarkdownRemark;
 
@@ -43,6 +45,8 @@ const CategoryList = ({ pageContext, data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
+      <SEO title="Recetas costarricenses" />
+      <Helmet title="Todas las recetas" defer={false} />
       <div className='recipe-index'>
         {result}
       </div>
@@ -51,7 +55,7 @@ const CategoryList = ({ pageContext, data, location }) => {
   );
 };
 
-CategoryList.propTypes = {
+RecipesByCategory.propTypes = {
   pageContext: PropTypes.shape({
     tag: PropTypes.string,
   }),
@@ -74,7 +78,7 @@ CategoryList.propTypes = {
   }),
 };
 
-export default CategoryList;
+export default RecipesByCategory;
 
 export const pageQuery = graphql`
   query($category: String) {

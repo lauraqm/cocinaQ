@@ -73,7 +73,7 @@ module.exports = {
         short_name: `CocinaQ`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#19807A`,
         display: `minimal-ui`,
         icon: `content/assets/fav-icon.png`,
       },

@@ -1,15 +1,11 @@
 import React from "react";
-// import { Link, graphql } from "gatsby";
-
+import { Helmet } from "react-helmet";
 import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 import { rhythm, scale } from "../utils/typography";
 import "./blog-post.scss";
 import { Collapse } from 'antd';
-
-import ReactDOM from 'react-dom';
-import Modal from 'react-modal';
 import ImageModal from '../components/imageModal';
 
 
@@ -71,6 +67,7 @@ const BlogPostTemplate = (props) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
+      <Helmet title= {post.frontmatter.title} defer={false} />
       <div className="blog-post" id = "recipe">
         <article>
           <header>

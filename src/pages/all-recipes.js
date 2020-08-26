@@ -1,6 +1,6 @@
 import React from "react";
+import { Helmet } from "react-helmet";
 import { Link, graphql } from "gatsby";
-
 import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
@@ -19,7 +19,8 @@ const AllRecipes = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="All post by category" />
+      <SEO title="Recetas costarricenses" />
+      <Helmet title="Todas las recetas" defer={false} />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
