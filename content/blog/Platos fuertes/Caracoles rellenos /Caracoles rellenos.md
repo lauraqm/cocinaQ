@@ -1,6 +1,6 @@
 ---
 title: Caracoles rellenos
-description: Caracoles rellenos en 2 estilos diferentes!
+description: Caracoles rellenos al horno y caracoles rellenos como ensalada a base de pasta!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
