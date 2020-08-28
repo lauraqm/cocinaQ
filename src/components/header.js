@@ -40,7 +40,7 @@ class Header extends React.Component {
         <Menu onClick={this.handleClick} className="menu" key="main-menu" mode="horizontal">
           <SubMenu title="Recetas">
             {/* <Menu.Item key="search">Buscar recetas</Menu.Item> */}
-            <Menu.Item key="AllRecipes">Índice de recetas</Menu.Item>
+            <Menu.Item key="AllRecipes">Todas las recetas</Menu.Item>
           </SubMenu>
           <SubMenu title="Categorías">
             <Menu.Item key="Adobes">Adobes</Menu.Item>

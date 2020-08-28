@@ -12,7 +12,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const result = await graphql(
     `
       {
-        postsRemark: allMarkdownRemark(limit: 2000) {
+        postsRemark:allMarkdownRemark(limit: 2000, filter: {frontmatter: {categories: {ne: "Tips"}}}) {
           edges {
             node {
               fields {

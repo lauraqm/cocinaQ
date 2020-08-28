@@ -43,9 +43,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       limit: 2000
       sort: { fields: [frontmatter___title], order: ASC }
-      filter: { frontmatter: { categories: { eq: "Tips" } } }
-    ) {
-      totalCount
+      filter: { frontmatter: { categories: { eq: "Tips" } } }) {
       edges {
         node {
           excerpt
