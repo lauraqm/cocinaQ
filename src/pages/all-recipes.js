@@ -15,6 +15,8 @@ const AllRecipes = ({ data, location }) => {
   let allPosts = data.allMarkdownRemark.edges || [];
   let filteredData = [];
   const [state, setState] = useState({ filteredData: allPosts, query: ""});
+  const [searchByIngredient, setSearchByIngredient] = useState(false);
+
 
   const handleInputChange = (event) => {
     console.log("in here")
@@ -22,12 +24,26 @@ const AllRecipes = ({ data, location }) => {
     // return all filtered posts
     filteredData = allPosts.filter((post) => {
       const { description, title} = post.node.frontmatter;
-      return (
-        //description.toLowerCase().includes(query.toLowerCase()) ||
-        title.toLowerCase().includes(query.toLowerCase()) 
-      );
+      const { html } = post.node;
+      if (searchByIngredient) {
+        return (
+          description.toLowerCase().includes(query.toLowerCase()) ||
+          title.toLowerCase().includes(query.toLowerCase()) ||
+          html.toLowerCase().includes(query.toLowerCase())
+        );
+      }
+      else {
+        return (
+          description.toLowerCase().includes(query.toLowerCase()) ||
+          title.toLowerCase().includes(query.toLowerCase())
+        );
+      }
     });
     setState({filteredData, query});
+  };
+
+  const ingredientHandler = (isActive) => {
+    setSearchByIngredient (isActive);
   };
 
  
@@ -35,7 +51,7 @@ const AllRecipes = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Recetas costarricenses" />
       <Helmet title="Todas las recetas" defer={false} />
-      <SearchBar eventFunction={handleInputChange}></SearchBar>
+      <SearchBar onInputChange={handleInputChange} onIngredientToggleChange={ingredientHandler}></SearchBar>
       {state.filteredData.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug;
         return (
@@ -84,6 +100,7 @@ export const pageQuery = graphql`
           fields {
             slug
           }
+          html
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title

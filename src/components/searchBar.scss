@@ -1,24 +1,51 @@
 @import "../styles/base.scss";
 
 .search-bar {
+  display: flex;
+  align-items: center;
   width: 400px;
-  background: #f6f6f6;
+  background: $search-background;
   border-radius: 5px;
-  padding: 5px;
-  border: 1px solid #d4d4d4;
+  padding: 10px;
+  border: 1px solid $search-border;
+  
+
+  &:focus-within {
+    border-color: rgba(195,92,160,0.6);
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(195,92,160,0.6); 
+    box-shadow: 0px 0px 8px 0px rgba(195,92,160,0.6);
+  }
+
+  @media only screen and (max-width: 450px) {
+    width: 310px;
+  }
 
   input {
-    width: 300px;
+    width: 340px;
     background-color: transparent;
     outline: none;
     border: none;
     margin-left: 8px;
+    
   }
 
-  svg {
-    vertical-align: text-bottom;
-    top: 50%;
+  .icon-search,
+  .icon-milk {
+    fill: $primary-color;
+    height: 25px;
+    width: 25px;
+    margin: 0 auto;
+    flex-shrink: 0;
+  }
+
+  .icon-search {
     height: 20px;
-    margin-left: 5px;
+    width: 20px;
+  }
+
+  @media only screen and (max-width: 450px) {
+    input {
+      width: 250px;
+    }
   }
 }
