@@ -21,12 +21,10 @@ const BlogPostTemplate = (props) => {
   const [modalUrl,setModalUrl] = React.useState();
 
   const handleClick = (url) => {
-    console.log("Im in")
     openModal(url);
   }
  
   const openModal = (url)=> {
-    console.log('open modal', url);
     setIsOpen(true);
     setModalUrl(url);
   }

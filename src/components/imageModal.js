@@ -8,7 +8,6 @@ class ImageModal extends React.Component {
 
   render() {
     const { isOpen, url } = this.props;
-    console.log("Is open", isOpen, url, this.props);
     return (
       <Modal
           title="Imagen del proceso"

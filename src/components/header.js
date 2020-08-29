@@ -22,7 +22,6 @@ class Header extends React.Component {
     }
     else {
       navigate(`/categories/${kebabCase(e.key)}/`); 
-      console.log (e);
     }
   }
 

@@ -119,6 +119,12 @@ module.exports = {
         maxResults: 2000
       }
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-176742320-1",
+      },
+    },
   
     
   ],

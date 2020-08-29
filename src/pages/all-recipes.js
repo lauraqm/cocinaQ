@@ -19,7 +19,6 @@ const AllRecipes = ({ data, location }) => {
 
 
   const handleInputChange = (event) => {
-    console.log("in here")
     const query = event.target.value;
     // return all filtered posts
     filteredData = allPosts.filter((post) => {
