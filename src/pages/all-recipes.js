@@ -23,8 +23,13 @@ const AllRecipes = ({ data, location }) => {
     // return all filtered posts
     filteredData = allPosts.filter((post) => {
       const { description, title} = post.node.frontmatter;
-      const { html } = post.node;
+      let { html } = post.node;
       if (searchByIngredient) {
+        //Get the ingredients section
+        html = html.substring(
+          html.lastIndexOf("Ingredientes") + 1, 
+          html.lastIndexOf("Indicaciones")
+        );
         return (
           description.toLowerCase().includes(query.toLowerCase()) ||
           title.toLowerCase().includes(query.toLowerCase()) ||
