@@ -52,7 +52,7 @@ const CustomFooter = () => {
       <div className="legend">
         <div className="media">{mediaPanel}</div>
         <div className="rigths">
-          Hecho con ♥ en California © {new Date().getFullYear()} Cocina Q. Todos
+          Hecho con  <span className="heart">♥</span>  en California © {new Date().getFullYear()} Cocina Q. Todos
           los derechos reservados
         </div>
         
