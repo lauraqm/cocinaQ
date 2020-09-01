@@ -3,7 +3,7 @@
   Cocina Q
 </h1>
 
-This is a personal project created to shared my own recipes with everyone
+This is a personal project created to shared my own recipes with everyone. Visit https://cocinaq.com/
 
 ## 🚀 Instructions:
 
