@@ -10,9 +10,8 @@ const { SubMenu } = Menu;
 class Header extends React.Component {
 
   handleClick = (e) => {
-    
     if (e.key === 'Adobes') {
-      navigate(`/Adobes/Adobes/`);
+      navigate(`/Adobes/`);
     }
     else if (e.key === 'AllRecipes'){
       navigate(`/all-recipes/`);

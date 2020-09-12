@@ -6,18 +6,16 @@
   flex-wrap: wrap;
   align-items: center;
   margin-bottom: 70px;
-  
-  h1, .ant-menu-root {
-    font-family: photograph-signature;
-  }
 
   .ant-menu-root {
+    font-family: photograph-signature;
     font-size: 30px;
   }
 
   .logo{
     display: flex;
     flex-grow: 1;
+    width: 230px;
     height: 100px;
     background-image: url(../../content/assets/logo.svg);
     background-repeat: no-repeat;
@@ -41,10 +39,14 @@
 
   @media only screen and (max-width: 450px) {
     .ant-menu-root {
+      margin: 0 auto;
       font-family: 'antic-slab';
       font-size: medium;
-      margin-top: 30px;
-      margin-left: -13px;
+      margin: 30px 20px 0 5px
+    }
+
+    .menu-container {
+      margin: 0 auto;
     }
 
     .horizontal-divider { 
