@@ -51,5 +51,15 @@
     }
   }
 
+  @media only screen and (max-width: 450px) {
+    .recipe-process-image{
+      img {
+        width: 300px;
+        height: auto;
+        margin: 5px;
+      }
+    }
+  }
 
 }
+
