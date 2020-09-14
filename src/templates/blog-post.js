@@ -7,7 +7,7 @@ import { rhythm, scale } from "../utils/typography";
 import "./blog-post.scss";
 import { Collapse } from 'antd';
 import ImageModal from '../components/imageModal';
-
+import RecipeTitle from "../components/recipeTitle";
 
 const BlogPostTemplate = (props) => {
   const { data, pageContext, location } = props;
@@ -15,7 +15,8 @@ const BlogPostTemplate = (props) => {
   const siteTitle = data.site.siteMetadata.title;
   const { Panel } = Collapse;
   const images = data.allCloudinaryMedia.edges;
-  let gallery;
+
+  let gallery, urlFeatureImage;
 
   const [modalIsOpen,setIsOpen] = React.useState(false);
   const [modalUrl,setModalUrl] = React.useState();
@@ -33,7 +34,7 @@ const BlogPostTemplate = (props) => {
     setIsOpen(false);
   }
 
-
+  //debugger
   //If there are images we will to create a panel for them
   if (images != null && images.length >0) {
     let allImages = [];
@@ -41,23 +42,36 @@ const BlogPostTemplate = (props) => {
       let image = images[key];
       let {secure_url} = image.node;
       if (secure_url) {
-        let url = secure_url.replace('q_auto,f_auto', 'c_scale,w_500');
-        allImages.push (
-          <div className='recipe-process-image' key= {`${key}-gallery`} onClick={ () => { handleClick (url) } } >
-            <img src = {url}></img>
-          </div>
-        );
+        //Featured Image
+        if (secure_url.includes("main")) {
+          let url = secure_url.replace('q_auto,f_auto', 'c_scale,w_1000');
+          urlFeatureImage  = url;
+        }
+        //Process images
+        else {
+          let url = secure_url.replace('q_auto,f_auto', 'c_scale,w_500');
+          allImages.push (
+            <div className='recipe-process-image' key= {`${key}-gallery`} onClick={ () => { handleClick (url) } } >
+              <img src = {url}></img>
+            </div>
+          );
+        }
       }
     }
-    gallery = (
-    <Collapse>
-      <Panel header="Ver imágenes del proceso de esta receta" >
-        <h4>{post.frontmatter.title}</h4>
-        {allImages}
-      </Panel>
-    </Collapse>
-    );
+    if (allImages.length > 0) {
+      gallery = (
+      <Collapse>
+        <Panel header="Ver imágenes del proceso de esta receta" >
+          <h4>{post.frontmatter.title}</h4>
+          {allImages}
+        </Panel>
+      </Collapse>
+      );
+    }
   }
+
+
+  
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -66,15 +80,10 @@ const BlogPostTemplate = (props) => {
         description={post.frontmatter.description || post.excerpt}
       />
       <Helmet title= {post.frontmatter.title} defer={false} />
-      <div className="blog-post" id = "recipe">
+      <div className="recipe" id = "recipe">
         <article>
           <header>
-            <h1 style={{ marginTop: rhythm(1),marginBottom: 0}}>
-              {post.frontmatter.title}
-            </h1>
-            <p className="date" style={{...scale(-1 / 5), display: `block`,marginBottom: rhythm(1)}}>
-              {post.frontmatter.date}
-            </p>
+            <RecipeTitle title={post.frontmatter.title} featuredImgAlt ={post.frontmatter.title} featuredImgUrl ={urlFeatureImage}></RecipeTitle>
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
           {gallery}

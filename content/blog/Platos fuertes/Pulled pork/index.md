@@ -5,7 +5,7 @@ categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional, pulled pork, cerdo, bbq
 date: "2020-08-13T22:12:03.284Z"
 ---
-Este tipo de carne mechada de cerdo a la BBQ o como se conoce en otros paises como "Pulled Pork" es ideal para hacer sandwiches, tacos, bowls o como carne principal en algun platillo. Es una alternativa para las costillas BBQ, ya que a muchas personas no les gustan porque son mas dificiles de comer porque tiene hueso, entonces esta carne es similar, muy sabrosa y sin hueso.
+Este tipo de carne mechada de cerdo a la BBQ o como se conoce en otros paises como "Pulled Pork" es ideal para hacer sandwiches, **tacos (como la foto)**, bowls o como carne principal en algun platillo. Es una alternativa para las costillas BBQ, ya que a muchas personas no les gustan porque son mas dificiles de comer porque tiene hueso, entonces esta carne es similar, muy sabrosa y sin hueso.
 
 ## Ingredientes
 

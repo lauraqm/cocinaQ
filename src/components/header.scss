@@ -5,11 +5,12 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  margin-bottom: 70px;
+  margin-bottom: 50px;
+  
 
   .ant-menu-root {
-    font-family: photograph-signature;
-    font-size: 30px;
+    color: $secundary-color;
+    font-size: 18px;
   }
 
   .logo{
@@ -40,9 +41,8 @@
   @media only screen and (max-width: 450px) {
     .ant-menu-root {
       margin: 0 auto;
-      font-family: 'antic-slab';
       font-size: medium;
-      margin: 30px 20px 0 5px
+      margin: 30px 20px 0 -15px
     }
 
     .menu-container {

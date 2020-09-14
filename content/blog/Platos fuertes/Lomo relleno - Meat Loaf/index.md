@@ -2,7 +2,7 @@
 title: Lomo relleno - Meat Loaf
 description: Conocido popularmente como Lomo Fingido o Lomo Falso, es una receta que requiere pocos ingredientes pero mucho tiempo.
 categories: Platos fuertes
-tags: Costa Rica, costarricense, Plato fuerte, tradicional
+tags: Costa Rica, costarricense, Plato fuerte, tradicional, lomo fingido, carne molida
 date: "2020-08-13T22:12:03.284Z"
 ---
 

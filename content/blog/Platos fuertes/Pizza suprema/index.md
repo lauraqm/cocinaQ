@@ -4,14 +4,12 @@ description: Pizza suprema casera, nada que envidiarle a la que solemos comprar!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, pizza
 date: "2020-08-13T22:12:03.284Z"
-featuredImgUrl: https://res.cloudinary.com/dwb6ecajn/image/upload/v1597729033/test/20200705_124610.jpg
-featuredImgAlt: Pizza suprema
 ---
 Pizza suprema casera, nada que envidiarle a la que solemos comprar! Un gusto controlando mejor la calidad de los ingredientes que se utilizan para preparar el platillo que todos aman: "La pizza"
 
 ## Ingredientes
 
-###Para la pasta:
+### Para la pasta:
 
 - 2.5 tazas de harina
 - 1 cucharadita de azúcar
@@ -23,7 +21,7 @@ Pizza suprema casera, nada que envidiarle a la que solemos comprar! Un gusto con
 - Tazón de vidrio
 - Papel plástico de cocina
 
-###Para el relleno:
+### Para el relleno:
 
 - Queso pizzero
 - Salsa de tomate Prego Italiana o tradicional

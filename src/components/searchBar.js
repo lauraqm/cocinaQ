@@ -3,7 +3,6 @@ import React from 'react';
 import "./searchBar.scss";
 import IconSearch from './icons/iconSearch';
 import IconMilk from './icons/iconMilk';
-import IconRecipe from './icons/iconRecipe';
 import ToggleButton from './toggleButton';
 
 class SearchBar extends React.Component {

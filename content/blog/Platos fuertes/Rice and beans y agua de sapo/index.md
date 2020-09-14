@@ -4,6 +4,7 @@ description: Lo mejor del Caribe costarricense sin duda es su deliciosa comida y
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+
 ---
 Lo mejor del Caribe costarricense sin duda es su deliciosa comida y aquí esta el plato estrella! Un plato bastante complejo en preparación y tiempo, por eso recomiendo empezar desde el dia antes a adobar el pollo y preparar los frijoles. El trabajo es mucho pero el resultado es impresionante!
 
@@ -61,7 +62,7 @@ Lo mejor del Caribe costarricense sin duda es su deliciosa comida y aquí esta e
 
 ---
 
-### Ingredientes para la salsa caribeña para adobar el pollo
+## Ingredientes para la salsa caribeña para adobar el pollo
 
 - 1 tomate
 - 1/4 o 1/2  papa

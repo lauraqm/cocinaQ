@@ -1,5 +1,5 @@
 ---
-title: Canelones rellenos de carne mechada y queso
+title: Canelones rellenos de carne mechada
 description: Canelones que le hacen la boca agua a cualquiera que los ve!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional

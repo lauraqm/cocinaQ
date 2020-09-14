@@ -1,5 +1,5 @@
 ---
-title: Albóndigas en salsa de tomate
+title: Albóndigas en salsa de tomate
 description: Deliciosas albóndigas en salsa de tomate para disfrutar de la carne molida en una forma diferente
 categories: Platos fuertes
 tags: Costa Rica, costarricense, salsa, albóndigas, carne molida

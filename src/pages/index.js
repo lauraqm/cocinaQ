@@ -5,6 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import CategoryCard from "../components/categoryCard"
 import "../fonts/AnticSlab/antic-font.scss";
+import "../fonts/Balista/balista-font.scss";
 import "../fonts/photograph-signature/photograph-signature.scss";
 import "../styles/override-ant-desing.scss"
 
