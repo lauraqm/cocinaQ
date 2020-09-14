@@ -1,9 +1,10 @@
 ---
 title: Chifrijo
 description: El chifrijo tico es una genialidad hecha platillo ya que combina arroz, frijoles, chicharrones y pico de gallo!
-categories: Platos fuertes
+categories: Típicos costarricenses
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+image: "https://res.cloudinary.com/dwb6ecajn/image/upload/c_scale,w_500/v1600064759/cocinaQ/Chifrijo/Chifrijo-main_enkjid.jpg"
 ---
 
 Chifrijo tico, una genialidad hecha platillo! Cuenta la historia que un dueño de un bar tenía unos sobros de chicharrones y decidió mezclarlo con lo que todos tenemos en casa: "Arroz y frijoles" y luego le agregó pico de gallo, y así nació esta "boca" de bar que pronto se popularizó a lo largo y ancho de toda Costa Rica! 

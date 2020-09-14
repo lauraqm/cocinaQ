@@ -13,10 +13,13 @@
     text-align: center;
   }
 
-  img {
-    height: 160px;
-    background-size: 0 160px;
-    border-radius: 4px 4px 0 0;
+  .ant-card-cover {
+    height: 190px;
+    overflow: hidden;
+    img {
+      height: 170px;
+      border-radius: 4px 4px 0 0;
+    }
   }
 
   .disable-card {

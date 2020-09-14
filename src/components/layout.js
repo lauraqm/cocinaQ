@@ -4,7 +4,7 @@ import Header from "./header";
 import CustomFooter from "./footer";
 import { Helmet } from "react-helmet";
 
-const Layout = ({ location, title, children }) => {
+const Layout = ({ location, title, children, specialDivider }) => {
   return (
     <React.Fragment>
       <div
@@ -16,7 +16,7 @@ const Layout = ({ location, title, children }) => {
         }}
       >
         <header>
-          <Header location={location} title={title}></Header>
+          <Header location={location} title={title} specialDivider={specialDivider}></Header>
         </header>
         <main>{children}</main>
       </div>

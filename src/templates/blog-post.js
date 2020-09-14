@@ -34,7 +34,6 @@ const BlogPostTemplate = (props) => {
     setIsOpen(false);
   }
 
-  //debugger
   //If there are images we will to create a panel for them
   if (images != null && images.length >0) {
     let allImages = [];

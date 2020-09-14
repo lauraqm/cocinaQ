@@ -1,9 +1,10 @@
 ---
 title: Chicharrones
 description: Los tradicionales chicharrones al estilo costarricense
-categories: Platos fuertes
+categories: Típicos costarricenses
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+image: "https://res.cloudinary.com/dwb6ecajn/image/upload/c_scale,w_500/v1600064759/cocinaQ/Chicharrones/Chicharrones-main_o9uc47.jpg"
 ---
 Los ticos somos amantes a los chicharrones, tanto que cuando pasamos algun tiempo fuera de Costa Rica, no falta quien nos diga "Vamos por unos chicharrones" o "Hagamos una chicharronada" especialmente si es cerca de navidad! Todos durante diciembre nos comemos unos cuantos!
 

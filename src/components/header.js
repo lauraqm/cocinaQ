@@ -29,8 +29,7 @@ class Header extends React.Component {
   }
 
   render () {
-    let {location, title }= this.props;
-    let header;
+    let { specialDivider }= this.props;
     const rootPath = `${__PATH_PREFIX__}/`;
     return (
       <div className='header'>
@@ -57,6 +56,7 @@ class Header extends React.Component {
           </Menu>
         </div>
         <div className='horizontal-divider'></div>
+        {specialDivider}
       </div>
     );
    }
