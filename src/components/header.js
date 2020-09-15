@@ -13,6 +13,9 @@ class Header extends React.Component {
     if (e.key === 'Adobes') {
       navigate(`/Adobes/`);
     }
+    else if (e.key === 'Tipicas') {
+      navigate(`/traditional-food/`);
+    }
     else if (e.key === 'AllRecipes'){
       navigate(`/all-recipes/`);
     }
@@ -45,6 +48,7 @@ class Header extends React.Component {
               <Menu.Item key="Platos fuertes">Platos fuertes</Menu.Item>
               <Menu.Item key="Ensaladas">Ensaladas</Menu.Item>
               <Menu.Item key="Acompañamientos">Acompañamientos</Menu.Item>
+              <Menu.Item key="Tipicas">Típicas costarricenses</Menu.Item>
               {/* <Menu.Item key="Sándwiches">Sándwiches</Menu.Item>
               <Menu.Item key="Desayunos">Desayunos</Menu.Item>
               <Menu.Item key="Dips y cremas">Dips y cremas</Menu.Item>

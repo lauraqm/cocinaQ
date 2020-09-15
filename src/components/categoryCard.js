@@ -8,7 +8,7 @@ import kebabCase from "lodash/kebabCase";
 class CategoryCard extends React.Component {
   handleClick = (title, disable) => {
     if (!disable) {
-      if (title === "Típicos costarricenses") {
+      if (title === "Típicas costarricenses") {
         navigate(`/traditional-food/`);
       }
       else if (title === "Adobes") {
@@ -76,7 +76,7 @@ class CategoryCard extends React.Component {
 
 const categoryData = [
   {
-    title: "Típicos costarricenses",
+    title: "Típicas costarricenses",
     image: "https://images.unsplash.com/photo-1600125693229-2865faaf0732?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80",
     metadata:
       "Para celebrar nuestra Semana Patria le traemos una selección de platillos típicos costarricenses",
