@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7" height="18" viewBox="0 0 7 18">
+  <g id="flag" transform="translate(-15 -613)">
+    <rect id="Rectangle_32" data-name="Rectangle 32" width="7" height="4" transform="translate(15 613)" fill="#00419a"/>
+    <rect id="Rectangle_33" data-name="Rectangle 33" width="7" height="3" transform="translate(15 617)" fill="#fff"/>
+    <rect id="Rectangle_34" data-name="Rectangle 34" width="7" height="4" transform="translate(15 620)" fill="red"/>
+    <rect id="Rectangle_35" data-name="Rectangle 35" width="7" height="3" transform="translate(15 624)" fill="#fff"/>
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="7" height="4" transform="translate(15 627)" fill="#00419a"/>
+  </g>
+</svg>
