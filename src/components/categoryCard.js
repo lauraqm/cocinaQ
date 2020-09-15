@@ -76,17 +76,17 @@ class CategoryCard extends React.Component {
 
 const categoryData = [
   {
-    title: "Típicas costarricenses",
-    image: "https://images.unsplash.com/photo-1600125693229-2865faaf0732?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80",
-    metadata:
-      "Para celebrar nuestra Semana Patria le traemos una selección de platillos típicos costarricenses",
-  },
-  {
     title: "Adobes",
     image:
       "https://images.unsplash.com/photo-1564149504298-00c351fd7f16?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=667&q=80",
     metadata:
       "Formulas mágicas para marinar de la mejor manera las carnes que son protagonistas en nuestros platillos",
+  },
+  {
+    title: "Típicas costarricenses",
+    image: "https://images.unsplash.com/photo-1600125693229-2865faaf0732?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80",
+    metadata:
+      "Para celebrar nuestra Semana Patria le traemos una selección de platillos típicos costarricenses",
   },
   {
     title: "Platos Fuertes",
