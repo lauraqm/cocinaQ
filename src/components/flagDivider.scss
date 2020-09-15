@@ -1,11 +1,9 @@
 @import "../styles/base.scss";
 
 .flag-divider  {
-  height: 10px;
+  height: 18px;
   width: 100%;
-  //background-size: contain;
-  background-position: 0 0;
-  background-image: url(../../content/assets/costa-rica-flag.svg);
+  background-image: url(../../content/assets/costa-rica-flag.svg) repeat-x 0 0;
   margin-bottom: 20px; 
 }
 
