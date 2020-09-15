@@ -12,7 +12,7 @@ class CategoryCard extends React.Component {
         navigate(`/traditional-food/`);
       }
       else if (title === "Adobes") {
-        navigate(`/Adobes/Adobes/`);
+        navigate(`/Adobes/`);
       } 
       else {
         navigate(`/categories/${kebabCase(title)}/`);
