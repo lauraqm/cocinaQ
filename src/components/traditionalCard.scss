@@ -1,10 +1,14 @@
 @import '../styles/base.scss';
 
+
+
 .traditional-food {
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
   justify-content: center;
+
+  
 
   .card-container {
     position: relative;
@@ -24,6 +28,7 @@
     box-shadow: 0px 0px 5px 0px $light-shadow;
     border: 1px solid $light-border;
     border-radius: 4px;
+    background-image: url(../../content/assets/pattern.svg);
 
     &:hover {
       border-color: none;
@@ -53,49 +58,5 @@
 
 }
 
-
-  // display: flex;
-  // flex-wrap: wrap;
-  // margin: 0 auto;
-  // justify-content: center;
-
-  // .card-container {
-  //   width: 260px;
-  //   margin: 15px;
-  //   text-align: center;
-  // }
-
-  // img {
-  //   background-size: 0 150px;
-  //   height: 200px;
-  //   padding: 0 6px 0 6px;
-  // }
-
-  // .ant-card {
-  //   height: 400px;
-  //   border: 1px solid $secundary-color-variant;
-  //   border-radius: 6px;
-
-
-  //   .ant-card-body {
-  //     padding: 10px;
-  //     margin-top: -10px;
-  //   }
-
-  //   .ant-card-head {
-  //     display: flex;
-  //     justify-content: center;
-  //     align-items: center;
-  //     border-bottom: none;
-  //     font-size: large;
-  //     background: linear-gradient(0.75turn, #D50000,  #D50000, #00419A, #00419A );
-  //     background-clip: text;
-  //     -webkit-text-fill-color: transparent;
-  //   }
-  // }
-
-  // .ant-card-head-title {
-  //   white-space:initial;
-  // }
 
 

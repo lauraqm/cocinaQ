@@ -1,9 +1,20 @@
 @import "../styles/base.scss";
 
 .flag-divider  {
+  position: relative;
   height: 18px;
   width: 100%;
   background: url(../../content/assets/costa-rica-flag.svg) repeat-x 0 0;
+
+
+  .transparent-layer{
+    position: absolute;
+    height: 18px;
+    width: 100%;
+    //background-color: rosybrown;
+    z-index: 1;
+    background: linear-gradient(0.75turn,   #FFFFFF,#ffffff00,#FFFFFF );
+  }
 }
 
  

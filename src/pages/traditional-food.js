@@ -15,7 +15,7 @@ const Traditional = (props) => {
   const { edges } = data.allMarkdownRemark;
 
   return (
-    <Layout className="test" location={location} title={siteTitle} specialDivider={<FlagDivider/>}>
+    <Layout location={location} title={siteTitle} specialDivider={<FlagDivider/>}>
       <Helmet title="Típicos costarricenses" defer={false} />
       
       <div className="traditional-food">
