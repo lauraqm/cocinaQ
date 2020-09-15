@@ -35,7 +35,7 @@ const BlogPostTemplate = (props) => {
   }
 
   //If there are images we will to create a panel for them
-  if (images != null && images.length >0) {
+  if (post.frontmatter.categories != "Tips" && images != null && images.length >0) {
     let allImages = [];
     for (var key in images) {
       let image = images[key];
@@ -122,6 +122,7 @@ export const pageQuery = graphql`
         description
         featuredImgAlt
         featuredImgUrl
+        categories
       }
     }
     allCloudinaryMedia(filter: {public_id: { regex: $folder}}) {

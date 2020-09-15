@@ -17,7 +17,7 @@ La razón principal por la cual el arroz, el pan y la mayoría de comidas quedan
 
 Las tapas de microondas se ven como ésta y tienen huequitos para que salga el vapor.
 
-<div class='image-container'> 
+<div class='image-container-tips'> 
   <img src = "https://res.cloudinary.com/dwb6ecajn/image/upload/c_scale,w_416/v1598225237/cocinaQ/Calentar%20alimentos%20adecuadamente%20en%20el%20microondas/Untitled_mcytgn.png">
   </img>
 </div>
@@ -31,7 +31,7 @@ Los pasos son sencillos y los recomiendo para calentar todo tipo de comidas:
 - Paso #3: Poner 1 o 2 centímentros de agua en el vasito y colocarlo en la parte del micro que no gira, es decir fuera del platón
 - Paso #4: Calentar la comida siempre cuidando no ponerle mas tiempo del necesario.
 
- <div class='image-container'> 
+ <div class='image-container-tips'> 
   <img src = "https://res.cloudinary.com/dwb6ecajn/image/upload/c_scale,w_707/v1598225095/cocinaQ/Calentar%20alimentos%20adecuadamente%20en%20el%20microondas/20200823_152611-01_mzuxyn.jpg">
   </img>
 </div>
