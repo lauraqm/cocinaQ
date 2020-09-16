@@ -2,7 +2,7 @@ import React from "react";
 import { rhythm } from "../utils/typography";
 import Header from "./header";
 import CustomFooter from "./footer";
-import { Helmet } from "react-helmet";
+
 
 const Layout = ({ location, title, children, specialDivider }) => {
   return (

@@ -1,0 +1,16 @@
+.not-found {
+  margin-top: -50px;
+  margin-bottom: 40px;
+  height: 500px;
+  width: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../../content/assets/404.svg');
+  top:0;
+
+  @media only screen and (max-width: 450px) {
+    height: 300px;
+  }
+
+}

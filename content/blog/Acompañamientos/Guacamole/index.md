@@ -1,7 +1,7 @@
 ---
 title: Guacamole
 description: Guacamole estilo costarricense
-categories: Acompañamientos
+categories: Acompañamientos,Dips
 tags: Costa Rica, costarricense, acompañamientos, guarniciones, guacamole, aguacate
 date: "2020-08-17T22:12:03.284Z"
 ---

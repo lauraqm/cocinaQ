@@ -2,6 +2,7 @@ const path = require(`path`);
 const _ = require("lodash");
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
+
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions;
   // This GraphQL query is used to retrieve the list of posts 
@@ -21,13 +22,9 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
               frontmatter {
                 title
                 tags
+                categories
               }
             }
-          }
-        }
-        categoryGroup: allMarkdownRemark(limit: 2000) {
-          group(field: frontmatter___categories) {
-            fieldValue
           }
         }
       }
@@ -48,7 +45,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       component: blogPost,
       context: {
         slug: post.node.fields.slug,
-        folder: `/${post.node.frontmatter.title}/`, //To get photos from cloudinary
+        folder: `/${post.node.frontmatter.title}\//`, //To get photos from cloudinary
         previous,
         next,
         categories: post.node.categories,
@@ -57,18 +54,36 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   });
 
   // Extract tag data from query
-  const categories = result.data.categoryGroup.group;
+  //let categories = result.data.categoryGroup.group;
+  let categories = dedupeCategories(result.data.postsRemark);
   // Make tag pages
   categories.forEach((cat) => {
     createPage({
-      path: `/categories/${_.kebabCase(cat.fieldValue)}/`,
+      path: `/categories/${_.kebabCase(cat)}/`,
       component: categoryTemplate,
       context: {
-        category: cat.fieldValue,
+        category: `/${cat}/`,
       },
     });
   });
+
+
 };
+
+function dedupeCategories(allMarkdownRemark) {
+  const uniqueCategories = new Set()
+  // Iterate over all articles
+  allMarkdownRemark.edges.forEach(({ node }) => {
+    // Iterate over each category in an article
+    const categories =  node.frontmatter.categories.split(",");
+    categories.forEach(category => {
+      uniqueCategories.add(category)
+    })
+  })
+  // Create new array with duplicates removed
+  return Array.from(uniqueCategories);
+
+}
 
 exports.onCreateNode = async ({ node, actions, getNode }) => {
   const { createNodeField, createNode } = actions;

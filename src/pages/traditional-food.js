@@ -47,7 +47,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       limit: 2000
       sort: { fields: [frontmatter___title], order: ASC }
-      filter: { frontmatter: { categories: { eq: "Típicos costarricenses" } } }) {
+      filter: { frontmatter: { categories: { regex: "/Típicos costarricenses/" } } }) {
       edges {
         node {
           excerpt
@@ -63,34 +63,4 @@ export const pageQuery = graphql`
     }
   }
 `;
-
-// export const pageQuery = graphql`
-//   query traditional ($folder: String!) {
-//     site {
-//       siteMetadata {
-//         title
-//       }
-//     }
-//     markdownRemark(frontmatter: {categories: {eq: "Típicos costarricenses"}}) {
-//       id
-//       excerpt(pruneLength: 160)
-//       html
-//       frontmatter {
-//         title
-//         date(formatString: "MMMM DD, YYYY")
-//         description
-//         featuredImgAlt
-//         featuredImgUrl
-//       }
-//     }
-//     allCloudinaryMedia(filter: {public_id: { regex: $folder}}) {
-//       edges {
-//         node {
-//           secure_url
-//           public_id
-//         }
-//       }
-//     }
-//   }
-// `;
 

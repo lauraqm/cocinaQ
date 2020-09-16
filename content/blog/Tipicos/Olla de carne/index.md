@@ -1,7 +1,7 @@
 ---
-title: Olla de carne 
+title: Olla de carne
 description: Uno de los mejores y más típicos platillos de la comida costarricense, el cual consiste en una sopa de verduras y carne de res.
-categories: Típicos costarricenses
+categories: Típicos costarricenses,Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional, olla de carne
 date: "2020-09-14T22:12:03.284Z"
 image: "https://res.cloudinary.com/dwb6ecajn/image/upload/c_scale,w_500/v1600064759/cocinaQ/Olla%20de%20carne/Olla_de_carne1-main_wfgl6o.jpg"

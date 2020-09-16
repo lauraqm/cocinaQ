@@ -1,7 +1,7 @@
 ---
 title: Picadillo de papa con chorizo
 description: Uno de los picadillos más tradicionales de la cocina costarricense
-categories: Típicos costarricenses
+categories: Típicos costarricenses,Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional, Picadillo,papa, chorizo
 date: "2020-09-14T22:12:03.284Z"
 image: "https://res.cloudinary.com/dwb6ecajn/image/upload//c_scale,w_500/v1600124801/cocinaQ/Picadillo%20de%20papa%20con%20chorizo/Picadillo_papa_chorizo-main_lxakoo.jpg"
