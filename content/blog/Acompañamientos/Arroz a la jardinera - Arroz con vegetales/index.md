@@ -4,6 +4,9 @@ description: Un arroz con vegetales, bastante saludable y lleno de colores
 categories: Acompañamientos
 tags: Costa Rica, costarricense, acompañamientos, guarniciones, arroz, vegetales
 date: "2020-08-17T22:12:03.284Z"
+servings: "4"
+cooktime: "18 min"
+utensils: "pan"
 ---
 Un arroz con vegetales, bastante saludable y lleno de colores para acompañar cualquier tipo de carne, o incluso para comer solo si deseamos algo mas vegetariano
 

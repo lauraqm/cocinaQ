@@ -4,14 +4,14 @@ description: El chifrijo tico es una genialidad hecha platillo ya que combina ar
 categories: Típicos costarricenses,Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
-image: "https://res.cloudinary.com/dwb6ecajn/image/upload/c_scale,w_500/v1600064759/cocinaQ/Chifrijo/Chifrijo-main_enkjid.jpg"
+image: "https://res.cloudinary.com/dwb6ecajn/image/upload/c_scale,w_500/v1600064759/cocinaQ/Chifrijo/20200916_132145_wdj1gm.jpg"
 ---
 
-Chifrijo tico, una genialidad hecha platillo! Cuenta la historia que un dueño de un bar tenía unos sobros de chicharrones y decidió mezclarlo con lo que todos tenemos en casa: "Arroz y frijoles" y luego le agregó pico de gallo, y así nació esta "boca" de bar que pronto se popularizó a lo largo y ancho de toda Costa Rica! 
+Chifrijo tico, una genialidad hecha platillo! Cuenta la historia que un dueño de un bar tenía unos sobros de chicharrones y decidió mezclarlo con lo que todos tenemos en casa: "Arroz y frijoles" y luego le agregó pico de gallo, y así nació esta "boca" de bar que pronto se popularizó a lo largo y ancho de toda Costa Rica!
 
-## Ingredientes:
+## Ingredientes
 
-- Chicharrones previamente cocinados (unos 4-5 grandes por persona) 
+- Chicharrones previamente cocinados (unos 4-5 grandes por persona)
 - Arroz blanco previamente cocinado.
 - Frijoles previamente cocinados, pueden ser charros, bayos, o frijoles kidney (rojos que son mas grandecitos de lo normal). Para mayor facilidad se pueden comprar en lata (ver foto de los recomendados). Se necesita aproximadamente 3/4 de taza por persona, de manera que si se compran en lata de 290 gramos, cada lata alcanza para 2 personas.
 - Tomates (1 tomate pequeño por cada persona)
@@ -24,7 +24,7 @@ Chifrijo tico, una genialidad hecha platillo! Cuenta la historia que un dueño d
 - Tortillas tostadas
 - Aguacates (1/2 aguacate por persona)
 
-## Indicaciones:
+## Indicaciones
 
 Hacer el pico de gallo con los olores picados, el tomate y el limón. [Ver receta aquí](/Ensaladas/Pico de gallo)
 

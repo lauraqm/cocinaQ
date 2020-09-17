@@ -4,15 +4,18 @@ description: Frijolitos Chuncky para quedar como los grandes en cualquier fiesta
 categories: Acompañamientos
 tags: Costa Rica, costarricense, acompañamientos, guarniciones, frijoles, queso
 date: "2020-08-17T22:12:03.284Z"
+servings: "6"
+cooktime: "35 min"
+utensils: "pyrex,oven"
 ---
 Frijolitos Chuncky para quedar como los grandes en cualquier fiesta, sirven como dip para comer con tortillas tostadas o incluso se pueden utilizar igual que unos frijoles molidos, pero con mucho más sabor!
 
 ### Ingredientes:
 
-- Salsa chuncky
-- Frijoles molidos (Los mejores son los Santa Cruz)
-- Queso pizzero
-- Tortillas tostadas.
+- 1 Salsa chuncky pequeña
+- 1 Frijoles molidos 400 g (Los mejores son los Santa Cruz)
+- Queso pizzero al gusto
+- Tortillas tostadas
 
 ### Indicaciones:
 

@@ -4,17 +4,20 @@ description: El mejor compañero para unos chicharrones, carne asada o incluso p
 categories: Acompañamientos
 tags: Costa Rica, costarricense, acompañamientos, guarniciones, ceviche, plátano
 date: "2020-08-17T22:12:03.284Z"
+servings: "6"
+cooktime: "30 min"
+utensils: "pot"
 ---
 El mejor compañero para unos chicharrones, carne asada o incluso pollo frito! Este acompañamiento va bien con todo, super saludable y delicioso!
 
 ### Ingredientes:
 
-- Bananos verdes
+- 6 Bananos verdes
 - Chile, cebolla, culantro
 - Salsa de tomate ketchup
 - Sal
-- Soda (Solo si NO se usa limón mandarina)
 - Limones
+- Soda (Solo si NO se usa limón mandarina)
 - Ajos
 
 ### Indicaciones:
