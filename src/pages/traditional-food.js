@@ -1,8 +1,9 @@
 import React from "react";
 import { Helmet } from "react-helmet";
+import { graphql } from "gatsby";
 
 // Components
-import { graphql } from "gatsby";
+import SEO from "../components/seo";
 import Bio from "../components/bio";
 import Layout from "../components/layout";
 import TraditionalCard from "../components/traditionalCard"
