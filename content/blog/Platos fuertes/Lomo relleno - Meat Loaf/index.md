@@ -4,13 +4,16 @@ description: Conocido popularmente como Lomo Fingido o Lomo Falso, es una receta
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional, lomo fingido, carne molida
 date: "2020-08-13T22:12:03.284Z"
+servings: "6"
+cooktime: "130"
+utensils: "oven,pyrex"
 ---
 
 Conocido popularmente como Lomo Fingido o Lomo Falso, es una receta que requiere pocos ingredientes pero mucho tiempo, y el resultado simplemente es maravilloso!
 
 ## Ingredientes
 
-- Carme molida, aproximadamente medio kilo para que rinda 4-5 porciones. adobada como se indica aquí: [Adobes](/Adobes/#res)
+- 500 gramos de carme molida, adobada como se indica aquí: [Adobes](/Adobes/#res)
 - Pan molido
 - Queso parmesano
 - Chile dulce, cebolla, culantro

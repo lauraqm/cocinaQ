@@ -4,11 +4,13 @@ description: Una receta "Tex-Mex" que se ha populariazado por su simplicidad y s
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+servings: "2"
+cooktime: "25"
+utensils: "pot"
 ---
 
 El plato más reconocido de la comida fusión Texas-México o Tex-Mex como se le conoce mundialmente. Es una receta simple pero cargada de sabor, puede ser tan picante como gustemos, pero sin duda es un ícono en los bares estadounidenses y ahora hasta en los cines!
 
-Rinde 2 porciones
 
 ## Ingredientes
 

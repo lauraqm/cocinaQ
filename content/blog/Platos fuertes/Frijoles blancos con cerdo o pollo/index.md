@@ -4,14 +4,17 @@ description: Una forma simple y fácil de preparar estas legumbres.
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+servings: "3"
+cooktime: "30"
+utensils: "pot"
 ---
 Esta receta es para hacer de manera fácil cuando ya se tienen frijoles previamnete cocinados o de lata. Sin embargo existe la variante de cocinar los frijoles con todo y el cerdo que más adelante publicaremos.
 
 ## Ingredientes:
 
-- Frijoles blancos cocinados previamente. Pueden ser caseros o de lata.
-- Si se desea hacer con pollo se necesitan Trozos de pechuga de pollo "Con sabor y color" adobados como se indica aquí: [Adobes](/Adobes/#pollo-sabor)
-- Si se desea con cerdo, se necesitan trozos pequeños de "Posta de Cerdo" adobados como se indica aquí: [Adobes](/Adobes/#posta)
+- 300 gramos de frijoles blancos cocinados previamente. Pueden ser caseros o de lata.
+- Si se desea hacer con pollo se necesitan 200 gramos de pollo Trozos de pechuga de pollo "Con sabor y color" adobados como se indica aquí: [Adobes](/Adobes/#pollo-sabor)
+- Si se desea con cerdo, se necesitan 200 gramos de cerdo en trozos pequeños de "Posta de Cerdo" adobados como se indica aquí: [Adobes](/Adobes/#posta)
 - Chile, cebolla y culantro.
 - Achiote.
 - Opcional: Salsa Cholula de Ajo o Salsa Tío Pelón de Ajo.

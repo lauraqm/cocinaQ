@@ -4,8 +4,11 @@ description: Creo que a todos los que nos gusta la carne, nos fascina la carne m
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+servings: "4"
+cooktime: "80"
+utensils: "pressionPot,pot,blender"
 ---
-Creo que a todos los que nos gusta la carne, nos fascina la carne mechada y ésta es la receta para lograr una muy deliciosa! Se puede utilizar salsa natural hecha en casa o bien salsas pre-hechas como se indica en la receta, todo depende del tiempo que tengamos!
+Creo que a todos los que nos gusta la carne, nos fascina la carne mechada y ésta es la receta para lograr una muy deliciosa! Se puede utilizar salsa natural hecha en casa o bien salsas pre-hechas y no necesitaremos licuadora, pero todo depende del tiempo que tengamos!
 
 ### Ingredientes:
 

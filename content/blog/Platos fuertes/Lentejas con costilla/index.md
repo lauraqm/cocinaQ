@@ -4,6 +4,9 @@ description: Una forma deliciosa de preparar una de las legumbres menos aceptada
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+servings: "2"
+cooktime: "30"
+utensils: "pressionPot"
 ---
 
 Una forma deliciosa de preparar una de las legumbres menos aceptadas en nuestra cultura, en mi familia no éramos grandes adeptos a las lentejas, tal vez por falta de costumbre o tal vez porque son un poco "desconocidas", pero preparadas con trocitos de costilla y posta de cerdo han ido posicionándose como uno de los platos favoritos, especialmente para cuando hace frío.
@@ -11,7 +14,7 @@ Una forma deliciosa de preparar una de las legumbres menos aceptadas en nuestra 
 ## Ingredientes:
 
 - 3/4 de taza de lentejas crudas.
-- Costilla y posta de cerdo adobada como se indica aquí: [Adobes](/Adobes/#posta-frijoles)
+- 250 gramos de costilla y posta de cerdo adobada como se indica aquí: [Adobes](/Adobes/#posta-frijoles)
 - 2 Hojas Laurel
 - Orégano
 - 1/2 cucharadita de Tomillo

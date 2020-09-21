@@ -4,12 +4,15 @@ description: Garbanzos con pollo o cerdo estilo costarricense
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+servings: "3"
+cooktime: "30"
+utensils: "pot"
 ---
 
 ## Ingredientes:
 
-- Si se desea hacer con pollo se necesitan Trozos de pechuga de pollo "Con sabor y color" adobados como se indica aquí: [Adobes](/Adobes/#pollo-sabor)
-- Si se desea con cerdo, se necesitan trozos pequeños de "Posta de Cerdo" adobados como se indica aquí: [Adobes](/Adobes/#posta)
+- Si se desea hacer con pollo se necesitan 200 gramos de trozos de pechuga de pollo "Con sabor y color" adobados como se indica aquí: [Adobes](/Adobes/#pollo-sabor)
+- Si se desea con cerdo, se necesitan 200 gramos de trozos pequeños de "Posta de Cerdo" adobados como se indica aquí: [Adobes](/Adobes/#posta)
 - 1 lata de garbanzos mediana o garbanzos caseros previamente cocinados.
 - Chile, cebolla y culantro.
 - Sabor y color de Magui.

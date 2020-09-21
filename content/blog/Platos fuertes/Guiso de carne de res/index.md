@@ -4,12 +4,15 @@ description: Excelente opción para todos aquellos que amamos la olla de carne p
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+servings: "4"
+cooktime: "90"
+utensils: "pressionPot"
 ---
 Excelente opción para todos aquellos que amamos la olla de carne pero a veces no tenemos suficiente tiempo de pelar todas las verduras y esperar a que todas se cocinen a la perfección, esto sabe similar pero solo con papa y zanahoriaya que son las mas fáciles de cocinar.
 
 ## Ingredientes:
 
-- Carne de res para mechar adobada como se indica aquí: [Adobes](/Adobes/#res)
+- 400 gramos de carne de res para mechar adobada como se indica aquí: [Adobes](/Adobes/#res)
 - 1 papa bien grande
 - 1 zanahoria mediana.
 - Achiote.
@@ -19,8 +22,6 @@ Excelente opción para todos aquellos que amamos la olla de carne pero a veces n
 - Sazón completo.
 
 ## Indicaciones:
-
-Nota: en la foto final no se aprecia, pero en el fondo tiene caldo.
 
 1. Cocinar la carne en olla de presión o de cocimiento lento. 
 2. Al cocinar la carne en una cantidad de agua considerable; la carne va a diluir los condimentos y va a quedar sin sal cuando termine de cocinarse y no va a saber a nada. Entonces vamos a tomar la olla y le vamos a poner agua y luego, debemos agregar un poco de Polvo de cola de res, sazón, sal, los ajos y las especies de su preferencia; de manera que el caldito quede un poquito salado.
