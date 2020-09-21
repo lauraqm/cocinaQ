@@ -4,6 +4,8 @@ description: Una variación del pico de gallo que utilizamos en latinoamérica p
 categories: Ensaladas
 tags: Costa Rica, ensalada, tomate, pepino, latinoamérica, tradicional, costarricense
 date: "2020-08-17T22:12:03.284Z"
+servings: "4"
+cooktime: "20"
 ---
 
 Una variación del pico de gallo que utilizamos en latinoamérica para acompañar múltiples platillos con una variante muy refrescante y saludable: el pepino
@@ -19,11 +21,11 @@ Una variación del pico de gallo que utilizamos en latinoamérica para acompaña
 
 ### Indicaciones:
 
-1. Picar el tomate en cubitos
-2. Picar el pepino en cubitos
-3. Agregar los olores picados
-4. Agregar el jugo de los limones
-5. Revolver bien
-6. Agregar un poquito de sazón completo 
+1. Picar el tomate en cubitos.
+2. Picar el pepino en cubitos (puede ser con cáscara o pelado)
+3. Agregar los olores picados bien finos.
+4. Agregar el jugo de los limones.
+5. Revolver bien.
+6. Agregar un poquito de sazón completo.
 7. Agregar sal al gusto y revolver.
 8. Listo!

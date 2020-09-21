@@ -6,21 +6,23 @@ tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 featuredImgUrl: https://res.cloudinary.com/dwb6ecajn/image/upload/c_scale,w_1000/v1599883136/cocinaQ/Featured%20images/20200526_193913_bl6phd.jpg
 featuredImgAlt: Burrito de carne mechada
+servings: "4"
+cooktime: "70"
+utensils: "pan,pressionPot,pot"
 ---
 Un burrito cargado de sabor, originalmente los burritos mexicanos llevan arroz y frijoles enteros, pero en Costa Rica los hemos tropicalizado agreándoles frijoles molidos y quitando el arroz. Ésta receta también podría hacerse mas simple con carne molida arreglada y sofrita con olores. Se acompaña de pico de gallo servido sobre una cama de lechuga picada bien finita.
 
 ### Ingredientes
 
-- Trocear en pedazos grandes la carne para mechar y adobarla como dice aquí: [Adobes](/Adobes/#res)
-- 2 salsitas naturas o 1 salsa prego de tomate.
+- 400 gramos de carne para mechar. Trocear en pedazos grandes la carne para mechar y adobarla como dice aquí: [Adobes](/Adobes/#res)
 - Chile, cebolla y culantro picado.
 - Sazón completo.
 - Caldo de cola de res.
 - 2-3 ajos enteros.
 - Apio, laurel, órgano o cualquier otra especie de su preferencia.
-- Tortilla de harina
-- Queso pizzero o que derrita.
-- Frijoles molidos
+- 4 Tortillas de harina
+- Queso pizzero o que derrita al gusto.
+- 1 paquete de frijoles molidos mediano
 - Palillos de dientes.
 - Natilla (opcional)
 - Aguacate o [guacamole](/Acompañamientos/Guacamole/) (opcional)

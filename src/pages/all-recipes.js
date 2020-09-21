@@ -59,22 +59,25 @@ const AllRecipes = ({ data, location }) => {
       {state.filteredData.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug;
         return (
-          <article key={node.fields.slug} style={{ marginTop: `40px` }}>
-            <header>
-              <h3 style={{ marginBottom: rhythm(1 / 4) }}>
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-            </header>
-            <section>
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
-                }}
-              />
-            </section>
-          </article>
+          <React.Fragment>
+            <SEO title={node.frontmatter.title}  />
+            <article key={node.fields.slug} style={{ marginTop: `40px` }}>
+              <header>
+                <h3 style={{ marginBottom: rhythm(1 / 4) }}>
+                  <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                    {title}
+                  </Link>
+                </h3>
+              </header>
+              <section>
+                <p
+                  dangerouslySetInnerHTML={{
+                    __html: node.frontmatter.description || node.excerpt,
+                  }}
+                />
+              </section>
+            </article>
+          </React.Fragment>
         );
       })}
       <Bio />

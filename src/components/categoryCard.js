@@ -24,19 +24,20 @@ class CategoryCard extends React.Component {
     const { title, metadata, image, disable } = cardData;
     let card;
     card = (
-      <div className="card-container">
-        <Card
-          onClick={() => {
-            this.handleClick(title, disable);
-          }}
-          bordered={false}
-          hoverable
-          cover={<img src={image} />}
-        >
-          <div className="title-card">{title}</div>
-          <Meta description={metadata} />
-        </Card>
-      </div>
+
+        <div className="card-container">
+          <Card
+            onClick={() => {
+              this.handleClick(title, disable);
+            }}
+            bordered={false}
+            hoverable
+            cover={<img src={image} />}
+          >
+            <div className="title-card">{title}</div>
+            <Meta description={metadata} />
+          </Card>
+        </div>
     );
     
     if (disable) {
@@ -66,6 +67,10 @@ class CategoryCard extends React.Component {
   render() {
     return (
       <div className="categories">
+        <p>Bienvenido a Cocina Q. un espacio dedicado a la cocina. Nuestra principal misión es que cualquier persona aunque no tenga muchos conocimientos 
+          de cocina logre preparar un platillo delicioso, por ello tenemos diferentes tipos de recetas de todo tipo de dificultad, algunas costarricenses y otras del mundo.
+          Esperamos que nuestra modalidad de recetas escritas en términos simples y sin mucho tecnisimos, sea de gran utilidad para usted! 
+        </p>
         {categoryData.map((data) => {
           return this.createCard(data);
         })}
@@ -78,47 +83,47 @@ const categoryData = [
   {
     title: "Adobes",
     image:
-      "https://images.unsplash.com/photo-1564149504298-00c351fd7f16?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=667&q=80",
+      "https://images.unsplash.com/photo-1564149504298-00c351fd7f16?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=400&q=80",
     metadata:
       "Formulas mágicas para marinar de la mejor manera las carnes que son protagonistas en nuestros platillos",
   },
   {
     title: "Típicas costarricenses",
-    image: "https://images.unsplash.com/photo-1600125693229-2865faaf0732?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80",
+    image: "https://images.unsplash.com/photo-1600125693229-2865faaf0732?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80",
     metadata:
       "Para celebrar nuestra Semana Patria le traemos una selección de platillos típicos costarricenses",
   },
   {
     title: "Platos Fuertes",
     image:
-      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80",
     metadata:
       "Platos principales que reunen una fusión de sabores, inspiradas en la cocina costarricense",
   },
   {
     title: "Ensaladas",
     image:
-      "https://images.unsplash.com/photo-1537785713284-0015ce8a145c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80",
+      "https://images.unsplash.com/photo-1537785713284-0015ce8a145c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80",
     metadata:
       "Aquí podrá encontrar distintas recetas del acompañamiento por excelencia de cualquier plato principal: Las ensaladas",
   },
   {
     title: "Acompañamientos",
     image:
-      "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=667&q=80",
+      "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=400&q=80",
     metadata:
       "Acompañamientos varios para servir con nuestros platos principales",
   },
   {
     title: "Sánwiches",
-    image: "https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=667&q=80",
+    image: "https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=400&q=80",
     metadata: "Los infalibles sandwiches que pueden utilizarse desde el desayuno hasta la cena",
     disable: true,
   },
   {
     title: "Desayunos",
     image:
-      "https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=667&q=80",
+      "https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=400&q=80",
     metadata:
       "La mejor forma de empezar el día sin duda es con un buen desayuno, aquí encontrarás buenas ideas para variar las tradicionales",
     disable: true,

@@ -4,6 +4,9 @@ description: Una deliciosa combinación camarones y arroz, parecen simples ingre
 categories: Platos fuertes
 tags: Costa Rica, costarricense, camarones, arroz
 date: "2020-08-04T22:12:03.284Z"
+servings: "6"
+cooktime: "30"
+utensils: "pan"
 ---
 
 Una deliciosa combinación camarones y arroz, parecen simples ingredientes, pero el resultado es sorprente. Los camarones son de los mejores mariscos, ya que son muy dóciles y faciles de cocinar.
@@ -13,8 +16,7 @@ Una deliciosa combinación camarones y arroz, parecen simples ingredientes, pero
 ## Ingredientes
 
 - 15-20 camarones pequeños precocidos (se ven rosaditos generalmente se pueden conseguir en Wallmart los paquetes congelados). Descongelar y adobar al ajillo como se indica aquí: [Adobes](/Adobes/#camarones)
-
-- Arroz blanco cocinado previamente (ojalá del día anterior)
+- 2 tazas de arroz blanco cocinado previamente (ojalá del día anterior)
 - Culantro, chile, cebolla
 - Achiote
 - Consomé de camarón

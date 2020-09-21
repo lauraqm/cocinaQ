@@ -10,7 +10,7 @@ Una receta ideal para cuando queremos algo rico y saludable! Incluso frías sabe
 ### Ingredientes:
 
 - 1/2 coliflor o brócoli
-- 3/2 taza de queso rayado
+- 3/2 taza de queso rallado
 - 1/2 taza de pan molido o masa
 - 1 huevo entero
 - Olores picados: cebolla, chile, culantro.

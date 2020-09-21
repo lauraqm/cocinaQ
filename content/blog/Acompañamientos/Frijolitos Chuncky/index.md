@@ -2,7 +2,7 @@
 title: Frijolitos Chuncky
 description: Frijolitos Chuncky para quedar como los grandes en cualquier fiesta!
 categories: Acompañamientos
-tags: Costa Rica, costarricense, acompañamientos, guarniciones, frijoles, queso
+tags: Costa Rica, costarricense, acompañamientos, guarniciones, frijoles, queso, chunky
 date: "2020-08-17T22:12:03.284Z"
 servings: "6"
 cooktime: "35"

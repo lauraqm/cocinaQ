@@ -15,7 +15,7 @@ Una forma bastante rapida de preparar algo diferente y muy saludable! Una receta
 - 2 tajadas de tomate
 - Mayonesa
 - Frijolitos molidos
-- Queso rayado o en lámina que derrita (tipo pizzero) o un semiduro (como el Turrialba)
+- Queso rallado o en lámina que derrita (tipo pizzero) o un semiduro (como el Turrialba)
 - Opcional: Aguacate
 
 ### Indicaciones

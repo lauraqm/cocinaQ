@@ -1,46 +1,18 @@
 ---
-title: Caracoles rellenos
-description: Caracoles rellenos al horno y caracoles rellenos como ensalada a base de pasta!
+title: Caracoles rellenos de carne 
+description: Caracoles rellenos al horno, una suculenta pasta de manera diferente.
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+servings: "5"
+cooktime: "80"
+utensils: "pressionPot,pot,oven,pyrex"
 ---
 
-De esta receta existen 2 versiones: La que se hace como ensalada y la que se hace al horno, ambas deliciosas y llenas de sabor.
-
-## Versión ensalada
-
-## Ingredientes:
-
-- Caracoles grandes para rellenar (pasta)
-- 1/2 Pepino
-- 1 Atún en aceite
-- Cebolla, chile dulce, culantro
-- Mayonesa
-- Lechuga
-- Croutones
-- 1/2 Zanahoria.
-- Limón
-
-## Indicaciones:
-
-1. Cocinar la pasta con sal y agua.
-2. Picar los olores bien finos.
-3. Lavar, pelar y rallar bien fina la zanahoria.
-4. Lavar, pelar y picar en cubitos pequeñitos el pepino.
-5. Revolver los olores, el atún, el pepino y la zanahoria.
-6. Agregar la mayonesa, el limón al gusto.
-7. Rellenar los caracoles con la mezcla de atún.
-8. Servir en una cama de lechuga.
-9. Agregar croutones.
-10. Servir.
-
-## Versión al horno
-
-## Ingredientes:
+## Ingredientes
 
 - Caracoles jumbo (unos 15)
-- 400 gramos Carne molida adobada como se indica aquí [Adobes](/Adobes/#res) o carne mechada en salsa de tomate previamente preparada. Ver receta aquí: [Carne en salsa](/Platos fuertes/Carne mechada en salsa de tomate/) 
+- 400 gramos Carne molida adobada como se indica aquí [Adobes](/Adobes/#res) o carne mechada en salsa de tomate previamente preparada. Ver receta aquí: [Carne en salsa](/Platos fuertes/Carne mechada en salsa de tomate/)
 - Salsa de tomate Prego o Naturas (ojo que se necesita en varias partes de la receta)
 - Queso pizzero.
 - 1 cucharada de queso parmesano molido
@@ -51,8 +23,7 @@ De esta receta existen 2 versiones: La que se hace como ensalada y la que se hac
 - Perejil
 - 2 cucharadas de natilla
 
-
-## Indicaciones:
+## Indicaciones
 
 1. Cocinar la pasta con agua y sal.
 2. Si se hacen con carne  mechada saltar al paso #3. Si se desea hacer con carne molida se deben realizar estos pasos:

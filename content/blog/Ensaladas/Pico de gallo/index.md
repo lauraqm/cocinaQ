@@ -4,6 +4,8 @@ description: Pico de gallo conocido ampliamente en Latinoamérica ideal para aco
 categories: Ensaladas
 tags: Costa Rica, ensalada, pico, Pico de Gallo, tomate, Latinoamérica
 date: "2020-08-17T22:12:03.284Z"
+servings: "4"
+cooktime: "15"
 ---
 Pico de gallo conocido ampliamente en latinoamérica ideal para acompañar carne asada, tacos, chalupas, nachos o simplemente arroz y frijoles! El Pico definitivamente es un infaltable en cualquier celebración por su facilidad de preparación.
 

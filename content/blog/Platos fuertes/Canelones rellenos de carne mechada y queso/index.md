@@ -4,6 +4,9 @@ description: Canelones que le hacen la boca agua a cualquiera que los ve!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+servings: "4"
+cooktime: "80"
+utensils: "pressionPot,pot,oven,pyrex"
 ---
 Canelones que le hacen la boca agua a cualquiera que los ve! Son la combinación perfecta de pasta y carne mechada. Simplemente un lujo hecho comida!
 
@@ -11,9 +14,9 @@ Canelones que le hacen la boca agua a cualquiera que los ve! Son la combinación
 
 ## Ingredientes:
 
-- Canelones
+- 6 Canelones
 - Queso pizzero (bastante)
-- Salsa de tomate Prego Tradicional o Naturas (bastante)
+- Salsa de tomate Prego Tradicional o 4 Naturas (bastante)
 - Carne para mechar: esta debe hacerse igual que si fuera carne mechada en salsa de tomate. Ver lista de ingredientes en la siguiente receta.
 [Carne mechada en salsa de tomate](/Platos fuertes/Carne mechada en salsa de tomate/Carne mechada en salsa de tomate/)
 

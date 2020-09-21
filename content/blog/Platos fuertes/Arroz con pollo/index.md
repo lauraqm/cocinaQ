@@ -4,14 +4,16 @@ description: El infaltable de las fiestas de cumpleaños!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+servings: "6"
+cooktime: "30"
+utensils: "pan"
 ---
 El infaltable de las fiestas de cumpleaños, arroz arreglado con pollo y vegetales que disfrutan tanto grandes como chicos! Un manjar que conquista a extranjeros, ya que es particular ver el pollo en esta presentación.
 
 ## Ingredientes:
 
 - Pechuga de pollo  adobada con Color y Sabor como se indica aquí: [Adobes](/Adobes/#pollo-sabor)
-
-- Arroz blanco cocinado previamente (ojalá del día anterior)
+- 2 tazas de arroz blanco cocinado previamente (ojalá del día anterior)
 - 2 ajos
 - Culantro, chile, cebolla
 - Color y sabor de Magui o consomé de pollo

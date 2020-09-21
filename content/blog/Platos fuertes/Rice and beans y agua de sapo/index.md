@@ -75,7 +75,7 @@ Lo mejor del Caribe costarricense sin duda es su deliciosa comida y aquí esta e
 - 1/2 chile dulce
 - Cebolla, chile dulce y culantro picados al gusto
 - Sal y azúcar al gusto
-- Un poquitito de jengibre rayado
+- Un poquitito de jengibre rallado
 
 ## Preparación de la salsa caribeña
 
@@ -86,7 +86,7 @@ Lo mejor del Caribe costarricense sin duda es su deliciosa comida y aquí esta e
 5. Tapar y esperar a que se cocinen bastante los muslitos.
 6. Agregar lo que tenemos en la licuadora.
 7. Agregar 2 chiles panameños y si prefiere picante puede picar el otro y echar sin semillas.
-8. Rayar un poquito de jengibre encima del sartén.
+8. Rallar un poquito de jengibre encima del sartén.
 9. Agregar el sazón, la sal y el azúcar al gusto. 
 10. Dejar cocinar a fuego lento durante bastante raro para que se cocine bien y agarre el sabor a leche de coco.
 
@@ -103,8 +103,8 @@ Lo mejor del Caribe costarricense sin duda es su deliciosa comida y aquí esta e
 
 ## Preparación ensalada:
 
-1. Rayar bien finito el repollo.
-2. Rayar cebolla al gusto
+1. Rallar bien finito el repollo.
+2. Rallar cebolla al gusto
 3. Picar el culantro bien finito y agregar.
 4. Picar tomate en cuadritos.
 5. Agregar limón y sal al gusto.
@@ -128,13 +128,13 @@ Lo mejor del Caribe costarricense sin duda es su deliciosa comida y aquí esta e
 
 - Limon al gusto
 - Jenjibre
-- Tapa de dulce rayada o azucar moreno
+- Tapa de dulce rallada o azucar moreno
 - Hojitas de hierba buena
 
 ## Preparación del agua de sapo:
 
 1. Poner en la licuadora el limón, el dulce y hielo.
-2. Rayar muy poquito jengibre y licuar.
+2. Rallar muy poquito jengibre y licuar.
 3. Servir y decorar con las hojitas de hierba buena.
 
 

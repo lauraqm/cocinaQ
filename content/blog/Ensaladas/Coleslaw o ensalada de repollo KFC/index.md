@@ -4,6 +4,9 @@ description: Coleslaw o ensalada de repollo KFC estilo costarricense
 categories: Ensaladas
 tags: Costa Rica, costarricense, ensalada, repollo, KFC
 date: "2020-08-17T22:12:03.284Z"
+servings: "4"
+cooktime: "20"
+utensils: "shredder"
 ---
 
 Esta ensalada es la que conocemos como la ensalada de KFC que es de repollo y mayonesa con un sabor dulce que hace que sea muy agradable al paladar. Ampliamente usada en el mundo para acompañar carnes, para usar en sándwiches o simplemente como entrada.

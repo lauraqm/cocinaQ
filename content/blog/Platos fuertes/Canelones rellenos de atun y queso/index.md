@@ -4,6 +4,9 @@ description: Canelones rellenos de atún y queso, magnífica receta ideal para 
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+servings: "3"
+cooktime: "50"
+utensils: "oven,pyrex"
 ---
 Hace un tiempo durante Semana Santa ya estaba cansada de comer atún y pescado, entonces me puse creativa y salieron estos delciosos canelones que ahora se comen en casa cada vez que nos antojamos!
 
@@ -12,7 +15,7 @@ Hace un tiempo durante Semana Santa ya estaba cansada de comer atún y pescado, 
 
 ## Ingredientes
 
-- Canelones
+- 6 Canelones
 - Atún en aceite
 - 1 tarrito de queso crema.
 - Queso parmesano

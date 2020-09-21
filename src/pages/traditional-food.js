@@ -16,6 +16,10 @@ const Traditional = (props) => {
 
   return (
     <Layout location={location} title={siteTitle} specialDivider={<FlagDivider/>}>
+      <SEO
+        title="Típicos costarricenses"
+        description="Recetas típicas o tradicionales de Costa Rica"
+      />
       <Helmet title="Típicos costarricenses" defer={false} />
       
       <div className="traditional-food">

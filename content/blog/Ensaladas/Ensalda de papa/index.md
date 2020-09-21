@@ -4,6 +4,9 @@ description: Ensalada de papa comunmente conocida en muchos países
 categories: Ensaladas
 tags: Costa Rica, ensalada, papa, Semana Santa, mostaza 
 date: "2020-08-17T22:12:03.284Z"
+servings: "5"
+cooktime: "80"
+utensils: "pot"
 ---
 Ensalada de papa comunmente conocida en muchos países, en Costa Rica muy utilizada en celebraciones navideñas y Semana Santa.
 

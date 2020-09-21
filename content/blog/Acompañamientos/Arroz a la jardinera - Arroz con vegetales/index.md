@@ -31,7 +31,7 @@ Un arroz con vegetales, bastante saludable y lleno de colores para acompañar cu
 2. Hacer los olores a un lado para que el huevo no se los lleve todos.
 3. Agregar 1 o 2 huevos (resolverlos antes y agregarles una pizca de sal)
 4. Agregar luego trocitos de brocoli bien pequenitos (sin mucho tallo)
-5. Agregar zanahoria rayada finita.
+5. Agregar zanahoria rallada finita.
 6. Agregar 1/2 lata de petit pois bien escurridos. 
 7. Agregar 1/2 lata de maíz dulce bien escurrido. 
 8. Mezclar y sofreír bien.

@@ -10,12 +10,12 @@ Esto no es exactamente un plato fuerte, pero es ideal para cuando no tenemos dem
 ## Ingredientes:
 
 - 1 y 1/2 de arroz cocinado
-- 1 zanahoria rayada
+- 1 zanahoria rallada
 - 1 o 2 huevos
 - Jamón y tocineta en cuadritos
 - Olores picados
 - 2 cucharadas de queso crema
-- 1/2 taza de queso rayado
+- 1/2 taza de queso rallado
 - Pan molido o un poquito de masa
 - Ajo en polvo
 - Cebolla en polvo
