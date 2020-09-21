@@ -1,0 +1,7 @@
+@import '../styles/base.scss';
+
+.vertical-divider {
+  height: 100%;
+  width:2px;
+  border-left: 1px solid $search-border;
+}

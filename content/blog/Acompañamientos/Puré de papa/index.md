@@ -5,7 +5,7 @@ categories: Acompañamientos
 tags: Costa Rica, costarricense, acompañamientos, guarniciones, pure, papa
 date: "2020-08-17T22:12:03.284Z"
 servings: "4"
-cooktime: "45 min"
+cooktime: "45"
 utensils: "pot"
 ---
 

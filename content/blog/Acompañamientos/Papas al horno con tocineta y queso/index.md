@@ -4,7 +4,7 @@ description: Papas recargadas de sabor, hechas al horno ideales para una ocasió
 categories: Acompañamientos
 tags: Costa Rica, costarricense, acompañamientos, guarniciones, papas, horno
 date: "2020-08-17T22:12:03.284Z"
-cooktime: "45 min"
+cooktime: "45"
 utensils: "pyrex,oven,pot"
 ---
 Papas recargadas de sabor, hechas al horno ideales para una ocasión especial! Esta receta es ideal para acompañar carnes a la parrilla o cualquier tipo de carne, o incluso para una cena navideña.

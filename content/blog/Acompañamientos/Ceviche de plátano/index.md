@@ -5,7 +5,7 @@ categories: Acompañamientos
 tags: Costa Rica, costarricense, acompañamientos, guarniciones, ceviche, plátano
 date: "2020-08-17T22:12:03.284Z"
 servings: "6"
-cooktime: "30 min"
+cooktime: "30"
 utensils: "pot"
 ---
 El mejor compañero para unos chicharrones, carne asada o incluso pollo frito! Este acompañamiento va bien con todo, super saludable y delicioso!

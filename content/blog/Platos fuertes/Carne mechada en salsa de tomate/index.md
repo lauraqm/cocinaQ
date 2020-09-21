@@ -9,9 +9,9 @@ Creo que a todos los que nos gusta la carne, nos fascina la carne mechada y ést
 
 ### Ingredientes:
 
-- Trocear en pedazos grandes la carne para mechar y adobarla como dice aquí: [Adobes](/Adobes/#res)
-- 2 salsitas naturas o 1 salsa prego de tomate.
-- 1/2 lata de hongos.
+- 500 g de carne de res para mechar. Trocear en pedazos grandes la carne para mechar y adobarla como dice aquí: [Adobes](/Adobes/#res)
+- 2 salsitas naturas o 1 Salsa prego de tomate o bien tomates para hacerla 100% natural.
+- 1 lata de hongos.
 - Chile, cebolla y culantro picado.
 - Sazón completo.
 - Caldo de cola de res.
@@ -24,16 +24,15 @@ Creo que a todos los que nos gusta la carne, nos fascina la carne mechada y ést
 2. Al cocinar la carne en una cantidad de agua considerable; la carne va a diluir los condimentos y va a quedar sin sal cuando termine de cocinarse y no va a saber a nada. Entonces vamos a tomar la olla y le vamos a poner agua y luego, debemos agregar un poco de Polvo de cola de res, sazón, sal, los ajos y las especies de su preferencia; de manera que el caldito quede un poquito salado.
 3. Agregar la carne de manera que haya suficiente agua que apenas la cubra, puede estar congelada.
 4. Poner a cocinar.
-5. Si se cocina en olla de presión debe cocinarse por 45 minutos después de que empieza a sonar la válvula. Si se cocina en olla de cocimiento lento se debe cocinar por 8-9 horas.
+5. Si se cocina en olla de presión debe cocinarse por 45 minutos después de que empieza a sonar la válvula. Si se cocina en olla de cocimiento lento se debe cocinar por 6-8 horas.
 6. Una vez que esta lista tomamos la carne tomamos los trozos y los ponemos uno a uno en un plato y con ayuda de 2 tenedores la desmechamos, con un tenedor sostenemos y con otro deshebramos la carne.
-7. En un sartén o olla sofreímos los olores. 
+7. En un sartén o olla sofreímos los olores. Agregar los hongos y sofreír también.
 8. Agregamos la carne desmechada y media taza de caldo del que quedó en la olla donde se cocinó la carne. Se debe hidratar bien la carne, en caso de ser necesario agregar mas caldo.
-9. Probar si el caldo esta bien de sal o si necesita un poquito mas. 
-10. Agregar los hongos
-11. Esperar a que hierva un poquito el caldo y se seque un poquitito.
-12. Agregar la salsa de tomate.
-13. Esperar a que hierva y espese un poquito.
-14. Listo 
+9. Probar si el caldo esta bien de sal o si necesita un poquito mas.
+10. Esperar a que hierva un poquito el caldo y se seque un poquitito.
+11. Agregar la salsa de tomate de manera que quede jugosa. Si se desea hacer de tomate natural solo debemos poner en la licuadora 1 o 2 tomates medianos cortado en trozos grandes y un poquito del caldo donde cocinamos la carne (apenas para que la licuadora de vuelta) luego licuar hasta que quede totalmente homogénea. 
+12. Esperar a que hierva y espese un poquito. Si es salsa natural al inicio va a estar como rosada, hay que esperar a que tome color rojo y se puede agregar un poquito de achiote si se desea un color mas intenso.
+13. Listo 
 
 **Nota**: Se puede acompañar con alguna de las siguientes ensaladas:
 

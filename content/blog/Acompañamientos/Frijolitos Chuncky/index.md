@@ -5,7 +5,7 @@ categories: Acompañamientos
 tags: Costa Rica, costarricense, acompañamientos, guarniciones, frijoles, queso
 date: "2020-08-17T22:12:03.284Z"
 servings: "6"
-cooktime: "35 min"
+cooktime: "35"
 utensils: "pyrex,oven"
 ---
 Frijolitos Chuncky para quedar como los grandes en cualquier fiesta, sirven como dip para comer con tortillas tostadas o incluso se pueden utilizar igual que unos frijoles molidos, pero con mucho más sabor!

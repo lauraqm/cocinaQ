@@ -8,6 +8,7 @@ import "./blog-post.scss";
 import { Collapse } from 'antd';
 import ImageModal from '../components/imageModal';
 import RecipeTitle from "../components/recipeTitle";
+import RecipeInfo from "../components/recipeInfo";
 
 const BlogPostTemplate = (props) => {
   const { data, pageContext, location } = props;
@@ -70,8 +71,6 @@ const BlogPostTemplate = (props) => {
   }
 
 
-  
-
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
@@ -84,6 +83,7 @@ const BlogPostTemplate = (props) => {
           <header>
             <RecipeTitle title={post.frontmatter.title} featuredImgAlt ={post.frontmatter.title} featuredImgUrl ={urlFeatureImage}></RecipeTitle>
           </header>
+          <RecipeInfo metadata = {post.frontmatter}></RecipeInfo>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
           {gallery}
           <hr style={{ marginBottom: rhythm(1) }} />
@@ -123,6 +123,9 @@ export const pageQuery = graphql`
         featuredImgAlt
         featuredImgUrl
         categories
+        servings
+        cooktime
+        utensils
       }
     }
     allCloudinaryMedia(filter: {public_id: { regex: $folder}}) {

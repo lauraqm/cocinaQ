@@ -4,7 +4,7 @@ description: Papas sencillas y fáciles de hacer para sorprender a cualquiera!
 categories: Acompañamientos
 tags: Costa Rica, costarricense, acompañamientos, guarniciones, papas, hierbas
 date: "2020-08-17T22:12:03.284Z"
-cooktime: "40 min"
+cooktime: "40"
 utensils: "pot,pan"
 ---
 

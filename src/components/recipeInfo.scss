@@ -1,0 +1,77 @@
+@import '../styles/base.scss';
+
+.recipe-info-bar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  margin: 30px 0 30px 0;
+
+
+  .info-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    padding: 0 60px 0 60px;
+
+    &.with-divider {
+      border-left: 1px solid $search-border;
+    }
+
+    svg {
+      height: 30px;
+      fill: $primary-color;
+    }
+
+    .big-text {
+      font-size: xx-large;
+      color: $primary-color;
+    }
+
+    .utensils {
+      display: flex;
+      flex-direction: row;
+      height: 50px;
+      padding-bottom: 10px;
+    }
+
+  }
+  @media only screen and (max-width: 450px) {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 0 20px 0;
+
+    .info-container {
+      display: flex;
+      height: 80px;
+      padding: 10px 20px 10px 20px;
+      &.with-divider {
+        border-left: none;
+      }
+
+      svg {
+        height: 25px;
+      }
+
+      .big-text {
+        font-size: x-large;
+        color: $primary-color;
+      }
+
+      .utensils {
+        height: 35px;
+        display: flex;
+        flex-direction: row;
+        padding-bottom: 0px;
+      }
+
+    }
+
+  }
+
+}
+
