@@ -8,7 +8,7 @@ const RecipeTitle = (props) => {
   if (featuredImgUrl) {
     recipeTitle = (
       <div className="feature-image-container">
-        <div className="feature-image-title">{title}</div>
+        <h1 className="feature-image-title">{title}</h1>
         <img
           className="feature-image"
           src={featuredImgUrl}
