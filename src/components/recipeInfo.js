@@ -8,10 +8,11 @@ import Pan from "./icons/pan";
 import PipingBag from "./icons/pipingBag";
 import Pot from "./icons/pot";
 import Pyrex from "./icons/pyrex";
-import Servings from "./icons/servings";
+import AirFryer from "./icons/airFryer";
 import Shredder from "./icons/shredder";
 import PressionPot from "./icons/pressionPot";
-
+import Bowl from "./icons/bowl";
+import PizzaMold from "./icons/pizzaMold";
 
 
 const RecipeInfo = (props) => {
@@ -26,7 +27,10 @@ const RecipeInfo = (props) => {
     pot: <Pot/>,
     pyrex: <Pyrex/>,
     shredder: <Shredder/>,
-    pressionPot: <PressionPot/>
+    pressionPot: <PressionPot/>,
+    airFryer: <AirFryer/>,
+    bowl: <Bowl/>,
+    pizzaMold: <PizzaMold/>
   };
 
   if (cooktime) {

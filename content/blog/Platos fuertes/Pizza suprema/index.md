@@ -4,6 +4,9 @@ description: Pizza suprema casera, nada que envidiarle a la que solemos comprar!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, pizza
 date: "2020-08-13T22:12:03.284Z"
+servings: "6"
+cooktime: "40"
+utensils: "oven,bowl,pizzaMold"
 ---
 Pizza suprema casera, nada que envidiarle a la que solemos comprar! Un gusto controlando mejor la calidad de los ingredientes que se utilizan para preparar el platillo que todos aman: "La pizza"
 
@@ -20,6 +23,7 @@ Pizza suprema casera, nada que envidiarle a la que solemos comprar! Un gusto con
 - 1 taza de agua tibia
 - Tazón de vidrio
 - Papel plástico de cocina
+- Platón para pizza (si no tenemos se puede usar una bandeja)
 
 ### Para el relleno:
 

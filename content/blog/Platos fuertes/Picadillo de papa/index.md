@@ -4,6 +4,9 @@ description: Picadillo de papa tradicional costarricense
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional, picadillo, papa
 date: "2020-08-13T22:12:03.284Z"
+servings: "5"
+cooktime: "40"
+utensils: "pot"
 ---
 
 Todos sabemos que los picadillos son muy tradicionales en Costa Rica, sin embargo que cada vez que pienso en un picadillo el primero que viene a mi mente es el de papa, ha de ser porque es más aceptado y uno de los más faciles de preparar.

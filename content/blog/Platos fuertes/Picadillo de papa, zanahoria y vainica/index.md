@@ -4,6 +4,9 @@ description: Picadillo multi color super saludable!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, picadillo, Plato fuerte, tradicional, zanahoria, vainica, papa
 date: "2020-08-13T22:12:03.284Z"
+servings: "5"
+cooktime: "40"
+utensils: "pot"
 ---
 La única forma en que mi mamá lograba que comiéramos vainicas cuando éramos niños era con este picadillo, porque pasa disimulada la vainica y predomina el sabor de la papa y la zanahoria. Muy saludable y perfecto para un almuerzo o cena sin arrepentimientos.
 

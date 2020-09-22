@@ -2,8 +2,10 @@
 title: Pescado o pollo empanizado
 description: Parece simple, pero para muchas personas empanizar de la manera adecuada es todo un misterio.
 categories: Platos fuertes
-tags: Costa Rica, costarricense, Plato fuerte, tradicional
+tags: Costa Rica, costarricense, Plato fuerte, tradicional, pescado, empanizado, pollo, airfryer
 date: "2020-08-13T22:12:03.284Z"
+cooktime: "20"
+utensils: "pan,airFryer"
 ---
 Parece simple, pero para muchas personas empanizar de la manera adecuada es todo un misterio.Esta receta sirve para empanizar pollo en cualquier presentación: pechuga, muslos, fajitas, deditos, ect.
 El pescado queda bien con solo pasarlo por pan y se recomienda: tilapia y dorado (marlen dorado)
