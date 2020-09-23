@@ -67,10 +67,6 @@ class CategoryCard extends React.Component {
   render() {
     return (
       <div className="categories">
-        {/* <p>Bienvenido a Cocina Q. un espacio dedicado a la cocina. Nuestra principal misión es que cualquier persona aunque no tenga muchos conocimientos 
-          de cocina logre preparar un platillo delicioso, por ello tenemos diferentes tipos de recetas de todo tipo de dificultad, algunas costarricenses y otras del mundo.
-          Esperamos que nuestra modalidad de recetas escritas en términos simples y sin mucho tecnisimos, sea de gran utilidad para usted! 
-        </p> */}
         {categoryData.map((data) => {
           return this.createCard(data);
         })}

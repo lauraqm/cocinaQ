@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Helmet } from "react-helmet";
 import { useState } from "react";
 import { Link, graphql } from "gatsby";
@@ -16,10 +16,8 @@ const AllRecipes = ({ data, location }) => {
   let filteredData = [];
   const [state, setState] = useState({ filteredData: allPosts, query: ""});
   const [searchByIngredient, setSearchByIngredient] = useState(false);
-
-
-  const handleInputChange = (event) => {
-    const query = event.target.value;
+  
+  const filterData = (query) => {
     // return all filtered posts
     filteredData = allPosts.filter((post) => {
       const { description, title} = post.node.frontmatter;
@@ -44,11 +42,20 @@ const AllRecipes = ({ data, location }) => {
       }
     });
     setState({filteredData, query});
+  }
+
+  const handleInputChange = (event) => {
+    const query = event.target.value;
+    filterData (query);
   };
 
   const ingredientHandler = (isActive) => {
     setSearchByIngredient (isActive);
   };
+
+  useEffect (() => {
+    filterData (state.query);
+  }, [searchByIngredient]);
 
  
   return (
