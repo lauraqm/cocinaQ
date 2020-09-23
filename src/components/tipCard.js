@@ -4,18 +4,13 @@ const { Meta } = Card;
 import { navigate } from 'gatsby';
 import "./tipCard.scss";
 
-class TipCard extends React.Component {
-  handleClick = (title) => {
-    navigate(`/Tips/${title}/`); 
-  }
-
-  render() {
-    const { title, content, image } = this.props;
+const  TipCard = (props) =>{
+    const { title, content, image } = props;
     return (
         <div className="card-container">
           <Card 
             title={title}
-            onClick = { ()=> {this.handleClick (title)} }
+            onClick = { ()=> {navigate(`/Tips/${title}/`);} }
             bordered={false}
             hoverable
             cover={<img src={image}></img>}
@@ -24,7 +19,6 @@ class TipCard extends React.Component {
           </Card>
         </div>
     );
-  }
 }
 
 export default TipCard;
