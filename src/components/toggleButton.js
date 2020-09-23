@@ -1,53 +1,39 @@
-import React, { Children } from "react";
-import { Tooltip } from 'antd';
+import React, { Children, useEffect, useState } from "react";
+import { Tooltip } from "antd";
 import "./toogleButton.scss";
 
-class ToggleButton extends React.Component {
-  constructor (props) {
-    super(props);
-    this.state = {
-      active : false,
-      className: "inactive"
-    };
-    this.onClick = this.onClick.bind(this);
-  }
+const ToggleButton = (props) => {
+  const {tooltip, extraClass} = props;
+  const [toggleState, setToggleState] = useState(true);
+  const [className, setClassName] = useState("inactive");
 
-  onClick() {
+  ///Every time when toggleState change this hook will be executed
+  useEffect (()=> {
     let newClass = "";
-    let isActive = !this.state.active;
+    let isActive = !toggleState;
     if (isActive) {
-      newClass = "active"
+      newClass = "active";
+    } else {
+      newClass = "inactive";
     }
-    else  {
-      newClass = "inactive"
-    }
-    this.setState({ active: isActive, className: newClass });
-    this.props.onChange(isActive);
+    setClassName (newClass);
+    props.onChange(isActive);
+  }, [toggleState]);
+
+  let classToApply;
+  if (extraClass) {
+    classToApply = `toggle-button ${extraClass} ${className}`;
+  } else {
+    classToApply = `toggle-button ${className}`;
   }
 
-
-
-  render() {
-    const { icon, extraClass } = this.props;
-    let classToApply;
-
-    if (extraClass) {
-      classToApply= `toggle-button ${extraClass} ${this.state.className}`
-    }
-    else  {
-      classToApply= `toggle-button ${this.state.className}`
-    }
-
-    return (
-      <Tooltip placement="bottomRight" title={this.props.tooltip}>
-        <div className = {classToApply} onClick={this.onClick}>
-        {this.props.children}
+  return (
+    <Tooltip placement="bottomRight" title={tooltip}>
+      <div className={classToApply} onClick={ ()=> {setToggleState(!toggleState)}}>
+        {props.children}
       </div>
-      </Tooltip>
-
-      
-    );
-  }
-}
+    </Tooltip>
+  );
+};
 
 export default ToggleButton;
