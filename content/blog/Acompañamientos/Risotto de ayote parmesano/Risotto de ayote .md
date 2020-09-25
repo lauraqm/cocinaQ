@@ -8,7 +8,7 @@ servings: "6"
 cooktime: "40"
 utensils: "pot"
 ---
-El risotto es un arroz cremoso originario de Italia, pero aquí vamos a enseñarles como hacer una deliciosa mezcla de este platillo italiano con el que conocemos como ayote mantequilla, además del suculento queso parmesano!
+El risotto es un arroz cremoso originario de Italia, pero aquí vamos a enseñarles como hacer una deliciosa mezcla de este platillo italiano con el que conocemos como ayote mantequilla, además del suculento queso parmesano! Ideal para acompañar pescados como salmón o atún o bien carnes finas.
 
 ## Ingredientes
 
