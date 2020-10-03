@@ -4,13 +4,15 @@ description: Lo mejor del Caribe costarricense sin duda es su deliciosa comida y
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
-
+servings: "4"
+cooktime: "130"
+utensils: "pressionPot,pot,pan,blender,shredder"
 ---
 Lo mejor del Caribe costarricense sin duda es su deliciosa comida y aquí esta el plato estrella! Un plato bastante complejo en preparación y tiempo, por eso recomiendo empezar desde el dia antes a adobar el pollo y preparar los frijoles. El trabajo es mucho pero el resultado es impresionante!
 
-## Ingredientes para adobar el pollo:
+## Ingredientes para adobar el pollo
 
-- 3 Muslos de pollo sin piel y el antemuslo.
+- 4 Muslos de pollo sin piel y el antemuslo.
 - 1 cucharada de vinagre blanco
 - 1 cucharada de mostaza
 - 1 chorrito de aceite de oliva
@@ -32,9 +34,9 @@ Lo mejor del Caribe costarricense sin duda es su deliciosa comida y aquí esta e
 
 ---
 
-## Ingredientes para rice and beans:
+## Ingredientes para rice and beans
 
-- 350 gramos de frijoles rojos
+- 300 gramos de frijoles rojos
 - 2 tazas de arroz (ojala precocido)
 - 3-4 chiles Panameños  (Habaneros)
 - 4 hojas de laurel
@@ -48,17 +50,17 @@ Lo mejor del Caribe costarricense sin duda es su deliciosa comida y aquí esta e
 
 ## Preparación rice and beans
 
-1. Cocinar los frijoles con suficiente agua y 1/3 de lata de leche de coco, 2 hojas de laurel, 1 rollito de tomillo, agregar sal,  ajos, orégano y demás especies de su preferencia. Tratar de que les falte un poquito de cocción para terminar de cocinarlos cuando mezclemos con el arroz.
+1. Cocinar los frijoles en olla de presión, con suficiente agua y 1/3 de lata de leche de coco, 2 hojas de laurel, 1 rollito de tomillo, agregar sal,  ajos, orégano y demás especies de su preferencia. Tratar de que les falte un poquito de cocción para terminar de cocinarlos cuando mezclemos con el arroz.
 2. Escurrir los frijoles y apartar el caldo y los frijoles.
 3. Sofreír el culantro, la cebolla y el chile dulce.
 4. Lavar bien el arroz, escurrirlo y sofreírlo con los olores.
 5. Agregar 1 lata de leche de coco y 2.5 tazas de caldo de frijol.
 6. Agregar 2 hojas de laurel y 2 rollitos de tomillo.
 7. Agregar 3 chiles panameños, enteros, con cuidado de que no se revienten nunca. Si quieren que quede un poquito picante pueden agregar unas tajaditas de otro chile pero SIN semillas.
-8. Cocinar a fuego medio hasta que empiece a hervir un poquito. 
+8. Cocinar a fuego medio hasta que empiece a hervir un poquito.
 9. Agregar los frijoles que teníamos sin caldo.
 10. Cocinar hasta que quede como un pinto y tan seco como prefiera.
-11. Debe quedar bien suelto el arroz. 
+11. Debe quedar bien suelto el arroz.
 
 ---
 
@@ -81,18 +83,18 @@ Lo mejor del Caribe costarricense sin duda es su deliciosa comida y aquí esta e
 
 1. Licuar el tomate, la papa, la leche de coco y la salsa china, 1/2 chile dulce. Reservar.
 2. Poner un poquito de aceite en el sartén bien caliente, echar el azúcar y esperar a que se caramelice, tiene que ponerse bien oscurito.
-3. Luego poner el pollo y sofreírlo en el azúcar caremelizado. 
+3. Luego en un sarten y sofreír el pollo en el azúcar caremelizado.
 4. Agregar los olores picados y sofreír.
 5. Tapar y esperar a que se cocinen bastante los muslitos.
 6. Agregar lo que tenemos en la licuadora.
 7. Agregar 2 chiles panameños y si prefiere picante puede picar el otro y echar sin semillas.
 8. Rallar un poquito de jengibre encima del sartén.
-9. Agregar el sazón, la sal y el azúcar al gusto. 
+9. Agregar el sazón, la sal y el azúcar al gusto.
 10. Dejar cocinar a fuego lento durante bastante raro para que se cocine bien y agarre el sabor a leche de coco.
 
 ---
 
-## Ingredientes ensalada:
+## Ingredientes ensalada
 
 - Repollo
 - Tomates
@@ -101,7 +103,7 @@ Lo mejor del Caribe costarricense sin duda es su deliciosa comida y aquí esta e
 - Culantro
 - Sal
 
-## Preparación ensalada:
+## Preparación ensalada
 
 1. Rallar bien finito el repollo.
 2. Rallar cebolla al gusto
@@ -111,7 +113,7 @@ Lo mejor del Caribe costarricense sin duda es su deliciosa comida y aquí esta e
 
 ---
 
-## Ingredientes plátanos:
+## Ingredientes plátanos
 
 - 3 platanos bien maduros
 - Aceite suficiente para una ollita
@@ -124,18 +126,17 @@ Lo mejor del Caribe costarricense sin duda es su deliciosa comida y aquí esta e
 
 ---
 
-## Ingredientes para agua de sapo:
+## Ingredientes para agua de sapo
 
 - Limon al gusto
 - Jenjibre
 - Tapa de dulce rallada o azucar moreno
 - Hojitas de hierba buena
 
-## Preparación del agua de sapo:
+## Preparación del agua de sapo
 
 1. Poner en la licuadora el limón, el dulce y hielo.
 2. Rallar muy poquito jengibre y licuar.
 3. Servir y decorar con las hojitas de hierba buena.
-
 
 [Video de referencia del programa "Sin Secretos ConDoris](https://www.youtube.com/watch?v=xY7lAfxL1sU)

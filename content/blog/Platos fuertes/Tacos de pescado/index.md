@@ -4,6 +4,8 @@ description: Tacos mexicanos de pescado como se preparan en la costa de México.
 categories: Platos fuertes
 tags: Costa Rica, Mexico, Fish Tacos, Baja Fish, Plato fuerte, Tacos
 date: "2020-08-13T22:12:03.284Z"
+cooktime: "30"
+utensils: "pan,shredder"
 ---
 Tacos mexicanos de pescado como se preparan en la costa de México donde aprovechan su cercanía al mar para obtener el mejor pescado y preparar estos deliciosos tacos que definitivamente es una de las recetas mexicanas preferidas por los foráneos!
 

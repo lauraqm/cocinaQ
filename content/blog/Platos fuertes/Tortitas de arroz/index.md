@@ -4,6 +4,9 @@ description: Una forma rápida de aprovechar sobritos de arroz!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, arroz, tortas
 date: "2020-08-13T22:12:03.284Z"
+servings: "4"
+cooktime: "30"
+utensils: "pan,shredder"
 ---
 Esto no es exactamente un plato fuerte, pero es ideal para cuando no tenemos demasiada hambre y tenemos arroz en nuestra refrigeradora, y se puede aprovechar de una excelente manera haciendo tortitas!
 
@@ -13,7 +16,7 @@ Esto no es exactamente un plato fuerte, pero es ideal para cuando no tenemos dem
 - 1 zanahoria rallada
 - 1 o 2 huevos
 - Jamón y tocineta en cuadritos
-- Olores picados
+- Olores picados: chile, cebolla, culantro.
 - 2 cucharadas de queso crema
 - 1/2 taza de queso rallado
 - Pan molido o un poquito de masa

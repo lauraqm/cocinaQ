@@ -4,12 +4,15 @@ description: Tortitas de carne tradicionales de la cocina costarricense y alguna
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional, carne molida, tortas, atun, molida de pollo
 date: "2020-08-13T22:12:03.284Z"
+servings: "2"
+cooktime: "30"
+utensils: "pan"
 ---
 Tortitas de carne tradicionales de la cocina costarricense que se pueden variar un poco cambiando su carne principal y obteniendo sabores muy distintos.
 
 ### Ingredientes:
 
-- Masa o pan molido.
+- Pan molido o masa.
 - 1 huevo pequeño.
 - Carne molida de res o de pollo como para 4 tortas, abodaba como se indica aquí [molida de res](/Adobes/#res)/[molida de pollo](/Adobes/#molida-pollo)
 - En caso de ser de atún, se sustituye la carne por 1 atún en aceite grande y bien escurrido.

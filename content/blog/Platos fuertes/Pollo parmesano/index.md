@@ -4,13 +4,15 @@ description: Pollo parmesano saludable hecho al horno o en freidora de aire!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+cooktime: "25"
+utensils: "airFryer"
 ---
 
 Pollo parmesano saludable hecho al horno o en freidora de aire! Ideal para darnos un gusto sin preocuparnos mucho por el aporte calórico de un plato que normalmente es bastante pesado.
 
 ## Ingredientes
 
-- Pollo a las hierbas adobado como se indica aquí: [Adobes](/Adobes/#pollo-hierbas)
+- Filetes de pollo a las hierbas adobado como se indica aquí: [Adobes](/Adobes/#pollo-hierbas)
 - Salsa de tomate en pasta. Prego o similar, la Naturas es muy líquida, se necesita espesa.
 - Queso parmesano (polvo)
 - Pan molido

@@ -30,7 +30,8 @@ const RecipeInfo = (props) => {
     pressionPot: <PressionPot/>,
     airFryer: <AirFryer/>,
     bowl: <Bowl/>,
-    pizzaMold: <PizzaMold/>
+    pizzaMold: <PizzaMold/>,
+    airFryer: <AirFryer/>
   };
 
   if (cooktime) {

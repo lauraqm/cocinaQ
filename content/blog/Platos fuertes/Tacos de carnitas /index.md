@@ -4,6 +4,9 @@ description: Version "light" de los tacos de carnitas mexicanas! Una delicia que
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+servings: "2"
+cooktime: "95"
+utensils: "oven,pressionPot,blender"
 ---
 
 Las carnitas de cerdo son un platillo típico de México, es muy muy muy sabroso pero en su receta original se debe freír y usar mucha manteca de cerdo, pero en esta receta lo vamos a hacer con ayuda de una olla de presión o cocimiento lento y del horno para hacerlo mas saludable. Las carnitas ideales son básicamente carne de cerdo con un sabor salado pero con matices dulzones y con algunas partes tostaditas pero siempre manteniéndose como una carne bien jugosa y por supuesto con un sabor a cerdo increíble.
@@ -11,6 +14,8 @@ Las carnitas de cerdo son un platillo típico de México, es muy muy muy sabroso
 Incluso este tipo de carne se puede usar no solo para tacos, sino en diferentes cosas: en burritos, en chalupas, o en un bowl con arroz y frijoles pintos o bayos acompañado de guacamole y pico de gallo.
 
 En tacos basta con poner carnitas en una tortilla, agregar limón y culantro picado y tendremos unos tacos increíbles. Siempre se agregan ingredientes ácidos para contrarrestar la grasa del cerdo. Sin embargo en esta receta los acompañaremos de una salsa de aguacate y una vinagreta.
+
+Esta receta rinde para 6 tacos pequeñitos, es decir como 2 porciones (3 tacos por persona).
 
 ## Ingredientes
 

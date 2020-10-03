@@ -4,6 +4,9 @@ description: Tortitas saludables de coliflor, ideales para que los niños coman 
 categories: Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
+servings: "2"
+cooktime: "35"
+utensils: "pot,pan"
 ---
 Una receta ideal para cuando queremos algo rico y saludable! Incluso frías saben bien, como snack, como cena o como acompañamiento!
 
