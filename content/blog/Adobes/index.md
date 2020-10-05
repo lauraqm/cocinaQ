@@ -169,6 +169,14 @@ Todo lo del abode de carne molida y a la hora de hacer tortitas agregar
 
 Probar que queden bien de sal porque al agregar huevo y masa se puede perder un poco
 
+## Cortes finos de res (New York Steak, Churrasco, RibEye, ect) 🥩 {#res-fino}
+
+- Sal himalaya
+- Mantequilla derretida
+- Romero
+- Pasta de ajo o ajo en polvo
+- Pimienta negra recién molida
+
 ## Bistec mexicano 🇲🇽 {#bistec-mexicano}
 
 - Naranja
