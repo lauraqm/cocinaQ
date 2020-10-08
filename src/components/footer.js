@@ -10,12 +10,10 @@ const CustomFooter = () => {
       <div className="background-footer"></div>
       <div className="legend">
         <div className="media">
-          <div>
-            <p>Síguenos en Instagram</p>
-            <a href="https://www.instagram.com/cocinaq/">
-              <Instagram/>
-            </a>
-          </div>
+          <p>Síguenos en Instagram</p>
+          <a href="https://www.instagram.com/cocinaq/">
+            <Instagram/>
+          </a>
         </div>
         <div className="rigths">
           Hecho con <span className="heart">♥</span> en California ©{" "}

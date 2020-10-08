@@ -1,7 +1,3 @@
-import React from 'react';
-
-const Instagram  = () => {
-  return (
 <svg xmlns="http://www.w3.org/2000/svg" width="147.017" height="147.014" viewBox="0 0 147.017 147.014">
   <g id="Icons" transform="translate(-29.068 -5.336)">
     <g id="Group_454" data-name="Group 454" transform="translate(7.731 5.336)">
@@ -11,10 +7,3 @@ const Instagram  = () => {
     </g>
   </g>
 </svg>
-
-
-
-  )
-}
-
-export default Instagram;

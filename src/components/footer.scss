@@ -27,8 +27,10 @@
 
     .media {
       display: flex;
+      flex-direction: row;
       margin-bottom: 20px;
       align-items: center;
+      color:$primary-color;
       
       a {
         box-shadow: 0 0 0 0;
@@ -39,6 +41,7 @@
         width: 35px;
         fill: $primary-color;
         margin-left: 10px;
+        margin-top: -10px;
       }
     }
 
