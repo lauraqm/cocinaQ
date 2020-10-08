@@ -9,10 +9,11 @@ module.exports = {
       y el buen comer! Adoro compartir recetas con mis
       amigos y familia, la idea de este recetario como yo
       lo llamo, es para poder llevar mi pasión por la cocina
-      con mas personas. La mayoria de recetas que
-      encontrarás aqui son una fusión de comida típica
+      con mas personas, de una forma fácil y sin tecnicismos abrumadores.
+      La mayoría de recetas que encontrarás aquí son una fusión de comida típica
       costarricense y otras cocinas del mundo que he tenido
-      el privilegio de degustar.`,
+      el privilegio de degustar. Espero disfruten de este proyecto que he realizado
+      con todo el amor para ustedes.`,
     },
     description: `Blog de cocina costarricense y del mundo`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
