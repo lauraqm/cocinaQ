@@ -1,0 +1,26 @@
+@import '../styles/base.scss';
+
+.main-page {
+  .description-container {
+    margin-bottom: 50px;
+  }
+
+  .title {
+    text-align: center;
+    color: $secundary-color;
+    //font-size: larger;
+  }
+
+  .description {
+    text-align: center;
+    color: $secundary-color;
+  }
+
+  @media only screen and (max-width: 450px) {
+    .title {
+      font-size: x-large;
+      margin-bottom: 20px;
+    }
+  }
+
+}

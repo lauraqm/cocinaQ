@@ -1,21 +1,22 @@
 import React from "react";
-import { navigate } from "gatsby";
+import { navigate, Link } from "gatsby";
 import { Card } from "antd";
 const { Meta } = Card;
 import "./categoryCard.scss";
 import kebabCase from "lodash/kebabCase";
 
 class CategoryCard extends React.Component {
-  handleClick = (title, disable) => {
+  
+  getUrl = (title, disable) => {
     if (!disable) {
       if (title === "Típicas costarricenses") {
-        navigate(`/traditional-food/`);
+        return (`/traditional-food/`);
       }
       else if (title === "Adobes") {
-        navigate(`/Adobes/`);
+        return(`/Adobes/`);
       } 
       else {
-        navigate(`/categories/${kebabCase(title)}/`);
+        return(`/categories/${kebabCase(title)}/`);
       }
     }
   };
@@ -24,8 +25,25 @@ class CategoryCard extends React.Component {
     const { title, metadata, image, disable } = cardData;
     let card;
     card = (
-
         <div className="card-container">
+          <Link  to={this.getUrl(title, disable)}>
+            <Card
+              
+              bordered={false}
+              hoverable
+              cover={<img src={image} />}
+            >
+              <div className="title-card">{title}</div>
+              <Meta description={metadata} />
+            </Card>
+          </Link>
+        </div>
+    );
+    
+    if (disable) {
+      card =  (
+        <div className="card-container">
+        <Link  to={this.getUrl(title, disable)}>
           <Card
             onClick={() => {
               this.handleClick(title, disable);
@@ -37,26 +55,10 @@ class CategoryCard extends React.Component {
             <div className="title-card">{title}</div>
             <Meta description={metadata} />
           </Card>
-        </div>
-    );
-    
-    if (disable) {
-      card =  (
-        <div className="card-container">
-        <Card
-          onClick={() => {
-            this.handleClick(title, disable);
-          }}
-          bordered={false}
-          hoverable
-          cover={<img src={image} />}
-        >
-          <div className="title-card">{title}</div>
-          <Meta description={metadata} />
-        </Card>
-        <div className="disable-card">
-          <div className="banner">Próximamente</div>
-        </div>
+          <div className="disable-card">
+            <div className="banner">Próximamente</div>
+          </div>
+        </Link>
       </div>
       )
     }

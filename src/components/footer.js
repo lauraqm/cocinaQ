@@ -1,61 +1,26 @@
 import "./footer.scss";
 import React from "react";
 import { useStaticQuery, graphql } from "gatsby";
+import Instagram from "./icons/Instagram";
 
 const CustomFooter = () => {
-  const mediaData = useStaticQuery(graphql`
-    query mediaQuery {
-      facebook: file(absolutePath: { regex: "/facebook-media.svg/" }) {
-        childImageSharp {
-          fixed(width: 25, height: 25) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-        extension
-        publicURL
-      }
-
-      instagram: file(absolutePath: { regex: "/instagram-media.svg/" }) {
-        childImageSharp {
-          fixed(width: 25, height: 25) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-        extension
-        publicURL
-      }
-
-      pinterest: file(absolutePath: { regex: "/pinterest-media.svg/" }) {
-        childImageSharp {
-          fixed(width: 25, height: 25) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-        extension
-        publicURL
-      }
-    }
-  `);
-
-  let mediaPanel = [];
-  // for (var key in mediaData) {
-  //   let media = mediaData[key];
-  //   let image;
-  //   if (!media.childImageSharp && media.extension === "svg") {
-  //     image = <img key={key} src={media.publicURL} />;
-  //   }
-  //   mediaPanel.push(image);
-  // };
 
   return (
-    <footer>
+    <footer className="general-footer">
+      <div className="background-footer"></div>
       <div className="legend">
-        <div className="media">{mediaPanel}</div>
-        <div className="rigths">
-          Hecho con  <span className="heart">♥</span>  en California © {new Date().getFullYear()} Cocina Q. Todos
-          los derechos reservados
+        <div className="media">
+          <div>
+            <p>Síguenos en Instagram</p>
+            <a href="https://www.instagram.com/cocinaq/">
+              <Instagram/>
+            </a>
+          </div>
         </div>
-        
+        <div className="rigths">
+          Hecho con <span className="heart">♥</span> en California ©{" "}
+          {new Date().getFullYear()} Cocina Q. Todos los derechos reservados
+        </div>
       </div>
     </footer>
   );
