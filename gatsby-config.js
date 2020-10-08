@@ -2,7 +2,7 @@ require('dotenv').config();
 
 module.exports = {
   siteMetadata: {
-    title: `Cocina Q.`,
+    title: `Cocina Q. Recetas de Costa Rica y el mundo`,
     author: {
       name: `Laura Quesada`,
       summary: `costarricense amante de la comida 
@@ -14,7 +14,7 @@ module.exports = {
       costarricense y otras cocinas del mundo que he tenido
       el privilegio de degustar.`,
     },
-    description: `Blog de cocina costarricense`,
+    description: `Blog de cocina costarricense y del mundo`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `lauraqmpz`,
@@ -68,12 +68,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-feed`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
-    },
+    
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -133,6 +128,7 @@ module.exports = {
         trackingId: "UA-176742320-1",
       },
     },
+    
   
     
   ],
