@@ -16,7 +16,7 @@ module.exports = {
       con todo el amor para ustedes.`,
     },
     description: `Blog de cocina costarricense y del mundo`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://www.cocinaq.com/`,
     social: {
       twitter: `lauraqmpz`,
     },
@@ -69,7 +69,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-feed`,
-    
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

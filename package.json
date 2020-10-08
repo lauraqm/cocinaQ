@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "cocinaq",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Sitio de recetas de Costa Rica y el mundo",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Laura Quesada",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -23,6 +23,7 @@
     "gatsby-plugin-react-helmet": "^3.3.6",
     "gatsby-plugin-sass": "^2.3.12",
     "gatsby-plugin-sharp": "^2.6.14",
+    "gatsby-plugin-sitemap": "^2.4.15",
     "gatsby-plugin-typography": "^2.5.6",
     "gatsby-remark-autolink-headers": "^2.3.11",
     "gatsby-remark-copy-linked-files": "^2.3.7",
