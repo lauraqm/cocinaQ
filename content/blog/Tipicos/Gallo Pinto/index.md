@@ -5,6 +5,8 @@ categories: Típicos costarricenses
 tags: Costa Rica, costarricense, Plato fuerte, tradicional, gallo pinto
 date: "2020-09-14T22:12:03.284Z"
 image: "https://res.cloudinary.com/dwb6ecajn/image/upload/c_scale,w_500/v1600064759/cocinaQ/Gallo%20Pinto/Gallo_Pinto_4_-main_vr4whi.jpg"
+cooktime: "20"
+utensils: "pan"
 ---
 
 El gallo pinto es quizá el platillo más tico! Lo disfrutamos al desayuno generalmente, pero los verdaderos amantes del gallo pinto, lo pueden consumir al almuerzo y a la cena! Se puede acompañar de diferentes cosas tales como huevo, natilla, plátano maduro, salchichón, aguacate, tortillas palmeadas y hasta con chicharrones o carne en salsa! A pesar de que parece ser un plato bastante simple tiene sus secretos! 🇨🇷

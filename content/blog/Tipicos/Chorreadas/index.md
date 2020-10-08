@@ -5,6 +5,9 @@ categories: Típicos costarricenses
 tags: Costa Rica, costarricense, desayuno, tradicional, Chorreadas, maíz
 date: "2020-09-14T22:12:03.284Z"
 image: "https://res.cloudinary.com/dwb6ecajn/image/upload/c_scale,w_500/v1600064759/cocinaQ/Chorreadas/Chorreada2-main_wqpzoo.jpg"
+servings: "6"
+cooktime: "60"
+utensils: "pan,blender,bowl"
 ---
 Las chorreadas de maíz son simplemente una delicia de la cocina costarricense, se pueden comer para el desayuno o para la hora del café de la tarde y algunos las preferimos dulces y otros saladas. Generalmente se acompanan de natilla con sal y un buen café chorreado! Eso si para realizar esta receta debemos asegurarnos que el maíz sea tierno para que nos queden suavecitas las chorreadas.
 

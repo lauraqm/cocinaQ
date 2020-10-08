@@ -2,7 +2,7 @@ require('dotenv').config();
 
 module.exports = {
   siteMetadata: {
-    title: `Cocina Q. Recetas de Costa Rica y el mundo`,
+    title: `Recetas de Costa Rica y el mundo`,
     author: {
       name: `Laura Quesada`,
       summary: `costarricense amante de la comida 

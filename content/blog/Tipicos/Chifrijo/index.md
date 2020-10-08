@@ -5,6 +5,8 @@ categories: Típicos costarricenses,Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional
 date: "2020-08-13T22:12:03.284Z"
 image: "https://res.cloudinary.com/dwb6ecajn/image/upload/c_scale,w_500/v1600064759/cocinaQ/Chifrijo/20200916_132145_wdj1gm.jpg"
+cooktime: "40"
+utensils: "pot"
 ---
 
 Chifrijo tico, una genialidad hecha platillo! Cuenta la historia que un dueño de un bar tenía unos sobros de chicharrones y decidió mezclarlo con lo que todos tenemos en casa: "Arroz y frijoles" y luego le agregó pico de gallo, y así nació esta "boca" de bar que pronto se popularizó a lo largo y ancho de toda Costa Rica!
