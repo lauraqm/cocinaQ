@@ -42,7 +42,15 @@ const RecipesByCategory = ({ pageContext, data, location }) => {
       </div>
     );
   }
-  const title = pageContext.category.replaceAll('/', '');
+  debugger
+  let title;
+  if (pageContext.category) {
+    title = pageContext.category.replaceAll('/', '');
+  }
+  else {
+    title = siteTitle;
+  }
+
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Recetas costarricenses" />
