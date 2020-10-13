@@ -17,7 +17,7 @@ Esta receta se puede servir con tortillas en forma de gallitos! Y rinde para apr
 - 3 plátanos verdes
 - 2 ajos
 - Achiote
-- Carne mechada previamente cocinada y su caldo  [seguir esta receta hasta el paso #6](/Platos fuertes/Carne mechada en salsa de tomate)
+- Carne mechada previamente cocinada y su caldo  ([seguir esta receta hasta el paso #6](/Platos fuertes/Carne mechada en salsa de tomate))
 - 100 ml de crema dulce
 - 1 cucharadita de mantequilla
 - Sal y pimienta
