@@ -35,5 +35,5 @@ No hay quien se resista a un puré de papa hecho con papas reales, una de mis fo
 9. Cuando ya la mantequilla esta bien derretida y la leche o crema dulce se esta empezando a calentar (no hervir aún), se le agrega sal, ajo en polvo, consomé o sazón.
 10. Antes de que hierva se agrega la papa majada y se mezcla bien, si queda muy seco se puede agregar el resto de leche (todo depende que tanta agua hayan absorbido las papas y de la variedad de las mismas)
 11. Mezclar bien hasta que se integre todo.
-12. Si es necesario agregar más leche se hace y si mas bien está muy aguado, se deja secar mas en el fuego.
+12. Si es necesario agregar más leche se hace y si más bien está muy aguado, se deja secar más en el fuego.
 13. Listo!

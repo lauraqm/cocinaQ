@@ -46,7 +46,7 @@ El infaltable de las fiestas de cumpleaños, arroz arreglado con pollo y vegetal
 16. Probar como está de sal y si le falta agregar.
 17. Agregar el arroz que este bien suelto.
 18. Mezclar bien hasta que quede como arroz con pollo. 
-19. Una vez que esta seco se pican los cebollinos. Tip: pueden cortarse con una tijera y es mas facil que con el cuchillo para hacer las rodajitas.
+19. Una vez que esta seco se pican los cebollinos. Tip: pueden cortarse con una tijera y es más facil que con el cuchillo para hacer las rodajitas.
 20. Agregar un poquito de HOJITAS sin tallo, de culantro bien finitas para que se vea con cositas verdes.
 21. Revolver bien.
 22. Retirar del fuego.

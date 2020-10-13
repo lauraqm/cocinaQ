@@ -36,7 +36,7 @@ Sopa Azteca al mejor estilo costarricense, con algunas adaptaciones de la origin
 7. Reservar esta salsa de tomate natural.
 8. Picar bien los olores.
 9. Sofreír los olores en una olla a fuego medio, luego echar el pollo, y agregar la salsa de tomate natural (lo de la licuadora).
-10. Agregar mas caldo de pollo de manera que quede suficiente liquido en nuestra sopa como para la cantidad de porciones de sopa que necesitamos.
+10. Agregar más caldo de pollo de manera que quede suficiente liquido en nuestra sopa como para la cantidad de porciones de sopa que necesitamos.
 11. Agregar salsa de tomate natural (licuadora) inicialmente se ve color rosado, hay que cocinar hasta que sea completamente roja/naranja
 12. Agregar salsa de tomate Naturas o Prego, agregar un poquito de salsa chunky y revolver.
 13. Esperar a que hierva y dejarlo por unos 5 minutos hierviendo.

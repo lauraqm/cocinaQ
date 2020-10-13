@@ -30,7 +30,7 @@ Tacos mexicanos de pescado como se preparan en la costa de México donde aprovec
 ### Aioli de chipotle:
 
 1. Mezclar mayonesa, sal, pimienta, ajo en polvo, un poquito de limón y salsa chipotle al gusto.
-2. Poner en una botella para dispensar salsa o en una bolsita con un hueco para que sea mas fácil de poner encima de los tacos.
+2. Poner en una botella para dispensar salsa o en una bolsita con un hueco para que sea más fácil de poner encima de los tacos.
 
 
 ### Demás ingredientes:

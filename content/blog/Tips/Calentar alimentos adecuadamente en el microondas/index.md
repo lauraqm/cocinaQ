@@ -22,14 +22,14 @@ Las tapas de microondas se ven como ésta y tienen huequitos para que salga el v
   </img>
 </div>
 
-Esta tapa es super funcional ya que ayuda a mantener los alimentos hidratados y previene también que el microondas se salpique cuando calentamos cosas con caldo como sopas o frijoles (y es mas facil lavar la tapa que limpiar el micro). Hay en plástico o incluso unas colapsables en silicon y se consiguen en cualquier tienda (hasta las de los chinos).
+Esta tapa es super funcional ya que ayuda a mantener los alimentos hidratados y previene también que el microondas se salpique cuando calentamos cosas con caldo como sopas o frijoles (y es más facil lavar la tapa que limpiar el micro). Hay en plástico o incluso unas colapsables en silicon y se consiguen en cualquier tienda (hasta las de los chinos).
 
 Los pasos son sencillos y los recomiendo para calentar todo tipo de comidas:
 
 - Paso #1: Poner la comida en un plato de vidrio resistente a microondas.
 - Paso #2: Tapar el plato con la tapa para microondas.
 - Paso #3: Poner 1 o 2 centímentros de agua en el vasito y colocarlo en la parte del micro que no gira, es decir fuera del platón
-- Paso #4: Calentar la comida siempre cuidando no ponerle mas tiempo del necesario.
+- Paso #4: Calentar la comida siempre cuidando no ponerle más tiempo del necesario.
 
  <div class='image-container-tips'> 
   <img src = "https://res.cloudinary.com/dwb6ecajn/image/upload/c_scale,w_707/v1598225095/cocinaQ/Calentar%20alimentos%20adecuadamente%20en%20el%20microondas/20200823_152611-01_mzuxyn.jpg">

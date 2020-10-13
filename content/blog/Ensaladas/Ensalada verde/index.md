@@ -8,7 +8,7 @@ servings: "4"
 cooktime: "15"
 utensils: "shredder"
 ---
-Ensalada verde tradicional, la más saludable de todas, la más comun de todas, pero también una de las mas deliciosas para mi gusto!
+Ensalada verde tradicional, la más saludable de todas, la más comun de todas, pero también una de las más deliciosas para mi gusto!
 
 ### Ingredientes:
 

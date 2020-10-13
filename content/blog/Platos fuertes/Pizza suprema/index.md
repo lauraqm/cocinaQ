@@ -53,7 +53,7 @@ Pizza suprema casera, nada que envidiarle a la que solemos comprar! Un gusto con
 13. Una vez que la pasta ha crecido bastante, espolvorear harina en la mesa y se debe empezar a amasar y dejar tan delgada como uno prefiera con ayuda de un bolillo o una botella.
 14. Luego con ayuda del molde para pizza, cortamos la pasta. Si lleva borde de queso hay que dejar al menos 4 cm de sobra en el borde. Mientras que si no lleva borde de queso con 1 cm basta.
 15. Luego se gira el molde con todo y la pasta y acomodamos la pasta en el molde.
-16. Si se desea borde de queso se ponen las barritas de queso en el borde del molde y se envuelven con los 4 cm de pasta restantes. Si es sin borde solo se arrolla un poco de pasta en el borde para que quede mas grueso.
+16. Si se desea borde de queso se ponen las barritas de queso en el borde del molde y se envuelven con los 4 cm de pasta restantes. Si es sin borde solo se arrolla un poco de pasta en el borde para que quede más grueso.
 17. Agregar salsa Prego con la ayuda del fondo de un cucharón.
 18. Agregar queso rallado.
 19. Agregar el salami o pepperoni

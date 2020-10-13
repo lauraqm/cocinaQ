@@ -8,7 +8,7 @@ servings: "4"
 cooktime: "18"
 utensils: "pan,shredder"
 ---
-Un arroz con vegetales, bastante saludable y lleno de colores para acompañar cualquier tipo de carne, o incluso para comer solo si deseamos algo mas vegetariano
+Un arroz con vegetales, bastante saludable y lleno de colores para acompañar cualquier tipo de carne, o incluso para comer solo si deseamos algo más vegetariano
 
 ### Ingredientes:
 

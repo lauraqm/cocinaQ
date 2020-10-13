@@ -33,7 +33,7 @@ Una forma bastante rapida de preparar algo diferente y muy saludable! Una receta
 9. Agregamos la hoja de lechuga.
 10. Encima ponemos las rodajas de tomate.
 11. Agregar tajaditas de aguacate
-12. Si nos gusta la cebolla, podríamos agregar unas rodajas de cebolla normal o morada para que se vea mas colorido.
+12. Si nos gusta la cebolla, podríamos agregar unas rodajas de cebolla normal o morada para que se vea más colorido.
 13. Ponemos un chorrito de mayonesa.
 14. Cerramos como si fuera un gallito y ponemos en el centro un palillo de dientes para que se sostenga.
 15. Listo!

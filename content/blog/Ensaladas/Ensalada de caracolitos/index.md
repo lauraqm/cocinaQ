@@ -30,5 +30,5 @@ Un clásico de la cocina de los ticos, todos amamos la pasta y el atún! Y esta 
 6. En un tazón aparte, ponemos el atún bien escurrido con los olores picados, la mayonesa y el limón. Revolvemos bien estos.
 7. Luego agregamos la pasta y volvemos a revolver.
 8. Probar como está de sal y de sabor.
-9. Si es necesario agregar mas limón, mayonesa y sal al gusto.
+9. Si es necesario agregar más limón, mayonesa y sal al gusto.
 10. Listo.

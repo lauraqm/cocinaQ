@@ -9,7 +9,7 @@ cooktime: "95"
 utensils: "oven,pressionPot,blender"
 ---
 
-Las carnitas de cerdo son un platillo típico de México, es muy muy muy sabroso pero en su receta original se debe freír y usar mucha manteca de cerdo, pero en esta receta lo vamos a hacer con ayuda de una olla de presión o cocimiento lento y del horno para hacerlo mas saludable. Las carnitas ideales son básicamente carne de cerdo con un sabor salado pero con matices dulzones y con algunas partes tostaditas pero siempre manteniéndose como una carne bien jugosa y por supuesto con un sabor a cerdo increíble.
+Las carnitas de cerdo son un platillo típico de México, es muy muy muy sabroso pero en su receta original se debe freír y usar mucha manteca de cerdo, pero en esta receta lo vamos a hacer con ayuda de una olla de presión o cocimiento lento y del horno para hacerlo más saludable. Las carnitas ideales son básicamente carne de cerdo con un sabor salado pero con matices dulzones y con algunas partes tostaditas pero siempre manteniéndose como una carne bien jugosa y por supuesto con un sabor a cerdo increíble.
 
 Incluso este tipo de carne se puede usar no solo para tacos, sino en diferentes cosas: en burritos, en chalupas, o en un bowl con arroz y frijoles pintos o bayos acompañado de guacamole y pico de gallo.
 
@@ -56,7 +56,7 @@ Esta receta rinde para 6 tacos pequeñitos, es decir como 2 porciones (3 tacos p
 2. Luego agregar una cucharada grande de mayonesa.
 3. Opcionalmente agregar salsa de guacamole picante
 4. Si se desea una consistencia más cremosa se puede agregar un chorro de aceite de oliva.
-5. Poner en una bolsita o botella de aderezo para que sea mas fácil de poner sobre el taco.
+5. Poner en una bolsita o botella de aderezo para que sea más fácil de poner sobre el taco.
 
 ### Carnitas
 
@@ -72,8 +72,8 @@ Esta receta rinde para 6 tacos pequeñitos, es decir como 2 porciones (3 tacos p
 10. Humedecemos un poco la carne con poquitos de caldo de la olla.
 11. Luego ponemos el horno en la función de dorar y lo dejamos ahí por unos 10 o 5 minutos para que se empiecen a tostar algunas partes de la carne.
 12. Luego con ayuda de una pinza le damos vuelta para que se doren por el otro lado.
-13. Cuidar siempre que se mantenga hidratada la carne, si fuera necesario se puede agregar mas caldo cuando le damos vuelta la primera vez.
-14. Los pellejos o la panzada habrá empezado a tostarse como chicharrón pero tal vez necesite un poco mas de horno que el resto de carne mechada.
+13. Cuidar siempre que se mantenga hidratada la carne, si fuera necesario se puede agregar más caldo cuando le damos vuelta la primera vez.
+14. Los pellejos o la panzada habrá empezado a tostarse como chicharrón pero tal vez necesite un poco más de horno que el resto de carne mechada.
 15. El horno incluso ayudará a sacar más grasa de las carnitas.
 16. Cuando la carne este lista la sacamos y la ponemos en una taza con tapa para que se mantenga caliente.
 17. Esperamos a que el pellejo también se termine de cocinar y lo podemos picar en trocitos pequeñitos y revolvemos con el resto de carnitas.

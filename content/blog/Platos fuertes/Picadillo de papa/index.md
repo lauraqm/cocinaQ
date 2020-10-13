@@ -36,7 +36,7 @@ Todos sabemos que los picadillos son muy tradicionales en Costa Rica, sin embarg
 11. Probar como está de sal y si le falta, terminar con un poco de sal.
 12. Cocinar a fuego medio hasta que la papa esté suave.
 13. Si se seca mucho y aun no esta suave puede ir agregando poquitos de agua.
-14. Dejar secar al gusto (a unos les gusta mas aguado que a otros)
+14. Dejar secar al gusto (a unos les gusta más aguado que a otros)
 15. Servir!
 
 **Nota**: Se puede acompañar de arroz blanco, frijoles y alguna de las siguientes ensaladas:

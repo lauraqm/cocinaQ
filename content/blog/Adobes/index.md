@@ -160,7 +160,7 @@ Notas:
 
 - Se puede agregar comdimento de Magui que se llama "Caldo de cola de res" y le da un sabor increíble
 
-- Si es para cocinar en olla de presión o en agua, a la hora de cocinar siempre se debe agregar mas sal y sazón completo porque sino pierde la sal al tener tanta agua.
+- Si es para cocinar en olla de presión o en agua, a la hora de cocinar siempre se debe agregar más sal y sazón completo porque sino pierde la sal al tener tanta agua.
 
 ## Tortas de carne 🥩 {#tortas-carne}
 
@@ -223,7 +223,7 @@ Nota: se debe aplanar y suavizar con un mazo
 - Salsa Lizano
 - Sazón completo
 
-Nota: si de primero se cocinan en olla de presión, al llevar tanta agua se debe agregar sal, sazón y un poco mas de BQQ a la hora de cocinar
+Nota: si de primero se cocinan en olla de presión, al llevar tanta agua se debe agregar sal, sazón y un poco más de BQQ a la hora de cocinar
 
 ## Costilla de cerdo o posta para frijoles 🐷 {#posta-frijoles}
 
@@ -256,7 +256,7 @@ Ideal para usar en lentejas, garbanzos, frijoles blancos, o frijoles tiernos.
 - Un poquito de mostaza liquida.
 - Tomillo
 
-Esto se debe cocinar en una olla de cocimiento lento o olla de presión con agua, entonces se debe tener en cuenta que se debe agregar mas sal al agua y se pueden agregar mas olores al gusto, para que el agua no lave la sal de la carne.  
+Esto se debe cocinar en una olla de cocimiento lento o olla de presión con agua, entonces se debe tener en cuenta que se debe agregar más sal al agua y se pueden agregar más olores al gusto, para que el agua no lave la sal de la carne.  
 
 ## Carnitas de cerdo 🐷 {#carnitas}
 

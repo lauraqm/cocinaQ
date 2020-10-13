@@ -31,7 +31,7 @@ utensils: "pressionPot,pot,oven,pyrex"
     - Agregar la carne y cocinar.
     - Una vez que la carne esté bien cocinada, agregamos la salsa de tomate de manera que no quede demasiado liquida, pero que se empape bien la carne con salsa.
 
-3. En un pyrex se debe poner un poco mas de  salsa de tomate en el fondo para que la pasta no se pegue.
+3. En un pyrex se debe poner un poco más de  salsa de tomate en el fondo para que la pasta no se pegue.
 4. Rellenar los caracoles con la carne molida.
 5. Poner los caracoles rellenos en el pyrex.
 6. En una taza aparte mezclar la media caja de queso crema, la natilla, el queso parmesano, un poquito de ajo en polvo, cebolla en polvo y perejil. Se debe dejar espesito y poner en una bolsa de plastico para que haya mayor precisión a la hora de poner sobre los caracoles. Luego hacer un huequito en la punta de la bolsa.

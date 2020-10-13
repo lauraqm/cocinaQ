@@ -32,8 +32,8 @@ Conocido popularmente como Lomo Fingido o Lomo Falso, es una receta que requiere
 3. Agregar 1/4 de taza de pan molido
 4. Agregar 1 huevo.
 5. Agregar un chorrito de leche (poquito)
-6. Mezclar bien todo hasta tener una mezcla homogenea, de consistencia un poco seca (mas seca que para tortas). En caso de ser necesario agregar un poquito mas de pan y queso parmesano.
-7. Luego poner en un papel aluminio y aplastar un poco, luego poner otro papel aluminio encima, y con la ayuda de un bolillo o botella redonda,  empezar a estirar hasta que quede bien delgado (un poquito mas grueso que una tortilla palmeada).
+6. Mezclar bien todo hasta tener una mezcla homogenea, de consistencia un poco seca (más seca que para tortas). En caso de ser necesario agregar un poquito más de pan y queso parmesano.
+7. Luego poner en un papel aluminio y aplastar un poco, luego poner otro papel aluminio encima, y con la ayuda de un bolillo o botella redonda,  empezar a estirar hasta que quede bien delgado (un poquito más grueso que una tortilla palmeada).
 8. Darle forma rectangular, cortando con un chuchillito  los sobrantes.
 9. Al final debe quedar un rectángulo, agregar queso en tajadas, luego el jamón,  y si se desea agregar un poco de queso pizzero agregar también.
 10. Hay que dejarle los bordes libres, al menos unos 6-7 cm a cada lado (izq y derecha)
@@ -41,9 +41,9 @@ Conocido popularmente como Lomo Fingido o Lomo Falso, es una receta que requiere
 12. Cuando terminemos de cerrar el arrollado, ponemos en el centro del papel aluminio DEJANDO PARA ABAJO el cierre del arrollado.
 13. Cerrar los costados, aplastándolos y dandole forma, para que no se salga el relleno
 14. Luego si se desea se puede cubrir con tajadas de tocineta.
-15. Precalentar el horno en 350º y poner la rejilla lo mas abajo posible (para que quede lo mas cerca de la resistencia del horno o bien la parte que se calienta abajo)
+15. Precalentar el horno en 350º y poner la rejilla lo más abajo posible (para que quede lo más cerca de la resistencia del horno o bien la parte que se calienta abajo)
 16. Luego se debe envolver el arrollado en papel aluminio dejando la abertura en la parte de arriba, poner sobre una bandeja o pyrex para horno.
-17. Luego se debe poner en la rejilla que pusimos lo mas abajo posible en el horno.
+17. Luego se debe poner en la rejilla que pusimos lo más abajo posible en el horno.
 18. Cocinar por 40 minutos.
 19. Luego cambiar el horno a la función de dorar (donde calienta por encima).
 20. Cocinar 15 minutos más por encima.

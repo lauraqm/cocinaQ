@@ -8,7 +8,7 @@ servings: "6"
 cooktime: "60"
 utensils: "pressionPot,pan"
 ---
-Este tipo de carne mechada de cerdo a la BBQ o como se conoce en otros paises como "Pulled Pork" es ideal para hacer sandwiches, **tacos (como la foto)**, bowls o como carne principal en algun platillo. Es una alternativa para las costillas BBQ, ya que a muchas personas no les gustan porque son mas dificiles de comer porque tiene hueso, entonces esta carne es similar, muy sabrosa y sin hueso.
+Este tipo de carne mechada de cerdo a la BBQ o como se conoce en otros paises como "Pulled Pork" es ideal para hacer sandwiches, **tacos (como la foto)**, bowls o como carne principal en algun platillo. Es una alternativa para las costillas BBQ, ya que a muchas personas no les gustan porque son más dificiles de comer porque tiene hueso, entonces esta carne es similar, muy sabrosa y sin hueso.
 
 ## Ingredientes
 

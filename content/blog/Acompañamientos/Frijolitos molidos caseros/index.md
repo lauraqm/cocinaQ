@@ -33,6 +33,6 @@ Frijolitos molidos caseros como los de las abuelas, sirven para acompañar cualq
 10. Cocinar unos 10 min después de que empezaron a hervir.
 11. Si aun están muy liquidos agarrar un poquito de agua a temperatura ambiente (unas 2 onzas o 50 ml) y disolverle una cucharadita de maicena.
 12. Agregar esto a los frijoles y continuar cocinando un poco más hasta que se espesen.
-13. Si no se tiene maicena se puede dejar secar mas tiempo, unos 5 o 10 min más. Siempre revolviendo para que no se peguen
+13. Si no se tiene maicena se puede dejar secar más tiempo, unos 5 o 10 min más. Siempre revolviendo para que no se peguen
 14. Retirar el fuego. 
 15. Nota importante: conforme se enfrían se van a espesar un poco.

@@ -25,7 +25,7 @@ Tortitas de carne tradicionales de la cocina costarricense que se pueden variar 
 3. Ir agregando masa hasta que este menos pegajoso y se puedan formar las tortitas.
 4. Formar bolitas y luego las tortitas. 
 5. En un sartén con poco aceite ponemos a freír las tortitas a fuego medio. 
-6. Se pueden cocinar tapadas al inicio para que queden mas jugositas.
+6. Se pueden cocinar tapadas al inicio para que queden más jugositas.
 7. Esperar a que estén bien doradas por ambos lados.
 8. Listo.
 

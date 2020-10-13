@@ -22,7 +22,7 @@ Deliciosas albóndigas en salsa de tomate para disfrutar de la carne molida en u
 
 ### Indicaciones
 
-Las albóndigas son prácticamente la misma preparación de las tortas de carne, la diferencia es que llevan queso parmesano en polvo también para amarrar mas, es decir que queden mas compactas y no se desarmen cuando se cocinen.
+Las albóndigas son prácticamente la misma preparación de las tortas de carne, la diferencia es que llevan queso parmesano en polvo también para amarrar más, es decir que queden más compactas y no se desarmen cuando se cocinen.
 
 1. Mezclar la carne, con la mitad los olores picados.
 2. Agregar el queso parmesano.
@@ -35,7 +35,7 @@ Las albóndigas son prácticamente la misma preparación de las tortas de carne,
 9. Se espera a que el agua este empezando a hervir y se agregan las bolitas, de manera que queden un poco distanciadas las unas de las otras.
 10. Tapar y cocinar a fuego medio - bajo.
 11. Cada cierto tiempo ir dándoles vuelta con mucho cuidado (para que no se desarmen) para que se cocinen por todos los lados.
-12. Si el agua se secara mucho se agrega mas agua.
+12. Si el agua se secara mucho se agrega más agua.
 13. Una vez que se ven cocinadas (sin ninguna parte roja) y uno calcula que ya han estado cocinándose por todos los costados, se puede empezar a agregar la salsa de tomate.
 14. Se van bañando poco a poco con una cuchara las albondigas o se les puede ir dando vuelta para que se embarren de salsa.
 15. Esperar a que la salsa espese un poquito y listo!

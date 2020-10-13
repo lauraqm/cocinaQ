@@ -10,7 +10,7 @@ servings: "4"
 cooktime: "70"
 utensils: "pan,pressionPot,pot"
 ---
-Un burrito cargado de sabor, originalmente los burritos mexicanos llevan arroz y frijoles enteros, pero en Costa Rica los hemos tropicalizado agreándoles frijoles molidos y quitando el arroz. Ésta receta también podría hacerse mas simple con carne molida arreglada y sofrita con olores. Se acompaña de pico de gallo servido sobre una cama de lechuga picada bien finita.
+Un burrito cargado de sabor, originalmente los burritos mexicanos llevan arroz y frijoles enteros, pero en Costa Rica los hemos tropicalizado agreándoles frijoles molidos y quitando el arroz. Ésta receta también podría hacerse más simple con carne molida arreglada y sofrita con olores. Se acompaña de pico de gallo servido sobre una cama de lechuga picada bien finita.
 
 ### Ingredientes
 
@@ -36,8 +36,8 @@ Un burrito cargado de sabor, originalmente los burritos mexicanos llevan arroz y
 5. Si se cocina en olla de presión se debe cocinar por al menos 40 minutos después de que empieza a sonar la válvula. Si se cocina en olla de cocimiento lento se debe cocinar por 8-9 horas.
 6. Una vez que esta lista la carne, tomamos los trozos y los ponemos uno a uno en un plato y con ayuda de 2 tenedores la desmechamos, con un tenedor sostenemos y con otro deshebramos la carne.
 7. En un sartén o olla sofreímos los olores.
-8. Agregamos la carne desmechada y media taza de caldo del que quedó en la olla donde se cocinó la carne. Se debe hidratar bien la carne, en caso de ser necesario agregar mas caldo.
-9. Probar si el caldo esta bien de sal o si necesita un poquito mas.
+8. Agregamos la carne desmechada y media taza de caldo del que quedó en la olla donde se cocinó la carne. Se debe hidratar bien la carne, en caso de ser necesario agregar más caldo.
+9. Probar si el caldo esta bien de sal o si necesita un poquito más.
 10. Esperar a que hierva el caldo y se seque suficiente como para que NO se haga un pozo de caldo dentro de nuestro burrito.
 11. Retiramos del fuego y esperamos a que se enfríe un poco.
 12. Tomamos la tortilla y le embarramos los frjoles molidos en un canalito en el centro.
@@ -45,7 +45,7 @@ Un burrito cargado de sabor, originalmente los burritos mexicanos llevan arroz y
 14. Agregamos carne mechada bien escurrida.
 15. Con ayuda de los palillos de dientes cerramos el burrito (ver imagenes )
 16. En un sarten anti-adherente ponemos un poquito de aceite en spray o bien podemos poner aceite regular y luego secarlo y untarlo por todo el sarten con ayuda de una servilleta.
-17. Dorar por todos los lados el burrito, a fuego bajo. De preferencia tapar el sartén para que guarde mas calor y se derrita bien el queso adentro del burrito.
+17. Dorar por todos los lados el burrito, a fuego bajo. De preferencia tapar el sartén para que guarde más calor y se derrita bien el queso adentro del burrito.
 18. Una vez que este listo servimos poniendole el aguacate o guacamole encima y un chorrito finito de natilla.
 19. Servir y listo.
 

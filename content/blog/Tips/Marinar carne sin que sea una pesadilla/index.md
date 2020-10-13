@@ -40,7 +40,7 @@ Aquí les dejo una guía de cuanto pueden permanecer las carnes crudas dentro de
 - Pescados grasos (salmon, atun): 2 meses
 - Moluscos: 3 meses
 
-**TIP:** Tratar de que los paquetitos de carne queden lo mas planos posibles, es decir, que quede bien dispersa en todo la bolsa, de esta manera costará menos descongelarla que si esta "apelotada" en un solo lugar. Incluso las carnes molidas se pueden aplastar con ayuda de una botella para que quede bien delgado el paquete.
+**TIP:** Tratar de que los paquetitos de carne queden lo más planos posibles, es decir, que quede bien dispersa en todo la bolsa, de esta manera costará menos descongelarla que si esta "apelotada" en un solo lugar. Incluso las carnes molidas se pueden aplastar con ayuda de una botella para que quede bien delgado el paquete.
 
 ### Mito #3: Es demasiado trabajo para hacerlo seguido
 
@@ -52,7 +52,7 @@ El marinar carnes si puede ser un poco laborioso, y cansado, sin embargo si plan
 
 La carne puede descongelarse en agua fría, pero nunca caliente, ya que esto puede hacer que las bolsas suelten algún tipo de químico nocivo.
 
-Entonces lo ideal es descongelar la carne, en un envase sumergiendo la bolsa lleno de agua a temperatura ambiente o fría, puede estar cambiando el agua cada 30 minutos para que el proceso sea mas rápido.
+Entonces lo ideal es descongelar la carne, en un envase sumergiendo la bolsa lleno de agua a temperatura ambiente o fría, puede estar cambiando el agua cada 30 minutos para que el proceso sea más rápido.
 
 ### Forma #2
 

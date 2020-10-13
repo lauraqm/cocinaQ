@@ -8,7 +8,7 @@ servings: "4"
 cooktime: "90"
 utensils: "pressionPot"
 ---
-Excelente opción para todos aquellos que amamos la olla de carne pero a veces no tenemos suficiente tiempo de pelar todas las verduras y esperar a que todas se cocinen a la perfección, esto sabe similar pero solo con papa y zanahoriaya que son las mas fáciles de cocinar.
+Excelente opción para todos aquellos que amamos la olla de carne pero a veces no tenemos suficiente tiempo de pelar todas las verduras y esperar a que todas se cocinen a la perfección, esto sabe similar pero solo con papa y zanahoriaya que son las más fáciles de cocinar.
 
 ## Ingredientes:
 
@@ -32,8 +32,8 @@ Excelente opción para todos aquellos que amamos la olla de carne pero a veces n
 7. Pelar y cortar en rodajas la zanahoria.
 8. Una vez cocinada la carne, se pican y se sofríen los olores.
 9. Luego se pone unas 2 tazas de caldo de la carne y se agrega la papa. Usar fuego alto. La idea es que se cocine la papa en la esencia de la carne y que la papa tome un mejor sabor. 
-10. Si es necesario se puede ir agregando mas caldo de manera que al final no quede una sopa pero tampoco quede seco.
-11. Probar si tiene suficiente sal, sino agregar mas sal, sazón completo e incluso un poquito de cola de res.
+10. Si es necesario se puede ir agregando más caldo de manera que al final no quede una sopa pero tampoco quede seco.
+11. Probar si tiene suficiente sal, sino agregar más sal, sazón completo e incluso un poquito de cola de res.
 12. Agregar achiote.
 13. Cocinar las papas hasta que estén un poco suaves.
 14. Agregar la carne en trozos (sin desmechar)

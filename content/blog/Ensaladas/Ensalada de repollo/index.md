@@ -1,6 +1,6 @@
 ---
 title: Ensalada de repollo
-description: Ensalada de las abuelas costarricenses, creo que es la ensalada mas vieja que recuerdo entre mis primeros recuerdos de ensalada
+description: Ensalada de las abuelas costarricenses, creo que es la ensalada más vieja que recuerdo entre mis primeros recuerdos de ensalada
 categories: Ensaladas
 tags: Costa Rica, ensalada, repollo, tradicional, costarricense
 date: "2020-08-17T22:12:03.284Z"

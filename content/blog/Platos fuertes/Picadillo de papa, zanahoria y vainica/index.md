@@ -41,7 +41,7 @@ La única forma en que mi mamá lograba que comiéramos vainicas cuando éramos 
 15. Una vez que ya se esta ensuavizando la papa, agregamos la zanahoria y la vainica. Esto es porque la zanahoria y la vainica necesitan menos cocción que la papa, si la ponemos cuando ponemos la papa se van a  recocinar.
 16. Si se seca mucho y aun no esta suave puede ir agregando poquitos de agua.
 17. Esperar a que la papa esté completamente suave.
-18. Dejar secar al gusto (a unos les gusta mas aguado que a otros)
+18. Dejar secar al gusto (a unos les gusta más aguado que a otros)
 19. Servir!
 
 **Nota**: Se puede acompañar de arroz blanco, frijoles y alguna de las siguientes ensaladas:
