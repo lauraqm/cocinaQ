@@ -41,15 +41,10 @@ const RecipesByCategory = ({ pageContext, data, location }) => {
         {nodes}
       </div>
     );
-  }
+  } 
   debugger
   let title;
-  if (pageContext.category) {
-    title = pageContext.category.replaceAll('/', '');
-  }
-  else {
-    title = siteTitle;
-  }
+  title = pageContext.category;
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -89,7 +84,7 @@ RecipesByCategory.propTypes = {
 export default RecipesByCategory;
 
 export const pageQuery = graphql`
-  query($category: String) {
+  query($category_regex: String) {
     site {
       siteMetadata {
         title
@@ -98,7 +93,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       limit: 2000
       sort: { fields: [frontmatter___title], order: ASC }
-      filter: { frontmatter: { categories: {  regex: $category } } }
+      filter: { frontmatter: { categories: {  regex: $category_regex } } }
     ) {
       totalCount
       edges {

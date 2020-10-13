@@ -53,16 +53,17 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     });
   });
 
-  // Extract tag data from query
-  //let categories = result.data.categoryGroup.group;
+  // Create categories
   let categories = dedupeCategories(result.data.postsRemark);
   // Make tag pages
+
   categories.forEach((cat) => {
     createPage({
       path: `/categories/${_.kebabCase(cat)}/`,
       component: categoryTemplate,
       context: {
-        category: `/${cat}/`,
+        category_regex: `/${cat}/`,
+        category: cat
       },
     });
   });
