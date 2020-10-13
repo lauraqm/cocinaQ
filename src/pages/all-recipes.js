@@ -62,6 +62,9 @@ const AllRecipes = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Recetas costarricenses" />
       <Helmet title="Todas las recetas" defer={false} />
+      <div>
+        <p>Encuentra aquí todas nuestras recetas, puedes buscar por título o por ingrediente</p>
+      </div>
       <SearchBar onInputChange={handleInputChange} onIngredientToggleChange={ingredientHandler}></SearchBar>
       {state.filteredData.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug;

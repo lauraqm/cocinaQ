@@ -30,10 +30,10 @@ Un burrito cargado de sabor, originalmente los burritos mexicanos llevan arroz y
 ### Indicaciones
 
 1. Cocinar la carne en olla de presión o de cocimiento lento.
-2. Al cocinar la carne en una cantidad de agua considerable; la carne va a diluir los condimentos y va a quedar sin sal cuando termine de cocinarse y no va a saber a nada. Entonces vamos a tomar la olla y le vamos a poner agua y luego, debemos agregar un poco de Polvo de cola de res, sazón, sal, los ajos y las especies de su preferencia; de manera que el caldito quede un poquito salado.
+2. Al cocinar la carne en una cantidad de agua considerable, el agua va a diluir los condimentos y va a quedar sin sal cuando termine de cocinarse y no va a saber a nada. Entonces vamos a tomar la olla y le vamos a poner agua y luego, debemos agregar un poco de Polvo de cola de res, sazón, sal, los ajos y las especies de su preferencia; de manera que el caldito quede un poquito salado.
 3. Agregar la carne de manera que haya suficiente agua que apenas la cubra, puede estar congelada.
 4. Poner a cocinar.
-5. Si se cocina en olla de presión debe cocinarse por 45 minutos después de que empieza a sonar la válvula. Si se cocina en olla de cocimiento lento se debe cocinar por 8-9 horas.
+5. Si se cocina en olla de presión se debe cocinar por al menos 40 minutos después de que empieza a sonar la válvula. Si se cocina en olla de cocimiento lento se debe cocinar por 8-9 horas.
 6. Una vez que esta lista la carne, tomamos los trozos y los ponemos uno a uno en un plato y con ayuda de 2 tenedores la desmechamos, con un tenedor sostenemos y con otro deshebramos la carne.
 7. En un sartén o olla sofreímos los olores.
 8. Agregamos la carne desmechada y media taza de caldo del que quedó en la olla donde se cocinó la carne. Se debe hidratar bien la carne, en caso de ser necesario agregar mas caldo.

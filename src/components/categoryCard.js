@@ -50,7 +50,7 @@ class CategoryCard extends React.Component {
             }}
             bordered={false}
             hoverable
-            cover={<img src={image} />}
+            cover={ <img alt={alt} src={image} />}
           >
             <div className="title-card">{title}</div>
             <Meta description={metadata} />
@@ -91,7 +91,7 @@ const categoryData = [
     image: "https://images.unsplash.com/photo-1600125693229-2865faaf0732?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80",
     alt: "recetas-comida-tipica-costa-rica",
     metadata:
-      "Para celebrar nuestra Semana Patria le traemos una selección de platillos típicos costarricenses",
+      "Una delicada selección de platillos típicos costarricenses, las mejores recetas de nuestra gastronomía",
   },
   {
     title: "Platos Fuertes",

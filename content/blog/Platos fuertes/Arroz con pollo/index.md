@@ -32,7 +32,7 @@ El infaltable de las fiestas de cumpleaños, arroz arreglado con pollo y vegetal
 2. Agregar los ajos pelados.
 3. Agregar Sabor y Color de Magui o el consomé y la sal para que el agua tome sabor.
 4. Cocinar por al menos 20 min a fuego alto hasta que las pechugas estén completamente cocinadas y suavecitas como para desmecharlas.
-5. Una vez cocinadas se ponen una a una en un plato y con la ayuda de 2 tenerdores se empieza a desmechar.
+5. Una vez cocinadas las pechugas, se ponen una a una en un plato y con la ayuda de 2 tenerdores se empieza a desmechar tan gruesa como nos guste.
 6. Picar bien los olores.
 7. Rallar la zanahoria con un rallador mediano (que queden en tiritas finas y cortas).
 8. Sofreír los olores en una ollita o sartén, luego echar el pollo, y agregar un poquito caldo para rehidratar el pollo. 

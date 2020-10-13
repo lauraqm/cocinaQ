@@ -14,6 +14,13 @@ const Tips = ({ pageContext, data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Helmet title="Tips de cocina" defer={false} />
+      <div>
+        <p>Uno de los factores que hacen que las personas se sientan abrumadas por la cocina, es que 
+          generalmente hay pequeños trucos o tips que desconocen. Esta sección esta destinada a dar consejos
+          prácticos para ayudarnos a la hora de cocinar o incluso de seleccionar los ingredientes para 
+          crear las mejores recetas. 
+        </p>
+      </div>
       <div className="tips">
         {
         edges.map((data) => {

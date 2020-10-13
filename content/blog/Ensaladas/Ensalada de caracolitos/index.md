@@ -1,7 +1,7 @@
 ---
 title: Ensalada de caracolitos
 description: Ensalada de caracolitos costarricense, ideal para comer con arroces arreglados o incluso con arroz blanco.
-categories: Ensaladas
+categories: Ensaladas,Platos fuertes
 tags: Costa Rica, ensalada, pasta, caracolitos
 date: "2020-08-17T22:12:03.284Z"
 servings: "4"

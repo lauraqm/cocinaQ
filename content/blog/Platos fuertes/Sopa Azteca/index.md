@@ -31,7 +31,7 @@ Sopa Azteca al mejor estilo costarricense, con algunas adaptaciones de la origin
 2. Agregar los ajos pelados.
 3. Agregar Sabor y Color de Magui o el consomé y la sal para que el agua tome sabor.
 4. Cocinar por al menos 20 min a fuego alto hasta que las pechugas estén completamente cocinadas y suavecitas como para desmecharlas.
-5. Una vez cocinadas se ponen una a una en un plato y con la ayuda de 2 tenerdores se empieza a desmechar.
+5. Una vez cocinado el pollo, se ponen una a una las pechugas en un plato y con la ayuda de 2 tenerdores se empieza a desmechar.
 6. Lavar bien los tomates y ponerlos en la licuadora con suficiente caldo del pollo que acabamos de cocinar. 
 7. Reservar esta salsa de tomate natural.
 8. Picar bien los olores.

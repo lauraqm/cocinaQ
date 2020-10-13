@@ -15,7 +15,7 @@ module.exports = {
       el privilegio de degustar. Espero disfruten de este proyecto que he realizado
       con todo el amor para ustedes.`,
     },
-    description: `Blog de cocina costarricense y del mundo`,
+    description: `Recetas inspiradas en la cocina costarricense y del mundo`,
     siteUrl: `https://www.cocinaq.com/`,
     social: {
       twitter: `lauraqmpz`,

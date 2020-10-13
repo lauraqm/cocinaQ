@@ -24,10 +24,10 @@ Excelente opción para todos aquellos que amamos la olla de carne pero a veces n
 ## Indicaciones:
 
 1. Cocinar la carne en olla de presión o de cocimiento lento. 
-2. Al cocinar la carne en una cantidad de agua considerable; la carne va a diluir los condimentos y va a quedar sin sal cuando termine de cocinarse y no va a saber a nada. Entonces vamos a tomar la olla y le vamos a poner agua y luego, debemos agregar un poco de Polvo de cola de res, sazón, sal, los ajos y las especies de su preferencia; de manera que el caldito quede un poquito salado.
+2. Al cocinar la carne en una mayor cantidad de agua, el agua va a diluir los condimentos y va a quedar sin sal cuando termine de cocinarse y no va a saber a nada. Entonces vamos a tomar la olla y le vamos a poner agua y luego, debemos agregar un poco de Polvo de cola de res, sazón, sal, los ajos y las especies de su preferencia; de manera que el caldito quede un poquito salado.
 3. Agregar la carne de manera que haya suficiente agua que apenas la cubra, puede estar congelada.
 4. Poner a cocinar.
-5. Si se cocina en olla de presión debe cocinarse por 45 minutos después de que empieza a sonar la válvula. Si se cocina en olla de cocimiento lento se debe cocinar por 8-9 horas.
+5. Si vamos a cocinar en olla de presión, se debe cocinar por 45 minutos después de que empieza a sonar la válvula. Si se cocina en olla de cocimiento lento se debe cocinar por 8-9 horas.
 6. Lavar bien la papa, y cortar en cubos grandes con todo y cáscara.
 7. Pelar y cortar en rodajas la zanahoria.
 8. Una vez cocinada la carne, se pican y se sofríen los olores.

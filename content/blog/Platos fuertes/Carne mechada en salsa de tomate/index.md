@@ -24,7 +24,7 @@ Creo que a todos los que nos gusta la carne, nos fascina la carne mechada y ést
 ### Indicaciones:
 
 1. Cocinar la carne en olla de presión o de cocimiento lento. 
-2. Al cocinar la carne en una cantidad de agua considerable; la carne va a diluir los condimentos y va a quedar sin sal cuando termine de cocinarse y no va a saber a nada. Entonces vamos a tomar la olla y le vamos a poner agua y luego, debemos agregar un poco de Polvo de cola de res, sazón, sal, los ajos y las especies de su preferencia; de manera que el caldito quede un poquito salado.
+2. Cuando cocinamos la carne en una cantidad considerable de agua, el agua va a diluir los condimentos y va a quedar sin sal cuando termine de cocinarse y no va a saber a nada. Entonces vamos a tomar la olla y le vamos a poner agua y luego, debemos agregar un poco de Polvo de cola de res, sazón, sal, los ajos y las especies de su preferencia; de manera que el caldito quede un poquito salado.
 3. Agregar la carne de manera que haya suficiente agua que apenas la cubra, puede estar congelada.
 4. Poner a cocinar.
 5. Si se cocina en olla de presión debe cocinarse por 45 minutos después de que empieza a sonar la válvula. Si se cocina en olla de cocimiento lento se debe cocinar por 6-8 horas.

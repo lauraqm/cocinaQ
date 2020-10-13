@@ -1,7 +1,7 @@
 ---
 title: Guacamole
 description: Guacamole estilo costarricense
-categories: Acompañamientos,Dips
+categories: Acompañamientos
 tags: Costa Rica, costarricense, acompañamientos, guarniciones, guacamole, aguacate
 date: "2020-08-17T22:12:03.284Z"
 servings: "6"
@@ -9,7 +9,7 @@ cooktime: "10"
 ---
 El guacamole es originalmente proviniente de México, pero en Costa Rica lo hemos adoptado como un infaltable para picar en fiestas, pero se le han hecho algunas variaciones, aquí dejo la receta más común de como los ticos preparamos el Gucamole.
 
-### Ingredientes:
+### Ingredientes
 
 - 1 cucharada de Mayonesa
 - 4 Aguacates maduros
@@ -19,7 +19,7 @@ El guacamole es originalmente proviniente de México, pero en Costa Rica lo hemo
 - Sazon completo al gusto
 - Ajo en polvo al gusto
 
-### Indicaciones:
+### Indicaciones
 
 1. Partir los aguacates, sacarles la semilla y con ayuda de una cuchara sacar el aguacate.
 2. Retirar las partes negras si es que hay y descartarlas.

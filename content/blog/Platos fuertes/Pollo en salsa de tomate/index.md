@@ -26,7 +26,7 @@ Este delicioso pollo desmechado en salsa de tomate, se puede utilizar como carne
 2. Agregar los ajos pelados.
 3. Agregar Sabor y Color de Magui o el consomé y la sal para que el agua tome sabor.
 4. Cocinar por al menos 20 min a fuego alto hasta que las pechugas estén completamente cocinadas y suavecitas como para desmecharlas.
-5. Una vez cocinadas se ponen una a una en un plato y con la ayuda de 2 tenerdores se empieza a desmechar.
+5. Una vez cocinado el pollo, se pone en un plato y con la ayuda de 2 tenerdores se empieza a desmechar bien.
 6. Picar bien los olores.
 7. Sofreir los olores en una ollita o sartén, luego echar el pollo, y agregar caldo para rehidratar el pollo.
 8. Esperar a que hierva.

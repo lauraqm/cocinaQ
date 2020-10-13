@@ -42,11 +42,11 @@ const RecipesByCategory = ({ pageContext, data, location }) => {
       </div>
     );
   }
-
+  const title = pageContext.category.replaceAll('/', '');
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Recetas costarricenses" />
-      <Helmet title="Todas las recetas" defer={false} />
+      <Helmet title={title} defer={false} />
       <div className='recipe-index'>
         {result}
       </div>
