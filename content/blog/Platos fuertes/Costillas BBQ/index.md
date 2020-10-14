@@ -47,8 +47,8 @@ Una de las formas más irresistibles de preparar carne de cerdo! Esta receta con
 
 [Ensalada verde](/Ensaladas/Ensalada verde)
 
-[Arroz a la jardinera - Arroz con vegetales](/Acompañamientos/Arroz a la jardinera - Arroz con vegetales)
+[Arroz a la jardinera - Arroz con vegetales](/Acompañamientos/Arroz a la jardinera - Arroz con vegetales/)
 
-[Papas a las hierbas](/Acompañamientos/Papas a las hierbas)
+[Papas a las hierbas](/Acompañamientos/Papas a las hierbas/)
 
-[Puré de papa](/Acompañamientos/Puré de papa)
+[Puré de papa](/Acompañamientos/Puré de papa/)

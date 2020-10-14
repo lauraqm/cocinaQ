@@ -7,7 +7,7 @@ date: "2020-08-13T22:12:03.284Z"
 cooktime: "25"
 utensils: "pan"
 ---
-Una forma bastante rapida de preparar algo diferente y muy saludable! Una receta para los que están cansados se comerse un filete de pollo muy frecuentemente, aquí les enseñamos como transformar ese filete en algo delicioso!
+Una forma bastante rapida de preparar algo diferente y muy saludable! Una receta para los que están cansados se comerse un filete de pollo muy frecuentemente, aquí les enseñamos como transformar ese filete en un delicioso wrap!
 
 ### Ingredientes
 

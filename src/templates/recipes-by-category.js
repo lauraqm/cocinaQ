@@ -42,13 +42,13 @@ const RecipesByCategory = ({ pageContext, data, location }) => {
       </div>
     );
   } 
-  debugger
+  
   let title;
   title = pageContext.category;
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Recetas costarricenses" />
+      <SEO title={`Recetas costarricenses: ${title}`}description={ `Recetas de ${title}`} />
       <Helmet title={title} defer={false} />
       <div className='recipe-index'>
         {result}

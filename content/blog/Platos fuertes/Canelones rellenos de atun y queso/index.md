@@ -8,7 +8,7 @@ servings: "3"
 cooktime: "50"
 utensils: "oven,pyrex"
 ---
-Hace un tiempo durante Semana Santa ya estaba cansada de comer atún y pescado, entonces me puse creativa y salieron estos delciosos canelones que ahora se comen en casa cada vez que nos antojamos!
+Hace un tiempo durante Semana Santa ya estaba cansada de comer atún y pescado, entonces me puse creativa y salieron estos delciosos canelones rellenos que ahora se comen en casa cada vez que nos antojamos de una comida sin carne!
 
 
 **Esta receta requiere horno. Y rinde para entre 6 y 8 canelones**

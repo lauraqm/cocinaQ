@@ -23,8 +23,8 @@ const Traditional = (props) => {
       />
       <Helmet title="Típicos costarricenses" defer={false} />
       <div className="description">
-        <p>En esta sección podrás encontrar una selección de recetas de los platos más famosos de la gastronomía costarricense, elaborados de la manera más típica y casera posible, los cuales se han transmitido 
-          de generación en generación. 
+        <p>En esta sección podrás encontrar una selección de recetas de los platos costarricenses más famosos, elaborados de la manera más típica y casera posible, los cuales se han transmitido 
+          de generación en generación. ¡Simplemente un gusto para el paladar!
         </p>
       </div>
       

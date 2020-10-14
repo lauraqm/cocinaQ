@@ -9,7 +9,7 @@ cooktime: "80"
 utensils: "pot"
 ---
 
-Ensalada proviniente de Rusia como su nombre lo indica pero es muy utilizada en el resto del mundo. En Costa Rica es infaltable en las fiestas para acompañar el arroz con pollo.
+Ensalada proviniente de Rusia como su nombre lo indica pero es muy utilizada en el resto del mundo. En Costa Rica, la ensalada Rusa es infaltable en las fiestas para acompañar el arroz con pollo.
 
 ### Ingredientes:
 

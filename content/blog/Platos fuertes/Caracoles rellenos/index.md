@@ -44,6 +44,6 @@ utensils: "pressionPot,pot,oven,pyrex"
 
 **Nota**: Se puede acompañar con alguna de las siguientes ensaladas:
 
-[Ensalada capresse](/Ensaladas/Ensalada capresse/Ensalada capresse)
+[Ensalada capresse](/Ensaladas/Ensalada capresse/)
 
-[Ensalada verde](/Ensaladas/Ensalada verde/Ensalada verde)
+[Ensalada verde](/Ensaladas/Ensalada verde/)

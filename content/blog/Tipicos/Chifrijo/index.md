@@ -30,7 +30,7 @@ Chifrijo tico, una genialidad hecha platillo! Cuenta la historia que un dueño d
 
 Hacer el pico de gallo con los olores picados, el tomate y el limón. [Ver receta aquí](/Ensaladas/Pico de gallo)
 
-Los chicharrones ya deben estar cocinados y pueden reutilizarse chicharrones añejos también. [Ver receta aquí](/Platos fuertes/Chicharrones)
+Los chicharrones ya deben estar cocinados y pueden reutilizarse chicharrones añejos también. [Ver receta aquí](/Tipicos/Chicharrones/)
 
 Una vez que tenemos los frijoles, el pico de gallo y los chicharrones procedemos a hacer el chifrijo de la siguiente forma:
 

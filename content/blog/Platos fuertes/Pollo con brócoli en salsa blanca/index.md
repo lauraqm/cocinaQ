@@ -8,7 +8,7 @@ servings: "2"
 cooktime: "20"
 utensils: "pan"
 ---
-Pollo con brocoli en salsa blanca o bechamel, en esta receta lo hacemos con un paquetito de Magui por facilidad, pero también se puede hacer la salsa bechamel desde cero. Un plato magnífico para integral el brócoli (que a muchos no les gusta) y que pase desapercibido.
+Pollo con brócoli en salsa blanca o bechamel, en esta receta lo hacemos con un paquetito de Magui por facilidad, pero también se puede hacer la salsa bechamel desde cero. Un plato magnífico para integral el brócoli (que a muchos no les gusta) y que pase desapercibido.
 
 ### Ingredientes
 

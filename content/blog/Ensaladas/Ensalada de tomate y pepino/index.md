@@ -28,4 +28,4 @@ Una variación del pico de gallo que utilizamos en latinoamérica para acompaña
 5. Revolver bien.
 6. Agregar un poquito de sazón completo.
 7. Agregar sal al gusto y revolver.
-8. Listo!
+8. Listo! Si gustas una ensalada con un poco más de presentación puedes servirla encima de una hoja de lechuga.

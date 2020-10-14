@@ -9,7 +9,7 @@ cooktime: "130"
 utensils: "oven,pyrex"
 ---
 
-Conocido popularmente como Lomo Fingido o Lomo Falso, es una receta que requiere pocos ingredientes pero mucho tiempo, y el resultado simplemente es maravilloso!
+Conocido popularmente como Lomo Fingido o Lomo Falso. En Estados Unidos y Canadá se conoce popularmete como  Meat Loaf o Bollo de Carne por su semejanza a un boolo de pan arrollado. Es una receta que requiere pocos ingredientes pero mucho tiempo, sin embargo el resultado simplemente es maravilloso!
 
 ## Ingredientes
 
@@ -66,4 +66,4 @@ Conocido popularmente como Lomo Fingido o Lomo Falso, es una receta que requiere
 
 [Puré de papa](/Acompañamientos/Puré de papa)
 
-[Arroz a la jardinera - Arroz con vegetales](/Acompañamientos/Arroz a la jardinera - Arroz con vegetales)
+[Arroz a la jardinera - Arroz con vegetales](/Acompañamientos/Arroz a la jardinera - Arroz con vegetales/)

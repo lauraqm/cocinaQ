@@ -11,7 +11,7 @@ Muchas personas se han preguntado siempre: ¿Cómo calentar arroz sin que quede 
 
 La mayoría de los ticos basamos nuestra dieta en arroz, pero no siempre tenemos tiempo de hacer arroz fresco todos los días, pero hay que ser realista que el arroz recalentado no sabe igual.
 
-Sin embargo hay un truco que puede ayudarnos a calentar el arroz en el microondas y que sepa mucho mejor y que no tome textura chiclosa o tieza.
+Sin embargo hay un truco que puede ayudarnos a calentar el arroz adecuadamente en el microondas y que sepa mucho mejor y que no tome textura chiclosa o tieza.
 
 La razón principal por la cual el arroz, el pan y la mayoría de comidas quedan como tiezas o chiclosas después de pasar por el microondas, es porque los alimentos pierden el agua o la humedad que hay en ellos. Entonces para prevenir esto necesitamos 2 cosas: un vasito o envase pequeño de plástico (ojala libre de BPA) o vidrio y una tapa para microondas.
 

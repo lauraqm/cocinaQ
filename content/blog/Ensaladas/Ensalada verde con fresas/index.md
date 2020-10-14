@@ -30,4 +30,4 @@ Tradicional ensalada verde con un nuevo elemento dulce y ácido al mismo tiempo:
 4. Cortar el queso Turrialba en cubitos pequeños.
 5. Rallar la zanahoria.
 6. Agregar el maíz dulce.
-7. Mezclar todo esto y agregar aderezo italiano
+7. Mezclar bien la ensalada y agregar aderezo italiano al gusto.

@@ -27,5 +27,5 @@ utensils: "shredder"
 5. Mezclar todo eso bien y cuidar que las rodajas queden sueltas (no pegadas entre ellas).
 6. Agregar sal al gusto.
 7. Agregar el jugo de los limones.
-8. Tiene que quedar bien llenita de limón, al menos debe llegar a la mitad o un poco menos de la altura del tazón o al menos así me gusta a mi.
-9. Listo
+8. Tiene que quedar bien llenita de limón (al menos debe llegar a la mitad o un poco menos de la altura del tazón o al menos así me gusta a mi para que el repollo se suavice un poco).
+9. Servir la ensalada escurriendo un poco el caldo.

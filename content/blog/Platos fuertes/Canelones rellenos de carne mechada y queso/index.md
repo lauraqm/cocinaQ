@@ -8,7 +8,7 @@ servings: "4"
 cooktime: "80"
 utensils: "pressionPot,pot,oven,pyrex"
 ---
-Canelones que le hacen la boca agua a cualquiera que los ve! Son la combinación perfecta de pasta y carne mechada. Simplemente un lujo hecho comida!
+¡Canelones que le hacen la boca agua a cualquiera que los ve! Son la combinación perfecta de pasta y carne, si tenemos un sobrante de carne en salsa podemos usarla para el relleno. ¡Simplemente un lujo hecho comida!
 
 **Esta receta requiere horno.**
 
@@ -18,7 +18,7 @@ Canelones que le hacen la boca agua a cualquiera que los ve! Son la combinación
 - Queso pizzero (bastante)
 - Salsa de tomate Prego Tradicional o 4 Naturas (bastante)
 - Carne para mechar: esta debe hacerse igual que si fuera carne mechada en salsa de tomate. Ver lista de ingredientes en la siguiente receta.
-[Carne mechada en salsa de tomate](/Platos fuertes/Carne mechada en salsa de tomate/Carne mechada en salsa de tomate/)
+[Carne mechada en salsa de tomate](/Platos fuertes/Carne mechada en salsa de tomate/)
 
 ## Indicaciones:
 
@@ -36,8 +36,8 @@ Canelones que le hacen la boca agua a cualquiera que los ve! Son la combinación
 
 **Nota**: Acompañar de un vino tinto (Cabernet Sauvignon y Merlot) y alguna de las siguientes ensaladas:
 
-[Ensalada capresse](/Ensaladas/Ensalada capresse/Ensalada capresse)
+[Ensalada capresse](/Ensaladas/Ensalada capresse/)
 
-[Ensalada verde con fresas](/Ensaladas/Ensalada verde con fresas/Ensalada verde con fresas)
+[Ensalada verde con fresas](/Ensaladas/Ensalada verde con fresas/)
 
-[Ensalada verde](/Ensaladas/Ensalada verde/Ensalada verde)
+[Ensalada verde](/Ensaladas/Ensalada verde/)

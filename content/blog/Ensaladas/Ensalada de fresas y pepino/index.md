@@ -26,4 +26,4 @@ cooktime: "15"
 3. Agregar queso Turrialba cortado en cuadritos pequeños.
 4. Agregar el queso cottage.
 5. En un recipiente aparte se hace el aderezo: mezclar el vinagre, el aceite, la sal y el limon.
-6. Servir y agregar aderezo al gusto.
+6. Servir la ensalada y agregar aderezo al gusto.

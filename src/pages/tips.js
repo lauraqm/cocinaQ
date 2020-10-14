@@ -5,7 +5,8 @@ import { Helmet } from "react-helmet";
 import { graphql } from "gatsby";
 import Bio from "../components/bio";
 import Layout from "../components/layout";
-import TipCard from "../components/tipCard"
+import TipCard from "../components/tipCard";
+import SEO from "../components/seo";
 
 const Tips = ({ pageContext, data, location }) => {
   const siteTitle = data.site.siteMetadata.title;
@@ -13,6 +14,7 @@ const Tips = ({ pageContext, data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
+      <SEO title="Tips de cocina"  description="Tips de cocina valiosos para principiantes"/>
       <Helmet title="Tips de cocina" defer={false} />
       <div>
         <p>Uno de los factores que hacen que las personas se sientan abrumadas por la cocina, es que 
@@ -35,8 +37,6 @@ const Tips = ({ pageContext, data, location }) => {
     </Layout>
   );
 };
-
-
 
 export default Tips;
 

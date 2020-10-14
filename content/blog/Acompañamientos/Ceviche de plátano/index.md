@@ -12,7 +12,7 @@ El mejor compañero para unos chicharrones, carne asada o incluso pollo frito! E
 
 ### Ingredientes:
 
-- 6 Bananos verdes
+- 6 Bananos verdes o plátanos
 - Chile, cebolla, culantro
 - Salsa de tomate ketchup
 - Sal
@@ -22,7 +22,7 @@ El mejor compañero para unos chicharrones, carne asada o incluso pollo frito! E
 
 ### Indicaciones:
 
-1. Pelar los bananos (deben estar bien verdes).
+1. Pelar los bananos/plátanos (deben estar bien verdes).
 
     1.1 Untarse bastante aceite de cocina en las manos para evitar que la mancha del banano se le pegue en las manos.
 

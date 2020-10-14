@@ -46,5 +46,5 @@ La receta está especificada para una quesadilla, de manera que si desea hacer p
 
 [Pico de gallo](/Ensaladas/Pico de gallo)
 
-[Guacamole](/Acompañamientos/Guacamole)
+[Guacamole](/Acompañamientos/Guacamole/)
 

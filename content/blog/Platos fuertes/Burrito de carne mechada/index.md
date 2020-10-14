@@ -25,7 +25,7 @@ Un burrito cargado de sabor, originalmente los burritos mexicanos llevan arroz y
 - 1 paquete de frijoles molidos mediano
 - Palillos de dientes.
 - Natilla (opcional)
-- Aguacate o [guacamole](/Acompañamientos/Guacamole/) (opcional)
+- Aguacate o [guacamole](/Acompañamientos/Guacamole/) (opcional)
 
 ### Indicaciones
 

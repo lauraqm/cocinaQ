@@ -60,7 +60,7 @@ const AllRecipes = ({ data, location }) => {
  
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Recetas costarricenses" />
+      <SEO title="Recetas costarricenses" description="Indice de recetas costarricense y del mundo" />
       <Helmet title="Todas las recetas" defer={false} />
       <div>
         <p>Encuentra aquí todas nuestras recetas, puedes buscar por título o por ingrediente</p>
@@ -70,7 +70,6 @@ const AllRecipes = ({ data, location }) => {
         const title = node.frontmatter.title || node.fields.slug;
         return (
           <React.Fragment>
-            <SEO title={node.frontmatter.title}  />
             <article key={node.fields.slug} style={{ marginTop: `40px` }}>
               <header>
                 <h3 style={{ marginBottom: rhythm(1 / 4) }}>

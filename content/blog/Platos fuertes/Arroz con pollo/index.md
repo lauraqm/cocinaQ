@@ -58,4 +58,4 @@ El infaltable de las fiestas de cumpleaños, arroz arreglado con pollo y vegetal
 
 [Ensalda de papa](/Ensaladas/Ensalda de papa)
 
-[Frijolitos molidos caseros](/Acompañamientos/Frijolitos molidos caseros)
+[Frijolitos molidos caseros](/Acompañamientos/Frijolitos molidos caseros/)

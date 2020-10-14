@@ -28,3 +28,4 @@ Con 2 tipos de lechugas y aguacate, es una ensalada fresca ideal para acompañar
 3. Cortar el pepino en cuadritos.
 4. Cortar el pepino en cuadritos.
 5. Poner todo en un tazón y agregar maíz dulce, limón y sal.
+6. Servir la ensalda y disfrutar como acompañamiento.

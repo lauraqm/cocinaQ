@@ -8,7 +8,7 @@ servings: "2"
 cooktime: "35"
 utensils: "pot,pan"
 ---
-Una receta ideal para cuando queremos algo rico y saludable! Incluso frías saben bien, como snack, como cena o como acompañamiento!
+Una receta ideal para cuando queremos algo rico y saludable! Incluso frías saben bien, como snack, como cena o como acompañamiento! Muchas veces no sabemos como hacer que los niños coman brócoli o coliflor, estoy segura que esta receta les encantará.
 
 ### Ingredientes:
 

@@ -36,5 +36,5 @@ Los ticos somos amantes a los chicharrones, tanto que cuando pasamos algun tiemp
 
 [Pico de gallo](/Ensaladas/Pico de gallo)
 
-[Ceviche de plátano](/Acompañamientos/Ceviche de plátano)
+[Ceviche de plátano](/Acompañamientos/Ceviche de plátano/)
 

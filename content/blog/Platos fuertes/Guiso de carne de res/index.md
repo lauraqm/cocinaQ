@@ -36,9 +36,9 @@ Excelente opción para todos aquellos que amamos la olla de carne pero a veces n
 11. Probar si tiene suficiente sal, sino agregar más sal, sazón completo e incluso un poquito de cola de res.
 12. Agregar achiote.
 13. Cocinar las papas hasta que estén un poco suaves.
-14. Agregar la carne en trozos (sin desmechar)
+14. Agregar la carne en trozos (sin desmechar).
 15. Agregar la zanahoria y esperar a que se cocine (que no quede super suave ni dura)
 16. Esperar a que la papa y la zanahoria estén bien cocinadas.
-17. Listo!
+17. Una vez que todo esta suave, nuestro guiso estará listo!
 
 **Nota**: Servir con arroz blanco fresco y es una delicia!

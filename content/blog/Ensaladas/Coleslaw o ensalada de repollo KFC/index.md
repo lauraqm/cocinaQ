@@ -9,7 +9,7 @@ cooktime: "20"
 utensils: "shredder"
 ---
 
-Esta ensalada es la que conocemos como la ensalada de KFC que es de repollo y mayonesa con un sabor dulce que hace que sea muy agradable al paladar. Ampliamente usada en el mundo para acompañar carnes, para usar en sándwiches o simplemente como entrada.
+Esta ensalada es la que conocemos como la ensalada de KFC que es de repollo y mayonesa con un sabor dulce que hace que sea muy agradable al paladar. Es conocida como Coleslaw  y es ampliamente usada en el mundo para acompañar carnes, para usar en sándwiches o simplemente como entrada.
 
 ### Ingredientes:
 
