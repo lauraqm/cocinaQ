@@ -1,7 +1,7 @@
 ---
 title: Gallo Pinto
 description: El gallo pinto es quizá el platillo más tico! 
-categories: Típicos costarricenses
+categories: Típicos costarricenses,Desayunos
 tags: Costa Rica, costarricense, Plato fuerte, tradicional, gallo pinto
 date: "2020-09-14T22:12:03.284Z"
 image: "https://res.cloudinary.com/dwb6ecajn/image/upload/c_scale,w_500/v1600064759/cocinaQ/Gallo%20Pinto/Gallo_Pinto_4_-main_vr4whi.jpg"

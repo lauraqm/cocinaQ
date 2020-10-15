@@ -118,13 +118,6 @@ const categoryData = [
       "Acompañamientos varios para servir con nuestros platos principales",
   },
   {
-    title: "Sánwiches",
-    image: "https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=400&q=80",
-    alt: "recetas-sandwiches",
-    metadata: "Los infalibles sandwiches que pueden utilizarse desde el desayuno hasta la cena",
-    disable: true,
-  },
-  {
     title: "Desayunos",
     image:
       "https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=400&q=80",
@@ -133,6 +126,14 @@ const categoryData = [
       "La mejor forma de empezar el día sin duda es con un buen desayuno, aquí encontrarás buenas ideas para variar las tradicionales",
     disable: true,
   },
+  {
+    title: "Sánwiches",
+    image: "https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=400&q=80",
+    alt: "recetas-sandwiches",
+    metadata: "Los infalibles sandwiches que pueden utilizarse desde el desayuno hasta la cena",
+    disable: true,
+  },
+  
 
   // {
   //   title: "Dips y cremas",
