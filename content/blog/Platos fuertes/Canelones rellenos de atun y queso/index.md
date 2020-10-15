@@ -18,10 +18,10 @@ Hace un tiempo durante Semana Santa ya estaba cansada de comer atún y pescado, 
 - 6 Canelones
 - Atún en aceite
 - 1 tarrito de queso crema.
-- Queso parmesano
+- 1/4 taza de queso parmesano
 - Chile, cebolla, culantro
 - 1/2 lata de maíz dulce
-- Queso pizzero.
+- 1/2 Queso pizzero
 
 Se puede utilizar alguna de las siguientes salsas:
 
@@ -35,13 +35,13 @@ Se puede utilizar alguna de las siguientes salsas:
 2. Escurrir, agregar agua fría y volver a escurrir.
 3. En un tazón mezclar el atún bien escurrido, el chile, la cebolla y el culantro bien picado.
 4. Agregar  esta mezcla el queso crema y el maíz dulce bien escurrido.
-5. Agregar aproximadamente 1/2 taza de queso parmesano y 1/2 de queso pizzero.
-6. Mezclar bien hasta obtener una mezcla bien homogenea.
+5. Agregar aproximadamente 1/4 taza de queso parmesano y la mitad del queso pizzero.
+6. Mezclar bien hasta obtener una mezcla bien homogenéa.
 7. Rellenar la pasta con la mezcla de atún. Generalmente el canelón después de cocinarse se "queda aplastado". Entonces para rellenarlo se toma con los dedos y se oprime en direccion opuesta para que se abra. Esto se puede hace poniendo un extremo del canelón en la palma de la mano (para que no se salga el relleno) y presionando con el dedo indice y el pulgar el canelón para abrirlo.
 8. Poner en un pyrex un poquito de salsa en el fondo (para que no se peguen los canenoles.
 9. Poner encima de esa salsa los canelones.
 10. Bañarlos en salsa por encima.
-11. Poner una capa de queso pizzero.
+11. Poner una capa de queso con la otra mitad del queso pizzero.
 12. Llevar al horno a 350º unos 20 minutos.
 13. Poner el horno en 550º en la función de dorar y hornear por unos 5 min o hasta que tomen un color doradito.
 14. Listo

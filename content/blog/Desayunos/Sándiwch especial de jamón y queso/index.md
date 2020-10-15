@@ -1,5 +1,5 @@
 ---
-title: Sandwich de jamón y queso especial
+title: Sándiwch especial de jamón y queso
 description: Esta receta es un sandwich de jamón y queso pero con una variante que lo transforma!
 categories: Desayunos
 tags: Costa Rica, costarricense, jamón, queso, sandwich, desayuno
@@ -12,10 +12,10 @@ Esta receta es un sandwich de jamón y queso pero con una variante que lo transf
 
 ## Ingredientes:
 
-- Pan blanco
-- Jamon
-- Queso blanco en slices.
-- Huevo.
+- 4 tajadas de pan blanco
+- 4 tajadad de jamón
+- Queso mozarella en tajaditas.
+- 2 Huevos.
 - Sal.
 - Opcional: queso pizzero rallado
 
