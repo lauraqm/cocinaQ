@@ -124,7 +124,7 @@ const categoryData = [
     alt: "recetas-desayunos",
     metadata:
       "La mejor forma de empezar el día sin duda es con un buen desayuno, aquí encontrarás buenas ideas para variar las tradicionales",
-    disable: true,
+    disable: false,
   },
   {
     title: "Sánwiches",

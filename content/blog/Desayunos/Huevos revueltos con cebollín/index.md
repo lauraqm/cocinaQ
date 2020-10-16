@@ -11,19 +11,19 @@ utensils: "pan"
 
 ## Ingredientes:
 
-- Huevos
-- Leche
-- Cebolla
-- Cebollín
+- 3 Huevos
+- 50 ml de leche
+- Cebolla al gusto
+- 2 ramitas de cebollín
 - Sal
 
 ## Indicaciones:
 
 1. Echar en una tazita los huevos, y luego revolverlos bien con ayuda de un tenedor o un batidor de mano.
-2. Agregar un poquito de leche (unos 50 ml por cada huevo)
-3. Poner en un sartén a fuego medio-alto un poquito de cebolla picada al gusto y sofreír con aceite en spray o aceite vegetal.
-4. Agregar los huevos.
-5. Agregar sal al gusto.
+2. Agregar la leche.
+3. Agregar sal al gusto.
+4. Poner en un sartén a fuego medio-alto un poquito de cebolla picada al gusto y sofreír con aceite en spray o aceite vegetal.
+5. Agregar los huevos.
 6. Picar un poquito de cebollines al gusto.
 7. Cocinar hasta que tengan consistencia firme pero no seca.
 8. Listo

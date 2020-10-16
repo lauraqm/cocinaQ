@@ -13,10 +13,10 @@ Casi todos conocemos los huevos rancheros o los huevos a caballo, pero ¿conoces
 
 ## Ingredientes:
 
-- Huevos
-- Tortillas
-- Aguacates
-- Salsa de tomate Naturas Rancheras o bien una mezcla de Prego y Chuncky
+- 2 uevos
+- 2 Tortillas
+- 1 Aguacate
+- 1 Salsa de tomate Naturas Rancheras o bien una mezcla de Prego y Chuncky
 - Cebolla, chile, culantro.
 - Jamón
 - Aceite vegetal

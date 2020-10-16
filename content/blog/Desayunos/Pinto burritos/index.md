@@ -13,12 +13,12 @@ utensils: "pan"
 
 ## Ingredientes:
 
-- Gallo pinto previamente cocinado (puede ser en la refrigeradora) [Ver receta aquí](/Tipicos/Gallo pinto/)
-- Tortilla de harina para burritos
+- 3/4 de taza de gallo pinto previamente cocinado (puede ser en la refrigeradora) [Ver receta aquí](/Tipicos/Gallo pinto/)
+- 2 tortillas de harina para burritos
 - Natilla
-- Queso que derrita rallado.
+- 1/2 taza de queso rallado que derrita.
 - Huevos revueltos previamente preparados.
-- Aguacate
+- 1 Aguacate
 - Palillos de dientes.
 
 ## Indicaciones:

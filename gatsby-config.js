@@ -120,7 +120,7 @@ module.exports = {
         apiSecret: process.env.CLOUDINARY_API_SECRET,
         resourceType: `image`,
         prefix: 'cocinaQ/',
-        maxResults: 2000
+        maxResults: 5000
       }
     },
     {
