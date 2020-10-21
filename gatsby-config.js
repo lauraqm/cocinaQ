@@ -112,8 +112,16 @@ module.exports = {
         },
       },
     },
+    
     {
-      resolve: `gatsby-source-cloudinary`,
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-176742320-1",
+      },
+    },
+    
+    {
+      resolve: require.resolve(`./plugins/my-gatsby-source-cloudinary`),
       options: {
         cloudName: process.env.CLOUDINARY_CLOUD_NAME,
         apiKey: process.env.CLOUDINARY_API_KEY,
@@ -123,14 +131,6 @@ module.exports = {
         maxResults: 5000
       }
     },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-176742320-1",
-      },
-    },
-    
-  
     
   ],
 }
