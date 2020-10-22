@@ -120,7 +120,7 @@ const categoryData = [
   {
     title: "Desayunos",
     image:
-      "https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=400&q=80",
+    "https://images.unsplash.com/photo-1603346170783-3e774ae7c715?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80",
     alt: "recetas-desayunos",
     metadata:
       "La mejor forma de empezar el día sin duda es con un buen desayuno, aquí encontrarás buenas ideas para variar las tradicionales",

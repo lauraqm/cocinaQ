@@ -1,9 +1,10 @@
 ---
 title: Bizcocho de queso
 description: Los bizcochos de queso son una herencia Guanacasteca a la gastronomía costarricense que definitivamente hay que probar
-categories: Desayunos,Panes
+categories: Desayunos,Panes,Típicos costarricenses
 tags: Costa Rica, costarricense, bizcocho, queso, desayuno
-date: "2020-10-14T22:12:03.284Z"
+date: "2020-10-21T22:12:03.284Z"
+image: "https://res.cloudinary.com/dwb6ecajn/image/upload/c_scale,w_500/v1602799688/cocinaQ/Bizcocho%20de%20queso/bizcocho-main_vwxuuu.jpg"
 servings: "2"
 cooktime: "40"
 utensils: "oven,pyrex"
