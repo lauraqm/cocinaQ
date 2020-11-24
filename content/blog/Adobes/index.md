@@ -194,7 +194,7 @@ Probar que queden bien de sal porque al agregar huevo y masa se puede perder un 
 
 Nota: se debe aplanar y suavizar con un mazo
 
-## Chuletas de cerdo o posta 🍖 {#posta}
+## Chuletas de cerdo, posta o chicharrones 🍖 {#posta}
 
 - Sal
 - Ajo en polvo
@@ -207,6 +207,7 @@ Nota: se debe aplanar y suavizar con un mazo
 - Orégano
 - Pimienta
 - Comino
+- Poquito de achiote si se desea un color más dorado.
 
 ## Costillas de cerdo BBQ 🍖 {#costillas-bbq}
 
