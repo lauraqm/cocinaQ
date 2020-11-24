@@ -1,5 +1,5 @@
 ---
-title: Chicharrones
+title: Chicharrones costarricenses
 description: Los tradicionales chicharrones al estilo costarricense
 categories: Típicos costarricenses,Platos fuertes
 tags: Costa Rica, costarricense, Plato fuerte, tradicional

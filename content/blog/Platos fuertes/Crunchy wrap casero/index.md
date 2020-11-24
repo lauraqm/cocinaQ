@@ -1,5 +1,5 @@
 ---
-title: Crunchy wrap
+title: Crunchy wrap casero
 description: Nuestra versión de este platillo que sirven en TacoBell pero mejorada!
 categories: Platos fuertes
 tags: Costa Rica, Tacobell, Crunchy wrap

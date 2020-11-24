@@ -29,8 +29,8 @@ Este tipo de carne mechada de cerdo a la BBQ o como se conoce en otros paises co
 
 **Nota**: Esta carne se usa en sandwiches o bien acompañada de las siguientes guarniciones:
 
-[Papas a las hierbas](/Acompañamientos/Papas a las hierbas)
+[Papas a las hierbas](/Acompañamientos/Papas a las hierbas/)
 
-[Puré de papa](/Acompañamientos/Puré de papa)
+[Puré de papa](/Acompañamientos/Puré de papa/)
 
 [Coleslaw o ensalada de repollo KFC](/Ensaladas/Coleslaw o ensalada de repollo KFC)

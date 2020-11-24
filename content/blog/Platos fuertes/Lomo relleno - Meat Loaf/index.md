@@ -62,8 +62,8 @@ Conocido popularmente como Lomo Fingido o Lomo Falso. En Estados Unidos y Canad�
 
 [Ensalada verde con aguacate](/Ensaladas/Ensalada verde con aguacate)
 
-[Papas a las hierbas](/Acompañamientos/Papas a las hierbas)
+[Papas a las hierbas](/Acompañamientos/Papas a las hierbas/)
 
-[Puré de papa](/Acompañamientos/Puré de papa)
+[Puré de papa](/Acompañamientos/Puré de papa/)
 
 [Arroz a la jardinera - Arroz con vegetales](/Acompañamientos/Arroz a la jardinera - Arroz con vegetales/)
