@@ -18,7 +18,7 @@ Pizza suprema casera, nada que envidiarle a la que solemos comprar! Un gusto con
 - 1 cucharadita de azúcar
 - 1 cucharadita de sal
 - 10 gramos de levadura
-- Hierbas provenzales
+- Hierbas provenzales al gusto: tomillo, oregano, perejil, romero, albahaca
 - 4 cucharadas de aceite de oliva
 - 1 taza de agua tibia
 - Tazón de vidrio
@@ -27,13 +27,13 @@ Pizza suprema casera, nada que envidiarle a la que solemos comprar! Un gusto con
 
 ### Para el relleno:
 
-- Queso pizzero
-- Salsa de tomate Prego Italiana o tradicional
-- Carne molida italiana o carne molida normal adobada como se indica aquí: [Adobes](/Adobes/#res)
+- Queso pizzero al gusto.
+- Salsa de tomate Prego Italiana o tradicional pequeña.
+- 400 gramos de carne molida italiana o carne molida normal adobada como se indica aquí: [Adobes](/Adobes/#res)
 - Salami o peperonni (también puede ser jamón)
-- Cebolla
-- Chile dulce
-- Tocineta
+- Cebolla al gusto
+- Chile dulce al gusto.
+- 6 tajadas de tocineta
 - Opcional:Hongos y Queso en barritas para hacerle borde de queso
 
 ## Indicaciones
