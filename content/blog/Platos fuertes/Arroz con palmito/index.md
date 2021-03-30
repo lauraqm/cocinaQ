@@ -1,6 +1,6 @@
 ---
 title: Arroz con palmito
-description: Delicioso y tradicional arroz con palmito! U
+description: Delicioso y tradicional arroz con palmito!
 categories: Platos fuertes
 tags: Costa Rica, costarricense, palmito, arroz, queso, Semana Santa
 date: "2021-29-03T22:12:03.284Z"
@@ -10,7 +10,7 @@ utensils: "pot,pyrex,oven"
 ---
 Esta receta siempre es una buena opción para Semana Santa o para cuando tenemos invitados vegetarianos o simplemente queda genial para acompañar cualquier tipo de carne! Particularmente no soy muy fan del palmito pero tengo que aceptar que en esta receta simplemente es irresistible.
 
-### Ingredientes:
+### Ingredientes
 
 - 1 tarro de palmito mediano o palmito natural cocinado en agua con sal.
 - Chile, culantro y cebolla picados.
@@ -23,7 +23,7 @@ Esta receta siempre es una buena opción para Semana Santa o para cuando tenemos
 - Sazón completo
 - Opcional: Ajo y cebolla en polvo
 
-### Indicaciones:
+### Indicaciones
 
 1. En una olla, sofreír los olores con la mantequilla.
 2. Picar el palmito en cuadritos medianos.
