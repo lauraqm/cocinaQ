@@ -19,7 +19,7 @@ This is a personal project created to shared my own recipes with everyone. Visit
 
 3.  **URL to GraphiQL**
 
-    http://localhost:8000/___graphq
+    http://localhost:8000/___graphql
 
 
 4.  **Stop the server or kill the process develop mode**

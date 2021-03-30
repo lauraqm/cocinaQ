@@ -127,6 +127,14 @@ const categoryData = [
     disable: false,
   },
   {
+    title: "Postres",
+    image: "https://images.unsplash.com/photo-1617141321420-8e9b0beabb90?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
+    alt: "recetas-postres",
+    metadata:
+      "Una dulce tentación después de una buena comida!",
+    disable: false,
+  },
+  {
     title: "Sánwiches",
     image: "https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=400&q=80",
     alt: "recetas-sandwiches",
