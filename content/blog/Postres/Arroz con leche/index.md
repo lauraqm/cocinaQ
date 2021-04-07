@@ -16,7 +16,7 @@ Postre típico de Semana Santa en todas las casas costarricenses, es común en m
 - 3/4 de taza de arroz blanco crudo
 - 1 lata de leche condensada (puede ser ligth)
 - 1 lata de leche evaporada (puede ser ligth)
-- 100-150 ml de licor Baileys
+- 100 ml de licor Baileys
 - 1/2 cajita de crema dulce
 - Canela en polvo (tanto como quieras)
 - Nuez moscada en polvo (tanto como quieras)
