@@ -3,14 +3,14 @@ title: Empanadas en AirFryer
 description: Una forma más saludable de disfrutar unas deliciosas empanadas.
 categories: Desayunos
 tags: Costa Rica, costarricense, empanadas, airFryer
-date: "2021-04-18T22:12:03.284Z"
+date: "2021-04-18T22:11:03.284Z"
 servings: "4"
 cooktime: "60"
 utensils: "airFryer"
 ---
 
 
-## Ingredientes:
+## Ingredientes
 
 - 1 taza de masa
 - 3/4 taza de leche tibia
@@ -22,7 +22,7 @@ utensils: "airFryer"
 - Cosas para rellenar: frijoles molidos, queso, pollo, carne mechada, carne molida, ect.
 - 2 Gajos o cuadritos de bolsa plástica o papel encerado.
 
-## Indicaciones:
+## Indicaciones
 
 1. Hacer un cuadro de papel aluminio y forrar bien el fondo de la olla freidora de aire o AirFryer.
 2. Calentar la leche en el microondas hasta que este un poquito tibia.

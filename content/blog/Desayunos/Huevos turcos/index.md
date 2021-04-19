@@ -10,7 +10,7 @@ utensils: "pan"
 ---
 En lo personal nunca me ha gustado la apariencia de los huevos con tomate, si usted es de los mismos, esta es una mejor presentación para estos 2 ingredientes! Y super deliciosa por llevar queso!
 
-## Ingredientes:
+## Ingredientes
 
 - 3 huevos
 - 1 tomate mediano o 2 pequeños
@@ -21,7 +21,7 @@ En lo personal nunca me ha gustado la apariencia de los huevos con tomate, si us
 - 3/4 de taza de queso rallado mozzarella o alguno que derrita bien.
 - Opcional: Chile, cebolla y culantro
 
-## Indicaciones:
+## Indicaciones
 
 1. Revolver en un tazón los huevos.
 2. Agregar sal, perejil y pimienta al gusto.
