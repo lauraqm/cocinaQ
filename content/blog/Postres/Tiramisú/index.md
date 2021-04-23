@@ -10,8 +10,7 @@ utensils: "pyrex,mixer"
 ---
 Un postre dedicado a los amantes del café, si nunca lo has probado y amas el café, definitivamente tienes que hacerlo! En Costa Rica tenemos café de alta calidad y este Tiramisú es una buena forma de consumirlo!
 
-
-### Ingredientes:
+### Ingredientes
 
 - 2 claras de huevo
 - 4 yemas de huevo
@@ -20,18 +19,18 @@ Un postre dedicado a los amantes del café, si nunca lo has probado y amas el ca
 - 200 grm de bizcochos dulces o dedos de señora.
 - 1 cucharada de vainilla
 - 175 ml de café bien fuerte o espresso.
-- 200 gr de chocolate oscuro rallado
+- 50 gr de chocolate oscuro rallado
 - Cocoa en polvo para poner encima (decoración)
 - Opcional: Fresas para decorar o chocolate en lámina.
 - Opcional: Algún licor que combine con café (Kahlua, Amaretto, Baileys)
 
-### Indicaciones:
+### Indicaciones
 
 1. Preparar el café espresso o bien fuerte, endulzar con 2 cucharaditas de azúcar. Agregar licor si se dese
 2. Dejar enfriar completamente.
 3. Batir las claras de huevo a punto de nieve con ayuda de una batidora (hasta que se formen picos)
 4. Reservar las claras montadas a punto de nieve en un recipiente.
-5. Batir ahora las yemas de huevo con el azúcar hasta que tenga una consitencia espumosa.
+5. Batir ahora las yemas de huevo con el azúcar hasta que tenga una consitencia espumosa y se torne más claro. Luego agregar la vainilla.
 6. En este momento, empezar a agregar el queso mascarpone poco a poco y continuar batiendo.
 7. Agregar a la batidora, las clara de huevo que tenemos reservadas.
 8. Mezclar bien hasta que sea una mezcla homogénea.
