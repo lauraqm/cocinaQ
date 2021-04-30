@@ -28,7 +28,7 @@ Nota: si van a usar empanizador que ya trae sal no agregar mucha sal o sazón co
 ## Salmón, filetes de atún y trucha 🐟 {#salmon}
 
 - Aceite de oliva (ojalá robusto que es especial para marinar)
-- Sal
+- Sal himalaya
 - Ajo en polvo
 - Jugo de limón
 - Perejil
