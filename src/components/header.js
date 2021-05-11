@@ -58,7 +58,8 @@ class Header extends React.Component {
               <Menu.Item key="Tipicas">Típicas costarricenses</Menu.Item>
               <Menu.Item key="Desayunos">Desayunos</Menu.Item>
               <Menu.Item key="Postres">Postres</Menu.Item>
-              {/* <Menu.Item key="Sándwiches">Sándwiches</Menu.Item>
+              <Menu.Item key="Sandwiches">Sándwiches</Menu.Item>
+              {/* 
               <Menu.Item key="Dips y cremas">Dips y cremas</Menu.Item>
               <Menu.Item key="Panes tradicionales">Panes tradicionales</Menu.Item>
               <Menu.Item key="Salsas">Salsas</Menu.Item> */}
