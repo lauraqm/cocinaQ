@@ -1,5 +1,5 @@
 ---
-title: Ensalda de papa
+title: Ensalada de papa
 description: Ensalada de papa comunmente conocida en muchos países
 categories: Ensaladas
 tags: Costa Rica, ensalada, papa, Semana Santa, mostaza 

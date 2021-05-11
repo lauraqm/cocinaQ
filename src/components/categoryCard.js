@@ -135,12 +135,21 @@ const categoryData = [
     disable: false,
   },
   {
-    title: "Sánwiches",
+    title: "Sandwiches",
     image: "https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=400&q=80",
     alt: "recetas-sandwiches",
     metadata: "Los infalibles sandwiches que pueden utilizarse desde el desayuno hasta la cena",
+    disable: false,
+  },
+
+  {
+    title: "Batidos",
+    image: "https://images.unsplash.com/photo-1543573852-1a71a6ce19bc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
+    alt: "recetas-batidos",
+    metadata: "Las mejores combinaciones de frutas para hacer deliciosos batidos naturales",
     disable: true,
   },
+
   
 
   // {
@@ -152,11 +161,6 @@ const categoryData = [
   //   title: "Panes tradicionales",
   //   image: "https://images.unsplash.com/photo-1590368746679-a403ad57e684?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80",
   //   metadata: "Panes costarricenses tradicionales para hacer la hora del café"
-  // },
-  // {
-  //   title: "Postres",
-  //   image: "https://images.unsplash.com/photo-1476097297040-79e9e1603142?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=667&q=80",
-  //   metadata: "¡El pecado capital de todos! Muy dificil no ceder ante un dulce"
   // },
   // {
   //   title: "Salsas",

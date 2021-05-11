@@ -1,7 +1,7 @@
 ---
 title: Sándiwch especial de jamón y queso
 description: Esta receta es un sandwich de jamón y queso pero con una variante que lo transforma!
-categories: Desayunos
+categories: Desayunos,Sandwiches
 tags: Costa Rica, costarricense, jamón, queso, sandwich, desayuno
 date: "2020-10-14T22:12:03.284Z"
 servings: "2"
