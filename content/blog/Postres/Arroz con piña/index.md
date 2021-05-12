@@ -12,7 +12,7 @@ Este es un primo hermano del famosísimo arroz con leche pero un poco más tropi
 
 ## Ingredientes
 
-- 1 piña pequeña bien dulcita
+- 1 piña pequeña bien dulcita (ojalá organica o libre de químicos)
 - 1 lata de leche condensada
 - 1 lata de leche evaporada
 - Canela, nuez moscada y clavo de olor al gusto.
