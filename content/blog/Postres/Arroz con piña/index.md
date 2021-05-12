@@ -19,8 +19,8 @@ Este es un primo hermano del famosísimo arroz con leche pero un poco más tropi
 
 ## Indicaciones
 
-1. Lavar bien la piña por fuera y retirar la corona de la piña y descartar.
-2. Pelar la piña y poner las cáscaras y el corazón en una olla con bastante agua, al menos 3 litros y cocinarla a fuego alto por al menos 30 minutos después de que empieza a hervir. Esto va a generar un CALDO de piña que vamos a usar para cocinar el arroz.
+1. Lavar bien la piña por fuera (para quitar químicos o usar una orgánica) y retirar la corona de la piña y descartar.
+2. Pelar la piña y poner las cáscaras y el corazón en una olla con bastante agua, al menos 3 litros y cocinarla a fuego alto por al menos 30 minutos después de que empieza a hervir. Esto va a generar un CALDO de piña que vamos a usar para cocinar el arroz. Si no queremos utilizar la cáscara podemos comprar una piña más grande, sacar las 3 tazas y media que se ocupan para el resto de la receta y licuar lo que nos sobre y ponerlo a hervir con el corazón de la piña y así obtener el CALDO.
 3. Colar el CALDO de piña y descartar las cascáras.
 4. Cortar la piña en cubitos bien pequeños y licuar 2 tazas de piña con un poquitito de agua, apenas para que la licuadora haga un JUGO de piña (aproximadamente va a ser 1 taza de jugo)
 5. Colar el JUGO de piña y reservar.
