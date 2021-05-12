@@ -136,7 +136,7 @@ const categoryData = [
   },
   {
     title: "Sandwiches",
-    image: "https://images.unsplash.com/photo-1620771652946-4675c978dd12?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
+    image: "https://images.unsplash.com/photo-1550507992-eb63ffee0847?ixlib=rb-1.2.1&q=85&fm=jpg&auto=format&fit=crop&w=400&q=80",
     alt: "recetas-sandwiches",
     metadata: "Los infalibles sandwiches que pueden utilizarse desde el desayuno hasta la cena",
     disable: false,
