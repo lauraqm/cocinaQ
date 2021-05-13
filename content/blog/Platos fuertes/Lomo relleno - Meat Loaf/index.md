@@ -9,7 +9,7 @@ cooktime: "130"
 utensils: "oven,pyrex"
 ---
 
-Conocido popularmente como Lomo Fingido o Lomo Falso. En Estados Unidos y Canadá se conoce popularmete como  Meat Loaf o Bollo de Carne por su semejanza a un boolo de pan arrollado. Es una receta que requiere pocos ingredientes pero mucho tiempo, sin embargo el resultado simplemente es maravilloso!
+Conocido popularmente como Lomo Fingido o Lomo Falso. En Estados Unidos y Canadá se conoce popularmente como  Meat Loaf o Bollo de Carne por su semejanza a un bollo de pan arrollado. Es una receta que requiere pocos ingredientes pero mucho tiempo, sin embargo el resultado simplemente es maravilloso!
 
 ## Ingredientes
 
@@ -19,7 +19,7 @@ Conocido popularmente como Lomo Fingido o Lomo Falso. En Estados Unidos y Canad�
 - Chile dulce, cebolla, culantro
 - 1 Huevo
 - Leche
-- Salsa BBQ
+- Salsa BBQ (ojalá marca Kraft)
 - Queso en tajaditas (alguno de los siguientes mozarrella, pepper jack, monterrey jack)
 - Jamon de res
 - Papel aluminio
