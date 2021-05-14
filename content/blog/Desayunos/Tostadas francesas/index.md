@@ -1,7 +1,7 @@
 ---
 title: Tostadas francesas
 description: Las tostadas normales no tienen nada que ver con las francesas, descubre porqué...
-categories: Desayunos
+categories: Desayunos,Sandwiches
 tags: Costa Rica, costarricense, tostadas francesas, huevo, leche, canela
 date: "2020-10-14T22:12:03.284Z"
 servings: "2"
