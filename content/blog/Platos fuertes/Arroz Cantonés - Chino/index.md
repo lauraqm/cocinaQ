@@ -5,10 +5,10 @@ categories: Platos fuertes
 tags: Costa Rica, costarricense, camarones, arroz
 date: "2020-08-04T22:12:03.284Z"
 servings: "6"
-cooktime: "30"
+cooktime: "40"
 utensils: "pan"
 ---
-El arroz frito es característico de la cultura China, lo podemos encontrar en casi cualquier país donde hayan poblaciones chinas, sin embargo los Chinos que habitan en Costa Rica lo hacen de una manera que no he probado en ninguna otra parte del mundo, es pesadito en aceites y deliciosamente lleno de carnes y embutidos. Les dejo esta receta que me ha quedado bastante similar para no ser China!
+El arroz frito es característico de la cultura China, lo podemos encontrar en casi cualquier país donde hayan poblaciones chinas, sin embargo los Chinos que habitan en Costa Rica lo hacen de una manera que no he probado en ninguna otra parte del mundo, es pesadito en aceites y deliciosamente lleno de carnes y embutidos. Les dejo esta receta que me ha quedado bastante similar, tomando en cuenta que no soy China.
 
 ## Ingredientes:
 
@@ -34,6 +34,7 @@ El arroz frito es característico de la cultura China, lo podemos encontrar en c
 - 3 tazas de arroz cocinado previamente ojalá del día anterior y con poca sal.
 - Chile, cebolla y culantro al gusto.
 - 3 huevos enteros.
+- Opcional: brotes de frijol verde (frijoles nacido).
 
 ## Indicaciones:
 
@@ -67,5 +68,6 @@ El arroz frito es característico de la cultura China, lo podemos encontrar en c
 28. Doramos bien el arroz y cuando ya esté dorado y bien aceitado, agregamos salsa china o salsa de soya tanta como nos guste (entre más salsa más oscuro y más salado)
 29. Cuando ya esté del color que nos gusta, agregamos las carnes que tenemos mezcladas.
 30. Mezclar con el arroz y dorar tanto como nos guste.
-31. Agregar los cebollinos picados.
-32. Servir y disfrutar.
+31. Agregar los cebollinos picados y si se desea los frijoles verdes nacidos.
+32. Revolver hasta integrar todo y retirar rapido del fuego.
+33. Servir y disfrutar.
