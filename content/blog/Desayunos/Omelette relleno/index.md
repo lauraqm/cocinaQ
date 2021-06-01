@@ -8,7 +8,7 @@ cooktime: "20"
 utensils: "pan"
 ---
 
-Omelette relleno de jamón y queso perfecto para un desayuno nutritivo, cargado de sabor y acompañado con tortilla de nuestra preferencia, sin duda será una gran manera de empezar el día.
+Omelette relleno de vegetales, jamón y queso perfecto para un desayuno nutritivo, cargado de sabor y acompañado con tortilla o pan de nuestra preferencia, sin duda será una gran manera de empezar el día.
 
 ## Ingredientes:
 
