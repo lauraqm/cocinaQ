@@ -37,3 +37,11 @@ This is a personal project created to shared my own recipes with everyone. Visit
     ```shell
     gatsby build && gatsby serve
     ```
+
+
+Problems to fix: Adsense account does not work
+https://www.polynique.com/web-development/best-way-to-add-google-adsense-to-gatsby/
+https://www.idesignpixels.com/posts/adsense-in-gatsby
+https://plagiarismdetector.net/
+
+
