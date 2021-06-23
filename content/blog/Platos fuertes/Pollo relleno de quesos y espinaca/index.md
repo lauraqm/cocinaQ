@@ -13,7 +13,7 @@ Pechugas de pollo super jugosas y rellenas de queso crema, queso parmesano y esp
 
 ## Ingredientes:
 
-- 1 pechuga entera de pollo adobado a las hierbas y paprika
+- 1 pechuga entera de pollo adobado a las hierbas y paprika como se indica aquí: [Adobes](/Adobes/#pollo-hierbas)
 - 2 cucharadas grandes de queso crema
 - Un rollito de espinca
 - Ajo en polvo
@@ -27,7 +27,7 @@ Pechugas de pollo super jugosas y rellenas de queso crema, queso parmesano y esp
 ## Indicaciones:
 
 1. Cortar la pechuga del pollo a la mitad para obtener dos medias pechugas.
-2. Adobar las pechugas como se indica aquí y además agregar paprika para obtener un color mas agradable y dorado.
+2. Adobar las pechugas como se indica [aquí](/Adobes/#pollo-hierbas) y además agregar paprika para obtener un color mas agradable y dorado.
 3. Dejar marinar por al menos 2 horas o toda la noche.
 4. Picar las hojas de espinaca sin tallo lo mas finitas que se pueda.
 5. En un tazón mezclar el queso crema, el queso parmesano, la espinaca, sal, pimienta, cebolla en polvo y ajo en polvo. Mezclar bien hasta obtener una mezcla homogénea. 
