@@ -41,11 +41,11 @@ Pechugas de pollo super jugosas y rellenas de queso crema, queso parmesano y esp
 
 **Nota**: Se puede acompañar con alguna de las siguientes ensaladas:
 
+[Ensalada multicolor](/Ensaladas/Ensalada multicolor)
+
 [Ensalada verde](/Ensaladas/Ensalada verde)
 
 [Ensalada verde con fresas](/Ensaladas/Ensalada verde con fresas)
 
 [Ensalada tropical](/Ensaladas/Ensalada tropical)
-
-[Ensalda de papa](/Ensaladas/Ensalda de papa)
 
