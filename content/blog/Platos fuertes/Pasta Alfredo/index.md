@@ -11,8 +11,6 @@ utensils: "pot"
 
 Esta receta se puede hacer de dos formas: con pollo en cubitos o con camarones. De ambas formas es una receta sencilla, con pocos ingredientes pero un clásico de las pastas!
 
-**Rinde para 2 porciones**
-
 ### Ingredientes
 
 - 2 porciones de pasta de spaguettis
