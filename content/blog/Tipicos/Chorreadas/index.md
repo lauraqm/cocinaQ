@@ -22,7 +22,7 @@ Rinde para 12-14 chorreadas pequeñitas tipo pancakes, casi una por elote.
 
 ## Indicaciones
 
-1. Pelar los elotes bien y desgranarlos, para ello yo utilizo un cuchillo y corto todo lo que pueda de los granitos, ya que al ser tan tierno cuesta desgranar a mano.
+1. Pelar los elotes bien y desgranarlos, para ello yo utilizo un cuchillo y corto todo lo que pueda de los granitos, ya que al ser tan tierno cuesta desgranar a mano. También se puede usar un desgranador de maíz como este [Desgranador de maiz](https://amzn.to/3DZw69C)  
 2. Poner el maíz en un procesador de alimentos o una licuadora en "tandas" pequeñas para garantizar que quede bien molido. También se puede usar una maquina tradicional de moler maíz. Actualmente también existen licuadoras de inmersión lo cual facilitan el proceso tambien. Cuidar de no moler en exceso para que la chorreada tenga textura.
 3. Una vez que tenemos todo el maíz molido en un tazón,  agregar la mantequilla derretida, el azúcar y la harina.
 4. Mezclar bien de manera que obtengamos una mezcla homogénea.
