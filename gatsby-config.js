@@ -124,7 +124,6 @@ module.exports = {
         trackingId: "UA-176742320-1",
       },
     },
-    
     {
       resolve: require.resolve(`./plugins/my-gatsby-source-cloudinary`),
       options: {
